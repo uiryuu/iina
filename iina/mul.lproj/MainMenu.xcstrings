@@ -153,6 +153,7 @@
     },
     "1Xt-HY-uBw.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"IINA\"; ObjectID = \"1Xt-HY-uBw\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -993,6 +994,7 @@
     },
     "A9w-iE-gVg.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"GitHub\"; ObjectID = \"A9w-iE-gVg\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1203,6 +1205,7 @@
     },
     "AYu-sK-qS6.title" : {
       "comment" : "Class = \"NSMenu\"; title = \"Main Menu\"; ObjectID = \"AYu-sK-qS6\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -4587,6 +4590,7 @@
     },
     "uQy-DD-JDr.title" : {
       "comment" : "Class = \"NSMenu\"; title = \"IINA\"; ObjectID = \"uQy-DD-JDr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
