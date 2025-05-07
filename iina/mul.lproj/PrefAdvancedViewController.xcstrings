@@ -11,22 +11,10 @@
             "value" : "Additional mpv options"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Additional mpv options"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Additional mpv options"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "其他 mpv 選項"
+            "value" : "额外 mpv 选项"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Enable advanced settings"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable advanced settings"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable advanced settings"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用進階設定"
+            "value" : "启用高级设置"
           }
         }
       }
@@ -72,19 +48,7 @@
             "value" : "Logging"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Logging"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Logging"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Logging"
@@ -102,22 +66,10 @@
             "value" : "Settings"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "設定"
+            "value" : "设置"
           }
         }
       }
@@ -132,22 +84,10 @@
             "value" : "Name"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Name"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Name"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "選項"
+            "value" : "选项"
           }
         }
       }
@@ -162,22 +102,10 @@
             "value" : "Use config directory:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use config directory:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use config directory:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "使用設定檔檔案夾："
+            "value" : "使用配置目录:"
           }
         }
       }
@@ -192,19 +120,7 @@
             "value" : "Warning"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Warning"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Warning"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "警告"
@@ -223,19 +139,7 @@
             "value" : "~/.config/mpv/"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "~/.config/mpv/"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "~/.config/mpv/"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "~/.config/mpv/"
@@ -253,22 +157,10 @@
             "value" : "Debug"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Debug"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Debug"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "除錯"
+            "value" : "调试"
           }
         }
       }
@@ -283,22 +175,10 @@
             "value" : "The following settings will require restarting IINA to take effect."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "The following settings will require restarting IINA to take effect."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The following settings will require restarting IINA to take effect."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "您必須重新啟動 IINA 來讓以下所有設定生效。"
+            "value" : "以下所有设置需要重启 IINA 才会生效。"
           }
         }
       }
@@ -313,22 +193,10 @@
             "value" : "Open log directory"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Open log directory"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open log directory"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "打開日誌檔案夾"
+            "value" : "打开日志文件夹"
           }
         }
       }
@@ -344,19 +212,7 @@
             "value" : "~/.config/mpv/"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "~/.config/mpv/"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "~/.config/mpv/"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "~/.config/mpv/"
@@ -374,22 +230,10 @@
             "value" : "Enable logging to file"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable logging to file"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable logging to file"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄日誌"
+            "value" : "记录日志"
           }
         }
       }
@@ -404,22 +248,10 @@
             "value" : "Choose directory…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose directory…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose directory…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇檔案夾⋯"
+            "value" : "选择目录…"
           }
         }
       }
@@ -434,22 +266,10 @@
             "value" : "Log level:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Log level:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Log level:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Log等級："
+            "value" : "日志级别："
           }
         }
       }
@@ -464,22 +284,10 @@
             "value" : "Show log viewer"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show log viewer"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show log viewer"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "顯示log檢視器"
+            "value" : "显示日志查看器"
           }
         }
       }
@@ -494,19 +302,7 @@
             "value" : "Use mpv's OSD"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use mpv's OSD"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use mpv's OSD"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用 mpv 的 OSD"
@@ -524,22 +320,10 @@
             "value" : "Top"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Top"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Top"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "頂端"
+            "value" : "顶端"
           }
         }
       }
@@ -554,22 +338,10 @@
             "value" : "Settings"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "設定"
+            "value" : "设置"
           }
         }
       }
@@ -584,22 +356,10 @@
             "value" : "Verbose"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Verbose"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Verbose"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "詳細"
+            "value" : "详细"
           }
         }
       }
@@ -614,22 +374,10 @@
             "value" : "Error"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Error"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Error"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "錯誤"
+            "value" : "错误"
           }
         }
       }
@@ -644,19 +392,7 @@
             "value" : "Value"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Value"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Value"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "值"
@@ -674,22 +410,10 @@
             "value" : "Enable advanced settings"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable advanced settings"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable advanced settings"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用進階設定"
+            "value" : "启用高级设置"
           }
         }
       }
