@@ -7,35 +7,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gebruik stelsel se mediabeheer"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "استخدم تحكم الميديا الخاص بالنظام"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use system media control"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use system media control"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use system media control"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
@@ -43,32 +19,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utilitza els controls multimèdia del sistema"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Používat systémové multimediální klávesy"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brug system medie kontrol"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nutze Medienkontrolltasten des Systems"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Χρήση κουμπιών ελέγχου συστήματος"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "en" : {
@@ -77,79 +53,31 @@
             "value" : "Use system media control"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Use system media control"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utilizar los controles multimedia del sistema"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "از کنترل‌های چندرسانه‌ای سیستم استفاده شود"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Käytä järjestelmän mediaohjausta"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utiliser les touches média système"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "השתמש בבקרת המדיה של המערכת"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "सिस्टम मीडिया नियंत्रण का उपयोग करें"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristi sustavsko upravljanje medijima"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rendszer média vezérlők használata"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gunakan sistem kontrol media"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
@@ -157,17 +85,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utilizza il controllo multimediale di sistema"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "システムのメディアコントロールを使用"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
@@ -175,50 +97,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 미디어 컨트롤 사용"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use system media control"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use system media control"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use system media control"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bruk systemmediakontroller"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gebruik mediabediening van het systeem"
+            "state" : "new",
+            "value" : "Use system media control"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sterowanie odtwarzania klawiszami multimedialnymi"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "pt-BR" : {
@@ -229,38 +127,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Usar controle de mídia do sistema"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utilizează controlul media al sistemului"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Использовать системный медиа-контроль"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Používať systémové multimediálne klávesy"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristi sistemske kontrole medija"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "sr-SP" : {
@@ -271,29 +151,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Använd systemets mediakontroll"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முறைமை ஊடக கட்டுப்பாட்டை பயன்படுத்து"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sistem medya denetim tuşlarını kullan"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
@@ -301,32 +163,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Задіяти системне керування медіафайлами"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Use system media control"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dùng phím điều khiển media của hệ thống"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "使用系统媒体控制"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "使用系統媒體控制"
+            "state" : "new",
+            "value" : "Use system media control"
           }
         }
       }
@@ -337,35 +193,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon rou waardes"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "عرض القيم الخامه"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
@@ -373,26 +205,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostra els valors en cru"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zobrazit hodnoty"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis raw værdier"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rohwerte anzeigen"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "el" : {
@@ -407,79 +239,31 @@
             "value" : "Display raw values"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Display raw values"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar valores sin procesar"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "نمايش مقادير به صورت خام"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Näytä raa'at arvot"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afficher les valeurs brutes"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הצג ערכים גולמיים"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "कच्चे मूल्यों को प्रदर्शित करें"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži neobrađene vrijednosti"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Értékek megjelenítése"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tampilkan nilai murni"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
@@ -487,17 +271,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostra i valori originali"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "パラメーターで表示"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
@@ -505,50 +283,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "실제 명령행 보기"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon ruwe waardes"
+            "state" : "new",
+            "value" : "Display raw values"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wyświetl wartości RAW"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "pt-BR" : {
@@ -559,38 +313,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar valores raw"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afișează valori raw"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отображение исходных значений"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zobraziť hodnoty"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži neobrađene vrednosti"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "sr-SP" : {
@@ -601,29 +337,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visa råa värden"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display raw values"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ham değerleri göster"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
@@ -631,32 +349,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Показати необроблені значення"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Display raw values"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hiện giá trị gốc"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "显示原始值"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "顯示原始值"
+            "state" : "new",
+            "value" : "Display raw values"
           }
         }
       }
@@ -667,35 +379,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aksie"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "إجراء"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
@@ -703,26 +391,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acció"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Akce"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktion"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktion"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "el" : {
@@ -737,79 +425,31 @@
             "value" : "Action"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Action"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acción"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
           }
         },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "عملیات"
-          }
-        },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toiminto"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Action"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "פעולה"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "कार्रवाई"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Radnja"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Művelet"
-          }
-        },
-        "hy" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Action"
           }
         },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tindakan"
-          }
-        },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
@@ -817,17 +457,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Azione"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アクション"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
@@ -835,50 +469,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "동작"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Action"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Action"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Handeling"
+            "state" : "new",
+            "value" : "Action"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Akcja"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "pt-BR" : {
@@ -889,38 +499,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ação"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acțiune"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Действие"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Akcia"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Radnja"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "sr-SP" : {
@@ -931,29 +523,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åtgärd"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "செயல்"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Action"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eylem"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
@@ -961,32 +535,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Дія"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Action"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hành động"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "命令"
+            "state" : "new",
+            "value" : "Action"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "動作"
+            "state" : "new",
+            "value" : "Action"
           }
         }
       }
@@ -997,35 +565,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voer ’n bestaande konfigurasielêer in"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "استيراد ملف تكوين"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
@@ -1033,26 +577,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importa un fitxer de configuració existent"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importovat existující konfigurační soubor"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importér et eksisterende konfigurationsarkiv"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfigurationsdatei importieren"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "el" : {
@@ -1067,79 +611,31 @@
             "value" : "Import an existing config file"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Import an existing config file"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importar archivo de configuración existente"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "وارد کردن فایل پیکربندی موجود"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tuo olemassaoleva asetustiedosto"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importer un fichier de configuration existant"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ייבא קובץ תצורה קיים"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "मौजूदा कॉन्‍फ़िग फ़ाइल आयात करें"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uvezi postojeću konfiguracijsku datoteku"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Létező konfigurációs fájl importálása"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impor file konfig yang sudah ada"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
@@ -1147,17 +643,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importa un file di configurazione esistente"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "既存の設定ファイルをインポートする"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
@@ -1165,50 +655,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "설정 파일 가져오기"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "നിലവിലുള്ള ഒരു കോൺഫിഗറേഷൻ ഫയൽ അവതരിപ്പിക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importeer een configuratiebestand"
+            "state" : "new",
+            "value" : "Import an existing config file"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importuj istniejący plik konfiguracyjny"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "pt-BR" : {
@@ -1219,38 +685,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importar um ficheiro de configuração existente"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importă un fișier de configurație existent"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Импортировать существующий файл конфигурации"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importovať existujúci configuračný súbor"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uvezi postojeću konfiguracionu datoteku"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "sr-SP" : {
@@ -1261,29 +709,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importera existerande konfigurationsfil"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Import an existing config file"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mevcut yapılandırma dosyasını içe aktar"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
@@ -1291,32 +721,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Імпортувати наявний файл конфігурації"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Import an existing config file"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nhập một tệp cấu hình có sẵn"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "导入已有的配置文件"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "輸入現有的設定檔"
+            "state" : "new",
+            "value" : "Import an existing config file"
           }
         }
       }
@@ -1327,35 +751,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellings"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "الاعدادات"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Налады"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -1363,26 +763,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paràmetres"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavení"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Indstillinger"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "el" : {
@@ -1397,79 +797,31 @@
             "value" : "Settings"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Settings"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajustes"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تنظیمات"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asetukset"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paramètres"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הגדרות"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "सेटिंग्स"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Postavke"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beállítások"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pengaturan"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -1477,17 +829,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impostazioni"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -1495,50 +841,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "설정"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "സെറ്റിങ്സ്"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellingen"
+            "state" : "new",
+            "value" : "Settings"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ustawienia"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "pt-BR" : {
@@ -1549,38 +871,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Definições"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setări"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройки"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavenia"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Postavke"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "sr-SP" : {
@@ -1591,29 +895,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inställningar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அமைப்புகள்"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ayarlar"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -1621,32 +907,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Параметри"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cài đặt"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "设置"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定"
+            "state" : "new",
+            "value" : "Settings"
           }
         }
       }
@@ -1657,35 +937,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opstelling:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "التكوين:"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration:"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration:"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration:"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
@@ -1693,26 +949,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuració:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfigurace:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguration:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguration:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "el" : {
@@ -1727,79 +983,31 @@
             "value" : "Configuration:"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuration:"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuración:"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "پیکربندی:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asetukset:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuration :"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "תצורה:"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "विन्यास:"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguracija:"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguráció:"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfigurasi:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
@@ -1807,17 +1015,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurazione:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定:"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
@@ -1825,50 +1027,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "설정:"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration:"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration:"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "കോൺഫിഗറേഷൻ:"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration:"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuratie:"
+            "state" : "new",
+            "value" : "Configuration:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguracja:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "pt-BR" : {
@@ -1879,38 +1057,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuração:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurație:"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Конфигурация:"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfigurácia:"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguracija:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "sr-SP" : {
@@ -1921,29 +1081,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfiguration:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அமைப்பு:"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yapılandırma:"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
@@ -1951,32 +1093,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Конфігурація:"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Configuration:"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cấu hình:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "配置文件:"
+            "state" : "new",
+            "value" : "Configuration:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定："
+            "state" : "new",
+            "value" : "Configuration:"
           }
         }
       }
@@ -1987,68 +1123,44 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon konfigurasielêer in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "عرض ملف التكوين في Finder"
-          }
-        },
-        "az" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the config file in Finder"
           }
         },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostra fitxer de configuració al Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zobrazit konfigurační soubor v aplikaci Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis config fil i Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Im Finder anzeigen"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "en" : {
@@ -2057,133 +1169,49 @@
             "value" : "Show the config file in Finder"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show the config file in Finder"
-          }
-        },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar archivo de configuración en el Finder"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "نمایش فایل تنظیمات در فایندر"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Näytä asetustiedosto Finderissa"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afficher le fichier de configuration dans le Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "הצג את קובץ התצורה ב-Finder"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "फाइंडर में कॉन्फिगर फाइल का खुलासा करें"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Konfigurációs fájl megjelenítése Finderben"
-          }
-        },
-        "hy" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tampilkan file konfig di Finder"
-          }
-        },
-        "is" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostra il file di configurazione nel Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定ファイルをFinderで表示"
-          }
-        },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Finder에서 설정 파일 보기"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഫൈൻഡറിൽ കോൺഫിഗറേഷൻ ഫയൽ കാണിക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "ne" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the config file in Finder"
@@ -2191,14 +1219,20 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon configuratiebestand in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pokaż plik konfiguracyjny w Finderze"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "pt-BR" : {
@@ -2209,104 +1243,62 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar ficheiro de configuração no Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afișează fișierul de configurație în Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Показать файл конфигурации в Finder"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zobraziť konfiguračný súbor vo Finderi"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži konfiguracionu datoteku u Finderu"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visa konfigurationsfil i Finder"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yapılandırma dosyasını Finder'da göster"
-          }
-        },
-        "ug" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Показати файл конфігурації у Finder"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show config file in Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Xem tệp cấu hình trong Finder"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在访达中查看配置文件"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在 Finder 中顯示設定檔"
+            "state" : "new",
+            "value" : "Show the config file in Finder"
           }
         }
       }
@@ -2317,35 +1309,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dupliseer…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "استنساخ…"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
@@ -2353,26 +1321,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplica…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplikovat…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dupliker..."
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplizieren …"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "el" : {
@@ -2387,79 +1355,31 @@
             "value" : "Duplicate…"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplicate…"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplicar…"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تکرار…"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monista…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dupliquer…"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "שכפול…"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "डुप्लिकेट…"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dupliciraj…"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplikálás…"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplikasi…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
@@ -2467,17 +1387,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplica…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "複製…"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
@@ -2485,50 +1399,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "복제…"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഡ്യൂപ്ലിക്കേറ്റ്…"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dupliceer…"
+            "state" : "new",
+            "value" : "Duplicate…"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplikuj…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "pt-BR" : {
@@ -2539,38 +1429,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplicar…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplică…"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Дублировать…"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplikovať…"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dupliraj…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "sr-SP" : {
@@ -2581,29 +1453,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duplicera…"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Duplicate…"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Çoğalt..."
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
@@ -2611,32 +1465,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Дублювати…"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Duplicate…"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tạo bản sao…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "复制…"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "複製⋯"
+            "state" : "new",
+            "value" : "Duplicate…"
           }
         }
       }
@@ -2647,35 +1495,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sneltoets"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "مفتاح"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
@@ -2683,26 +1507,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tecla"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klíč"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nøgle"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Taste"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "el" : {
@@ -2717,79 +1541,31 @@
             "value" : "Key"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Key"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tecla"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "کلید"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avain"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Clé"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "מפתח"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "कुंजी"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ključ"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kulcs"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tombol"
+            "state" : "new",
+            "value" : "Key"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
@@ -2797,17 +1573,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tasti"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "キー"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
@@ -2815,50 +1585,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "키"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Key"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Key"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sneltoets"
+            "state" : "new",
+            "value" : "Key"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klawisz"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "pt-BR" : {
@@ -2869,38 +1615,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tecla"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tastă"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиша"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Názov"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Taster"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "sr-SP" : {
@@ -2911,29 +1639,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommando"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "விசை"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Key"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anahtar"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key"
@@ -2941,32 +1651,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавіша"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Key"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nút"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "键位"
+            "state" : "new",
+            "value" : "Key"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "按鍵"
+            "state" : "new",
+            "value" : "Key"
           }
         }
       }
@@ -2977,35 +1681,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon die rou mpv-toetskode en bevel."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "إظهار مفتاح mpv الخاص للخام والأوامر."
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
@@ -3013,26 +1693,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostra en cru el codi de tecla i la ordre."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zobraz mpv kód a příkaz."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis den rå mpv- nøglekode og kommando."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mpv-Rohwerte für Taste und Befehl anzeigen."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "el" : {
@@ -3047,79 +1727,31 @@
             "value" : "Show the raw mpv key code and command."
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar el código y el comando de mpv en bruto."
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "نمایش کلید خام و کامند mpv."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Näytä raaka mpv-avainkoodi ja komento."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afficher les key codes et commandes mpv bruts."
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הצג את המפתח והפקודה הגולמיים של mpv."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "कच्चा mpv कुंजी कोड और कमांड दिखाएं।"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži kod ključa neobrađenog mpv-a i naredbu."
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mpv kulcs és parancs megjelenítése."
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tampilkan kode dan command mpv key murni."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
@@ -3127,17 +1759,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostra i tasti e i comandi mpv originali"
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mpvのRAWキーコードとコマンドを表示します。"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
@@ -3145,50 +1771,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "원본 mpv 키 코드와 명령어 보기"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon de originele mpv-toetscode en commando."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pokaż kod klawisza i polecenie mpv."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "pt-BR" : {
@@ -3199,38 +1801,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar em bruto o código chave e comando do mpv."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afișează raw mpv key și comanda."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Показать исходный код mpv-клавиш и команду."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zobraz mpv kód a príkaz."
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži neobrađenu vrednost tastera i naredbu za mpv."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "sr-SP" : {
@@ -3241,29 +1825,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visa råa mpv-tangentkoder och -kommandon"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the raw mpv key code and command."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ham mpv tuş kodunu ve komutunu göster."
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
@@ -3271,38 +1837,33 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Показати необроблені код клавіші та команду mpv."
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Show the raw mpv key code and command."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hiện mã nút và lệnh mpv chưa chỉnh sửa."
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "显示原始的 mpv 键位代码和命令。"
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "顯示原始的 mpv 按鍵和指令。"
+            "state" : "new",
+            "value" : "Show the raw mpv key code and command."
           }
         }
       }
     },
     "M4N-eg-JA8.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"M4N-eg-JA8\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3317,30 +1878,6 @@
             "value" : "Label"
           }
         },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ca" : {
           "stringUnit" : {
             "state" : "new",
@@ -3377,25 +1914,7 @@
             "value" : "Label"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "fa" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3419,37 +1938,7 @@
             "value" : "Label"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "hy" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "is" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3467,49 +1956,19 @@
             "value" : "Label"
           }
         },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ko" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
           }
         },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3545,24 +2004,6 @@
             "value" : "Label"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "sr-SP" : {
           "stringUnit" : {
             "state" : "new",
@@ -3575,37 +2016,13 @@
             "value" : "Label"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "tr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
           }
         },
-        "ug" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3629,8 +2046,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "veZ-Si-Hv5.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Settings\"; ObjectID = \"veZ-Si-Hv5\";",
@@ -3638,35 +2054,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellings"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "الاعدادات"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Налады"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -3674,26 +2066,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paràmetres"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavení"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Indstillinger"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "el" : {
@@ -3704,83 +2096,35 @@
         },
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Settings"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Settings"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajustes"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تنظیمات"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asetukset"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paramètres"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הגדרות"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "सेटिंग्स"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Postavke"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beállítások"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pengaturan"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -3788,17 +2132,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impostazioni"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -3806,50 +2144,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "설정"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "സെറ്റിങ്സ്"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Settings"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellingen"
+            "state" : "new",
+            "value" : "Settings"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ustawienia"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "pt-BR" : {
@@ -3860,38 +2174,20 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Definições"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setări"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройки"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavenia"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Postavke"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "sr-SP" : {
@@ -3902,29 +2198,11 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inställningar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அமைப்புகள்"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
         "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ayarlar"
-          }
-        },
-        "ug" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
@@ -3932,32 +2210,26 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Параметри"
-          }
-        },
-        "ur-PK" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Settings"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cài đặt"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "设置"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定"
+            "state" : "new",
+            "value" : "Settings"
           }
         }
       }
