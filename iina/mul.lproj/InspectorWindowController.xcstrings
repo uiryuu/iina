@@ -783,6 +783,7 @@
     },
     "HA9-NO-iHC.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"KeyColumn Table View Cell\"; ObjectID = \"HA9-NO-iHC\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1023,6 +1024,7 @@
     },
     "k5Q-ii-1cq.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"ValueColumn Table View Cell\"; ObjectID = \"k5Q-ii-1cq\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
