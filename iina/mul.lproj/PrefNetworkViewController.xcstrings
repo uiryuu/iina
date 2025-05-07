@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Default: 153600"
           }
         },
@@ -197,15 +197,9 @@
             "value" : "Default: 153600"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standard: 153600"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Default: 153600"
           }
         },
@@ -213,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Standaard: 153600"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Default: 153600"
           }
         },
         "pl" : {
@@ -257,10 +257,10 @@
             "value" : "Default: 153600"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrazumevano: 153600"
+            "state" : "new",
+            "value" : "Default: 153600"
           }
         },
         "sr-SP" : {
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förval: 153600"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இயல்புநிலை: 153600"
           }
         },
         "th" : {
@@ -527,19 +521,19 @@
             "value" : "Maximum cache size (KB):"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size (KB):"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Maximum cache size (KB):"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum cache size (KB):"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Maximum cache size (KB):"
@@ -587,7 +581,7 @@
             "value" : "Maximum cache size (KB):"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Maximum cache size (KB):"
@@ -600,12 +594,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size (KB):"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Maximum cache size (KB):"
@@ -663,6 +651,7 @@
     },
     "1Ex-0X-pjo.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"youtube-dl:\"; ObjectID = \"1Ex-0X-pjo\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -857,12 +846,6 @@
             "value" : "youtube-dl:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "youtube-dl:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -870,6 +853,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "youtube-dl:"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "youtube-dl:"
@@ -917,7 +906,7 @@
             "value" : "youtube-dl:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "youtube-dl:"
@@ -930,12 +919,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "youtube-dl:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "youtube-dl:"
@@ -989,8 +972,7 @@
             "value" : "youtube-dl:"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "2qf-cC-Lfi.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Custom youtube-dl path:\"; ObjectID = \"2qf-cC-Lfi\";",
@@ -1070,7 +1052,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Custom youtube-dl path:"
           }
         },
@@ -1188,15 +1170,9 @@
             "value" : "Custom youtube-dl path:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom youtube-dl path:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Custom youtube-dl path:"
           }
         },
@@ -1204,6 +1180,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aangepaste youtube-dl locatie:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Custom youtube-dl path:"
           }
         },
         "pl" : {
@@ -1248,10 +1230,10 @@
             "value" : "Custom youtube-dl path:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prilagođena putanja do programa youtube-dl:"
+            "state" : "new",
+            "value" : "Custom youtube-dl path:"
           }
         },
         "sr-SP" : {
@@ -1264,12 +1246,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anpassad youtube-dl-sökväg:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தனிப்பயன் youtube-dl பாதை:"
           }
         },
         "th" : {
@@ -1400,7 +1376,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Default: 153600"
           }
         },
@@ -1518,15 +1494,9 @@
             "value" : "Default: 153600"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standard: 153600"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Default: 153600"
           }
         },
@@ -1534,6 +1504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Standaard: 153600"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Default: 153600"
           }
         },
         "pl" : {
@@ -1578,10 +1554,10 @@
             "value" : "Default: 153600"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrazumevano: 153600"
+            "state" : "new",
+            "value" : "Default: 153600"
           }
         },
         "sr-SP" : {
@@ -1594,12 +1570,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förval: 153600"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இயல்புநிலை: 153600"
           }
         },
         "th" : {
@@ -1654,6 +1624,7 @@
     },
     "6JF-48-aCE.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"TCP\"; ObjectID = \"6JF-48-aCE\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1848,12 +1819,6 @@
             "value" : "TCP"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "TCP"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1861,6 +1826,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TCP"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "TCP"
@@ -1908,7 +1879,7 @@
             "value" : "TCP"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "TCP"
@@ -1921,12 +1892,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "TCP"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "TCP"
@@ -1980,8 +1945,7 @@
             "value" : "TCP"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "9ut-ID-ffZ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"HTTP proxy:\"; ObjectID = \"9ut-ID-ffZ\";",
@@ -2031,13 +1995,13 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2061,7 +2025,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2079,7 +2043,7 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2109,7 +2073,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2127,7 +2091,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2179,15 +2143,9 @@
             "value" : "HTTP proxy:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP proxy:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "HTTP proxy:"
           }
         },
@@ -2195,6 +2153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "HTTP-proxy:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "HTTP proxy:"
           }
         },
         "pl" : {
@@ -2229,7 +2193,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2239,9 +2203,9 @@
             "value" : "HTTP proxy:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2255,12 +2219,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "HTTP-proxy:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP proxy:"
           }
         },
         "th" : {
@@ -2295,7 +2253,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "HTTP proxy:"
           }
         },
@@ -2367,7 +2325,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto"
           }
         },
@@ -2391,13 +2349,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto"
           }
         },
@@ -2509,15 +2467,9 @@
             "value" : "Auto"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto"
           }
         },
@@ -2525,6 +2477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatisch"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto"
           }
         },
         "pl" : {
@@ -2535,7 +2493,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto"
           }
         },
@@ -2569,10 +2527,10 @@
             "value" : "Auto"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatski"
+            "state" : "new",
+            "value" : "Auto"
           }
         },
         "sr-SP" : {
@@ -2585,12 +2543,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatisk"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தானியங்கு"
           }
         },
         "th" : {
@@ -2721,7 +2673,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Enable youtube-dl"
           }
         },
@@ -2839,15 +2791,9 @@
             "value" : "Enable youtube-dl"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktiver YouTube-dl"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Enable youtube-dl"
           }
         },
@@ -2855,6 +2801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schakel youtube-dl in"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enable youtube-dl"
           }
         },
         "pl" : {
@@ -2899,10 +2851,10 @@
             "value" : "Enable youtube-dl"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omogući youtube-dl"
+            "state" : "new",
+            "value" : "Enable youtube-dl"
           }
         },
         "sr-SP" : {
@@ -2915,12 +2867,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivera youtube-dl"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "youtube-dl -ஐ இயக்கு"
           }
         },
         "th" : {
@@ -3051,7 +2997,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache buffer size (KB):"
           }
         },
@@ -3169,15 +3115,9 @@
             "value" : "Cache buffer size (KB):"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bufferstørrelse (kB):"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cache buffer size (KB):"
           }
         },
@@ -3185,6 +3125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cache-buffergrootte (KB):"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cache buffer size (KB):"
           }
         },
         "pl" : {
@@ -3229,10 +3175,10 @@
             "value" : "Cache buffer size (KB):"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina bafera keširanja (KB):"
+            "state" : "new",
+            "value" : "Cache buffer size (KB):"
           }
         },
         "sr-SP" : {
@@ -3245,12 +3191,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cache-bufferstorlek (KB):"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache buffer size (KB):"
           }
         },
         "th" : {
@@ -3381,7 +3321,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "User agent:"
           }
         },
@@ -3459,7 +3399,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "User agent:"
           }
         },
@@ -3499,15 +3439,9 @@
             "value" : "User agent:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brukeragent:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "User agent:"
           }
         },
@@ -3515,6 +3449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gebruikersagent:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "User agent:"
           }
         },
         "pl" : {
@@ -3559,10 +3499,10 @@
             "value" : "User agent:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Korisnički agent:"
+            "state" : "new",
+            "value" : "User agent:"
           }
         },
         "sr-SP" : {
@@ -3575,12 +3515,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Användaragent:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "User agent:"
           }
         },
         "th" : {
@@ -3615,7 +3549,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "User agent:"
           }
         },
@@ -3635,6 +3569,7 @@
     },
     "ePv-ZR-5fY.ibExternalAccessibilityHelp" : {
       "comment" : "Class = \"NSTextField\"; ibExternalAccessibilityHelp = \"/usr/local/bin\"; ObjectID = \"ePv-ZR-5fY\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3829,12 +3764,6 @@
             "value" : "/usr/local/bin"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3842,6 +3771,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "/usr/local/bin"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -3889,7 +3824,7 @@
             "value" : "/usr/local/bin"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -3902,12 +3837,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -3961,8 +3890,7 @@
             "value" : "/usr/local/bin"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "fab-7d-mMQ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Default: 36000\"; ObjectID = \"fab-7d-mMQ\";",
@@ -4042,7 +3970,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Default: 36000"
           }
         },
@@ -4120,7 +4048,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Default: 36000"
           }
         },
@@ -4160,15 +4088,9 @@
             "value" : "Default: 36000"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standard: 36000"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Default: 36000"
           }
         },
@@ -4176,6 +4098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Standaard: 36000"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Default: 36000"
           }
         },
         "pl" : {
@@ -4220,10 +4148,10 @@
             "value" : "Default: 36000"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrazumevano: 36000"
+            "state" : "new",
+            "value" : "Default: 36000"
           }
         },
         "sr-SP" : {
@@ -4236,12 +4164,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förval: 36000"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இயல்புநிலை: 36000"
           }
         },
         "th" : {
@@ -4372,7 +4294,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Enable cache"
           }
         },
@@ -4490,15 +4412,9 @@
             "value" : "Enable cache"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktiver buffer"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Enable cache"
           }
         },
@@ -4506,6 +4422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schakel cache in"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enable cache"
           }
         },
         "pl" : {
@@ -4550,10 +4472,10 @@
             "value" : "Enable cache"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omogući keš"
+            "state" : "new",
+            "value" : "Enable cache"
           }
         },
         "sr-SP" : {
@@ -4566,12 +4488,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivera cache"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable cache"
           }
         },
         "th" : {
@@ -4683,7 +4599,7 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4701,7 +4617,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4749,7 +4665,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4767,7 +4683,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4819,15 +4735,9 @@
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4837,9 +4747,15 @@
             "value" : "Structuur: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
+          }
+        },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4857,7 +4773,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4879,9 +4795,9 @@
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
@@ -4895,12 +4811,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Format: <nyckel>=<värde>[,<nyckel>=<värde>[,…]]"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
         "th" : {
@@ -5031,7 +4941,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Transport RTSP stream through:"
           }
         },
@@ -5149,15 +5059,9 @@
             "value" : "Transport RTSP stream through:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Strøm RTSP gjennom:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Transport RTSP stream through:"
           }
         },
@@ -5165,6 +5069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vervoer RTSP-stream via:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transport RTSP stream through:"
           }
         },
         "pl" : {
@@ -5209,10 +5119,10 @@
             "value" : "Transport RTSP stream through:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prenesi RTSP strim kroz:"
+            "state" : "new",
+            "value" : "Transport RTSP stream through:"
           }
         },
         "sr-SP" : {
@@ -5225,12 +5135,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Transportera RTSP-ström genom:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Transport RTSP stream through:"
           }
         },
         "th" : {
@@ -5361,7 +5265,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Seconds to prefetch:"
           }
         },
@@ -5479,15 +5383,9 @@
             "value" : "Seconds to prefetch:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seconds to prefetch:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Seconds to prefetch:"
           }
         },
@@ -5495,6 +5393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seconden inladen:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Seconds to prefetch:"
           }
         },
         "pl" : {
@@ -5539,10 +5443,10 @@
             "value" : "Seconds to prefetch:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sekundi do predučitavanja:"
+            "state" : "new",
+            "value" : "Seconds to prefetch:"
           }
         },
         "sr-SP" : {
@@ -5555,12 +5459,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sekunder att hämta i förväg:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seconds to prefetch:"
           }
         },
         "th" : {
@@ -5667,13 +5565,13 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5691,7 +5589,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5757,7 +5655,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5769,7 +5667,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5809,21 +5707,21 @@
             "value" : "Cache:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cache:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Cache:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5835,19 +5733,19 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5869,10 +5767,10 @@
             "value" : "Cache:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Keš:"
+            "state" : "new",
+            "value" : "Cache:"
           }
         },
         "sr-SP" : {
@@ -5882,12 +5780,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cache:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cache:"
@@ -5925,7 +5817,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cache:"
           }
         },
@@ -5945,6 +5837,7 @@
     },
     "NWQ-Bm-1mJ.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"HTTP\"; ObjectID = \"NWQ-Bm-1mJ\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -6139,12 +6032,6 @@
             "value" : "HTTP"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -6152,6 +6039,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "HTTP"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "HTTP"
@@ -6199,7 +6092,7 @@
             "value" : "HTTP"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "HTTP"
@@ -6212,12 +6105,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "HTTP"
@@ -6271,11 +6158,11 @@
             "value" : "HTTP"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "qhq-St-KZq.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"UDP\"; ObjectID = \"qhq-St-KZq\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -6470,12 +6357,6 @@
             "value" : "UDP"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "UDP"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -6483,6 +6364,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "UDP"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "UDP"
@@ -6530,7 +6417,7 @@
             "value" : "UDP"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "UDP"
@@ -6543,12 +6430,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "UDP"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "UDP"
@@ -6602,8 +6483,7 @@
             "value" : "UDP"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "RwW-JS-iTv.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Requires restarting IINA to take effect.\"; ObjectID = \"RwW-JS-iTv\";",
@@ -6683,7 +6563,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Requires restarting IINA to take effect."
           }
         },
@@ -6801,15 +6681,9 @@
             "value" : "Requires restarting IINA to take effect."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Krever omstart at IINA for å tre i kraft."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Requires restarting IINA to take effect."
           }
         },
@@ -6817,6 +6691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IINA moet opnieuw opstarten voor deze optie."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Requires restarting IINA to take effect."
           }
         },
         "pl" : {
@@ -6861,10 +6741,10 @@
             "value" : "Requires restarting IINA to take effect."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "IINA se mora ponovo pokrenuti da bi postavka bila prihvaćena."
+            "state" : "new",
+            "value" : "Requires restarting IINA to take effect."
           }
         },
         "sr-SP" : {
@@ -6877,12 +6757,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kräver omstart av IINA för att ge effekt."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "重启IINA生效."
           }
         },
         "th" : {
@@ -6937,6 +6811,7 @@
     },
     "Smc-bL-Dvq.placeholderString" : {
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"/usr/local/bin\"; ObjectID = \"Smc-bL-Dvq\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -7131,12 +7006,6 @@
             "value" : "/usr/local/bin"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -7144,6 +7013,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "/usr/local/bin"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -7191,7 +7066,7 @@
             "value" : "/usr/local/bin"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -7204,12 +7079,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -7263,11 +7132,11 @@
             "value" : "/usr/local/bin"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "WTb-HK-6vU.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"http://\"; ObjectID = \"WTb-HK-6vU\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -7462,12 +7331,6 @@
             "value" : "http://"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "http://"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -7475,6 +7338,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "http://"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "http://"
@@ -7522,7 +7391,7 @@
             "value" : "http://"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "http://"
@@ -7535,12 +7404,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "http://"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "http://"
@@ -7594,8 +7457,7 @@
             "value" : "http://"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "YqE-yV-BvQ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"IINA will search youtube-dl in this folder. Restart needed.\"; ObjectID = \"YqE-yV-BvQ\";",
@@ -7675,7 +7537,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
@@ -7793,15 +7655,9 @@
             "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA will search youtube-dl in this folder. Restart needed."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
@@ -7809,6 +7665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IINA zoekt youtube-dl in deze map. Let op: IINA moet opnieuw opstarten voor deze instelling."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
         "pl" : {
@@ -7853,10 +7715,10 @@
             "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "IINA će potražiti youtube-dl u ovoj fascikli. Potrebno je ponovno pokretanje."
+            "state" : "new",
+            "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
         "sr-SP" : {
@@ -7869,12 +7731,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IINA letar efter youtube-dl i denna mapp. Omstart behövs."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
         "th" : {
@@ -8005,7 +7861,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Network:"
           }
         },
@@ -8083,7 +7939,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Network:"
           }
         },
@@ -8123,15 +7979,9 @@
             "value" : "Network:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nettverk:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Network:"
           }
         },
@@ -8139,6 +7989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Netwerk:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Network:"
           }
         },
         "pl" : {
@@ -8183,10 +8039,10 @@
             "value" : "Network:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mreža:"
+            "state" : "new",
+            "value" : "Network:"
           }
         },
         "sr-SP" : {
@@ -8199,12 +8055,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nätverk:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "பிணையம்:"
           }
         },
         "th" : {
@@ -8335,7 +8185,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Raw options:"
           }
         },
@@ -8453,15 +8303,9 @@
             "value" : "Raw options:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raw alternativer:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Raw options:"
           }
         },
@@ -8469,6 +8313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ytdl-raw-options:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Raw options:"
           }
         },
         "pl" : {
@@ -8513,10 +8363,10 @@
             "value" : "Raw options:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dodatne opcije:"
+            "state" : "new",
+            "value" : "Raw options:"
           }
         },
         "sr-SP" : {
@@ -8529,12 +8379,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Råa alternativ:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Raw options:"
           }
         },
         "th" : {
