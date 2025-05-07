@@ -7,61 +7,37 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aflaaie:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "التنزيلات:"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Endirmələr:"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Спампоўкі:"
-          }
-        },
-        "bg" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
           }
         },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ডাউনলোড করুন"
-          }
-        },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baixades:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stažení:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Overførsler:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Downloads:"
           }
         },
@@ -73,83 +49,35 @@
         },
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Downloads:"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Downloads:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Descargas:"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "دریافت"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lataukset:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Téléchargements :"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הורדות:"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "डाउनलोड:"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preuzimanja:"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Letöltések:"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unduhan:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
@@ -157,17 +85,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Download:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ダウンロード数:"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
@@ -175,50 +97,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "다운로드"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Downloads:"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Downloads:"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഡൗൺലോഡുകൾ:"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Downloads:"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Downloads:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Downloads:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pobrań:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "pt-BR" : {
@@ -229,59 +127,29 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Transferências:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Descărcări:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Загрузки:"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stiahnutia:"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preuzimanja:"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Преузимања:"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nedladdningar:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
           }
         },
-        "th" : {
+        "sv" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
@@ -289,23 +157,11 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "İndirmeler:"
-          }
-        },
-        "ug" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
           }
         },
         "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Завантаження:"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads:"
@@ -313,26 +169,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tải về:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "下载量:"
+            "state" : "new",
+            "value" : "Downloads:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "下載量："
+            "state" : "new",
+            "value" : "Downloads:"
           }
         }
       }
     },
     "Bnm-Vf-zg5.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Media Name\"; ObjectID = \"Bnm-Vf-zg5\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -342,30 +199,6 @@
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
@@ -407,25 +240,7 @@
             "value" : "Media Name"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "fa" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
@@ -449,37 +264,7 @@
             "value" : "Media Name"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "hy" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "is" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
@@ -497,49 +282,19 @@
             "value" : "Media Name"
           }
         },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "ko" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
           }
         },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Media Name"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
@@ -575,24 +330,6 @@
             "value" : "Media Name"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "sr-SP" : {
           "stringUnit" : {
             "state" : "new",
@@ -605,37 +342,13 @@
             "value" : "Media Name"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "tr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
           }
         },
-        "ug" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
         "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Media Name"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Media Name"
@@ -659,11 +372,11 @@
             "value" : "Media Name"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "FW8-qy-9po.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Left Label\"; ObjectID = \"FW8-qy-9po\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -673,30 +386,6 @@
           }
         },
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "bn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
@@ -738,25 +427,7 @@
             "value" : "Left Label"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "fa" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
@@ -780,37 +451,7 @@
             "value" : "Left Label"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "hy" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "is" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
@@ -828,49 +469,19 @@
             "value" : "Left Label"
           }
         },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "ko" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
           }
         },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Left Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
@@ -906,24 +517,6 @@
             "value" : "Left Label"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "sr-SP" : {
           "stringUnit" : {
             "state" : "new",
@@ -936,37 +529,13 @@
             "value" : "Left Label"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "tr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
           }
         },
-        "ug" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
         "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left Label"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Left Label"
@@ -990,8 +559,7 @@
             "value" : "Left Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "pPz-om-Xit.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"CANCEL\"; ObjectID = \"pPz-om-Xit\";",
@@ -999,35 +567,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "KANSELLEER"
-          }
-        },
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "إلغاء"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "LƏĞV ET"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "СКАСАВАЦЬ"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
           }
         },
-        "bn" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
@@ -1035,26 +579,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CANCEL·LA"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ZRUŠIT"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuller"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abbrechen"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "el" : {
@@ -1069,79 +613,31 @@
             "value" : "CANCEL"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "CANCEL"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "CANCELAR"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "لغو"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "PERUUTA"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ANNULER"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ביטול"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "वापस जाएँ"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OTKAŽI"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "MÉGSE"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "BATAL"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
@@ -1149,17 +645,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ANNULLA"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "キャンセル"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
@@ -1167,50 +657,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "취소"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "CANCEL"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "CANCEL"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "റദ്ദാക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "CANCEL"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ANNULEER"
+            "state" : "new",
+            "value" : "CANCEL"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ANULUJ"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "pt-BR" : {
@@ -1221,59 +687,29 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CANCELAR"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ANULEAZĂ"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ОТМЕНА"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ZRUŠIŤ"
-          }
-        },
-        "sl" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
           }
         },
-        "sr-RS" : {
+        "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OTKAŽI"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ОТКАЖИ"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AVBRYT"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இரத்து"
-          }
-        },
-        "th" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
@@ -1281,23 +717,11 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "VAZGEÇ"
-          }
-        },
-        "ug" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
           }
         },
         "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "СКАСУВАТИ"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CANCEL"
@@ -1305,26 +729,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "HỦY"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+            "state" : "new",
+            "value" : "CANCEL"
           }
         }
       }
     },
     "qnJ-hh-Ajn.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"2000-00-00\"; ObjectID = \"qnJ-hh-Ajn\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1339,30 +764,6 @@
             "value" : "2000-00-00"
           }
         },
-        "az" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "ca" : {
           "stringUnit" : {
             "state" : "new",
@@ -1399,25 +800,7 @@
             "value" : "2000-00-00"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "eu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "fa" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2000-00-00"
@@ -1441,37 +824,7 @@
             "value" : "2000-00-00"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "hy" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "is" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2000-00-00"
@@ -1489,49 +842,19 @@
             "value" : "2000-00-00"
           }
         },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "ko" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2000-00-00"
           }
         },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2000-00-00"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2000-00-00"
@@ -1567,24 +890,6 @@
             "value" : "2000-00-00"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "sr-SP" : {
           "stringUnit" : {
             "state" : "new",
@@ -1597,37 +902,13 @@
             "value" : "2000-00-00"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "tr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2000-00-00"
           }
         },
-        "ug" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
         "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2000-00-00"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2000-00-00"
@@ -1651,8 +932,7 @@
             "value" : "2000-00-00"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "vAl-Km-bkf.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Please click to select subtitles to download:\"; ObjectID = \"vAl-Km-bkf\";",
@@ -1660,35 +940,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klik om onderskrifte te kies om af te laai:"
-          }
-        },
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "الرجاء النقر لتحديد ترجمات للتنزيل:"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Altyazıları endirmək üçün toxunun"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Націсніце, каб выбраць субцітры для загрузкі:"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
           }
         },
-        "bn" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
@@ -1696,26 +952,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si us play, fes click per seleccionar els subtítols a baixar:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vyberte titulky, které chcete stáhnout:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vælg en undertekst til overførsel:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bitte wähle Untertitel zum herunterladen aus:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "el" : {
@@ -1730,79 +986,31 @@
             "value" : "Please click to select subtitles to download:"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please click to select subtitles to download:"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Por favor, haga clic para seleccionar los subtítulos a descargar:"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "لطفا برای دریافت زیرنویس روی آن کلیک کنید:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klikkaa valitaksesi ladattavat tekstitykset:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cliquez pour sélectionner les sous-titres à télécharger :"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "אנא לחץ כדי לבחור כתוביות להורדה:"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "डाउनलोड करने के लिए उपशीर्षक का चयन करने के लिए क्लिक करें:"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pritisni za biranje titlova za preuzimanje:"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kattintson a letöltendő felirat kiválasztásához:"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mohon klik untuk memilih terjemahan yang akan diunduh:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
@@ -1810,17 +1018,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fai clic per selezionare i sottotitoli da scaricare:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ダウンロードする字幕をクリックして選択してください:"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
@@ -1828,50 +1030,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "다운로드할 자막을 선택하십시오"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please click to select subtitles to download:"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please click to select subtitles to download:"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഡൗൺലോഡ് ചെയ്യാനുള്ള സബ്‌ടൈറ്റിലുകൾ തിരഞ്ഞെടുക്കാൻ ദയവായി ക്ലിക്ക് ചെയ്യുക:"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please click to select subtitles to download:"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecteer ondertiteling om te downloaden:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Proszę zaznaczyć napisy do pobrania:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "pt-BR" : {
@@ -1882,59 +1060,29 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Por favor, clique para selecionar legendas a transferir:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Te rog selectează subtitrările pentru descărcare:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите субтитры для скачивания:"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Označte titulky, ktoré chcete stiahnuť:"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klikni za biranje titlova za preuzimanje:"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Кликни за бирање титлова за преузимање:"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vänligen klicka för att välja undertext för nedladdning:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
           }
         },
-        "th" : {
+        "sv" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
@@ -1942,23 +1090,11 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "İndirmek istediğiniz altyazıları seçin:"
-          }
-        },
-        "ug" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
           }
         },
         "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Будь ласка, клацніть, щоб обрати субтитри для завантаження:"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please click to select subtitles to download:"
@@ -1966,20 +1102,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vui lòng nhấp để chọn phụ đề cần tải về:"
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "请点击选择要下载的字幕："
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "請選擇要下載的字幕："
+            "state" : "new",
+            "value" : "Please click to select subtitles to download:"
           }
         }
       }
@@ -1990,35 +1126,11 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "LAAI AF"
-          }
-        },
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تحميل"
-          }
-        },
-        "az" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ENDİR"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "СПАМПАВАЦЬ"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
           }
         },
-        "bn" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
@@ -2026,26 +1138,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baixa"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "STÁHNOUT"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Overførsel"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Laden"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "el" : {
@@ -2060,79 +1172,31 @@
             "value" : "DOWNLOAD"
           }
         },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DOWNLOAD"
-          }
-        },
         "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DESCARGAR"
-          }
-        },
-        "eu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
-          }
-        },
-        "fa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "دریافت"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "LATAA"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "TÉLÉCHARGER"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הורדה"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "डाउनलोड"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PREUZMI"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "LETÖLTÉS"
-          }
-        },
-        "hy" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
           }
         },
-        "id" : {
+        "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "UNDUH"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
-        "is" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
@@ -2140,17 +1204,11 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "SCARICA"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ダウンロード"
-          }
-        },
-        "kn" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
@@ -2158,50 +1216,26 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "다운로드"
-          }
-        },
-        "lv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DOWNLOAD"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DOWNLOAD"
-          }
-        },
-        "ml" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഡൗൺലോഡ്"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DOWNLOAD"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "DOWNLOAD"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "DOWNLOAD"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "POBIERZ"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "pt-BR" : {
@@ -2212,59 +1246,29 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "TRANSFERIR"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "DESCARCĂ"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "СКАЧАТЬ"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "STIAHNUŤ"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
-          }
-        },
-        "sr-RS" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PREUZMI"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ПРЕУЗМИ"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "LADDA NER"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
           }
         },
-        "th" : {
+        "sv" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
@@ -2272,23 +1276,11 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "İNDİR"
-          }
-        },
-        "ug" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
           }
         },
         "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ЗАВАНТАЖИТИ"
-          }
-        },
-        "ur-PK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DOWNLOAD"
@@ -2296,20 +1288,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "TẢI VỀ"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "下載"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "下載"
+            "state" : "new",
+            "value" : "DOWNLOAD"
           }
         }
       }
