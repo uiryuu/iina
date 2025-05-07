@@ -2,6 +2,7 @@
   "sourceLanguage" : "en",
   "strings" : {
     "" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -24,6 +25,7 @@
       }
     },
     "... (%lld) more" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -46,6 +48,7 @@
       }
     },
     "[%lld]:" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -68,6 +71,7 @@
       }
     },
     "%@" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -90,6 +94,7 @@
       }
     },
     "%@:" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -112,6 +117,7 @@
       }
     },
     "→" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -3572,6 +3578,7 @@
       }
     },
     "Exception: %@" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -3594,6 +3601,7 @@
       }
     },
     "false" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -4312,6 +4320,7 @@
       }
     },
     "invalid_url" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -5842,6 +5851,7 @@
       }
     },
     "null" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -10632,6 +10642,7 @@
       }
     },
     "true" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -10654,6 +10665,7 @@
       }
     },
     "undefined" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
