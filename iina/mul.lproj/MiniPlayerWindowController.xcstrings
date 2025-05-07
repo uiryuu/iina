@@ -3,6 +3,7 @@
   "strings" : {
     "aot-6J-Jp7.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"50\"; ObjectID = \"aot-6J-Jp7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -197,12 +198,6 @@
             "value" : "50"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "50"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -210,6 +205,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -257,7 +258,7 @@
             "value" : "50"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -270,12 +271,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "50"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -329,8 +324,7 @@
             "value" : "50"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "F4P-Wj-5qw.ibShadowedToolTip" : {
       "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Close Mini Player\"; ObjectID = \"F4P-Wj-5qw\";",
@@ -410,7 +404,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Close Mini Player"
           }
         },
@@ -528,15 +522,9 @@
             "value" : "Close Mini Player"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lukk minispiller"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Close Mini Player"
           }
         },
@@ -544,6 +532,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sluit minispeler"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pl" : {
@@ -588,10 +582,10 @@
             "value" : "Close Mini Player"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zatvori mini-plejer"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sr-SP" : {
@@ -604,12 +598,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stäng minispelaren"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Close Mini Player"
           }
         },
         "th" : {
@@ -740,7 +728,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Close Mini Player"
           }
         },
@@ -858,15 +846,9 @@
             "value" : "Close Mini Player"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lukk minispiller"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Close Mini Player"
           }
         },
@@ -874,6 +856,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sluit minispeler"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pl" : {
@@ -918,10 +906,10 @@
             "value" : "Close Mini Player"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zatvori mini-plejer"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sr-SP" : {
@@ -934,12 +922,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stäng minispelaren"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Close Mini Player"
           }
         },
         "th" : {
@@ -1070,7 +1052,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Back to video mode"
           }
         },
@@ -1188,15 +1170,9 @@
             "value" : "Back to video mode"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbake til videomodus"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Back to video mode"
           }
         },
@@ -1204,6 +1180,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schakel terug naar videomodus"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pl" : {
@@ -1248,10 +1230,10 @@
             "value" : "Back to video mode"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati se u video-režim"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sr-SP" : {
@@ -1264,12 +1246,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tillbaka till videoläge"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Back to video mode"
           }
         },
         "th" : {
@@ -1324,6 +1300,7 @@
     },
     "Nle-gv-CWY.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Artist - Album\"; ObjectID = \"Nle-gv-CWY\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1518,12 +1495,6 @@
             "value" : "Artist - Album"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artist - Album"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1531,6 +1502,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Artist - Album"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -1578,7 +1555,7 @@
             "value" : "Artist - Album"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -1591,12 +1568,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artist - Album"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -1650,11 +1621,11 @@
             "value" : "Artist - Album"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "Rs9-6l-6vp.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Title\"; ObjectID = \"Rs9-6l-6vp\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1849,12 +1820,6 @@
             "value" : "Title"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1862,6 +1827,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -1909,7 +1880,7 @@
             "value" : "Title"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -1922,12 +1893,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -1981,11 +1946,11 @@
             "value" : "Title"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "V74-PQ-Yfr.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"V74-PQ-Yfr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2180,12 +2145,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2193,6 +2152,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2240,7 +2205,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2253,12 +2218,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2312,11 +2271,11 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "WnA-NE-3bG.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"WnA-NE-3bG\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2511,12 +2470,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2524,6 +2477,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2571,7 +2530,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2584,12 +2543,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2643,8 +2596,7 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "WS6-ix-uBJ.ibShadowedToolTip" : {
       "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Back to video mode\"; ObjectID = \"WS6-ix-uBJ\";",
@@ -2724,7 +2676,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Back to video mode"
           }
         },
@@ -2842,15 +2794,9 @@
             "value" : "Back to video mode"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbake til videomodus"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Back to video mode"
           }
         },
@@ -2858,6 +2804,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schakel terug naar videomodus"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pl" : {
@@ -2902,10 +2854,10 @@
             "value" : "Back to video mode"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati se u video-režim"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sr-SP" : {
@@ -2918,12 +2870,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tillbaka till videoläge"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Back to video mode"
           }
         },
         "th" : {
