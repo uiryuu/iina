@@ -4,19 +4,7 @@
     "3GPP File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3GPP File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3GPP File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3GPP File"
@@ -27,19 +15,7 @@
     "3GPP2 File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3GPP2 File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3GPP2 File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3GPP2 File"
@@ -50,19 +26,7 @@
     "AAC file" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AAC file"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AAC file"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "AAC file"
@@ -73,19 +37,7 @@
     "Advanced Streaming Format" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Advanced Streaming Format"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Advanced Streaming Format"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Advanced Streaming Format"
@@ -96,19 +48,7 @@
     "AIFF file" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AIFF file"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AIFF file"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "AIFF file"
@@ -119,19 +59,7 @@
     "Apple QuickTime container" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Apple QuickTime container"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Apple QuickTime container"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Apple QuickTime container"
@@ -142,19 +70,7 @@
     "AVI container" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AVI container"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AVI container"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "AVI container"
@@ -173,19 +89,7 @@
             "value" : "IINA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA"
@@ -196,19 +100,7 @@
     "Digital Audio" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Digital Audio"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Digital Audio"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Digital Audio"
@@ -219,19 +111,7 @@
     "DivX file" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DivX file"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DivX file"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DivX file"
@@ -242,19 +122,7 @@
     "DV file" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DV file"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DV file"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DV file"
@@ -265,19 +133,7 @@
     "FLAC Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "FLAC Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "FLAC Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "FLAC Audio File"
@@ -288,19 +144,7 @@
     "Flash Video File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Flash Video File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Flash Video File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Flash Video File"
@@ -311,19 +155,7 @@
     "GIF image" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "GIF image"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "GIF image"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "GIF image"
@@ -334,19 +166,7 @@
     "IINA Plugin" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA Plugin"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA Plugin"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA Plugin"
@@ -357,19 +177,7 @@
     "IINA Plugin Package" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA Plugin Package"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA Plugin Package"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA Plugin Package"
@@ -380,19 +188,7 @@
     "Matroska Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matroska Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matroska Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Matroska Audio File"
@@ -403,19 +199,7 @@
     "Matroska Video File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matroska Video File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matroska Video File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Matroska Video File"
@@ -426,19 +210,7 @@
     "Monkey's Audio Lossless Audio" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Monkey's Audio Lossless Audio"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Monkey's Audio Lossless Audio"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Monkey's Audio Lossless Audio"
@@ -449,19 +221,7 @@
     "MPEG Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "MPEG Audio File"
@@ -472,19 +232,7 @@
     "MPEG Video File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG Video File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG Video File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "MPEG Video File"
@@ -501,19 +249,7 @@
             "value" : "MPEG-2 Stream"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG-2 Stream"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG-2 Stream"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "MPEG-2 Stream"
@@ -524,19 +260,7 @@
     "MPEG3 Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG3 Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG3 Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "MPEG3 Audio File"
@@ -547,19 +271,7 @@
     "MPEG4 Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG4 Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG4 Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "MPEG4 Audio File"
@@ -570,19 +282,7 @@
     "MPEG4 Video File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG4 Video File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MPEG4 Video File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "MPEG4 Video File"
@@ -600,22 +300,10 @@
             "value" : "Copyright © 2017-2024\nCollider LI, et al.\nReleased under GPLv3."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Copyright © 2017-2024\nCollider LI, et al.\nReleased under GPLv3."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Copyright © 2017-2024\nCollider LI, et al.\nReleased under GPLv3."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "基於 GPLv3 授權發佈"
+            "value" : "基于 GPLv3 授权发布"
           }
         }
       }
@@ -623,19 +311,7 @@
     "Ogg Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ogg Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ogg Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Ogg Audio File"
@@ -646,19 +322,7 @@
     "Ogg Video File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ogg Video File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ogg Video File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Ogg Video File"
@@ -669,19 +333,7 @@
     "OPUS file" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "OPUS file"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "OPUS file"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "OPUS file"
@@ -692,19 +344,7 @@
     "RealPlayer Media Files" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "RealPlayer Media Files"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "RealPlayer Media Files"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "RealPlayer Media Files"
@@ -715,19 +355,7 @@
     "VOB File (DVD Video)" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "VOB File (DVD Video)"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "VOB File (DVD Video)"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "VOB File (DVD Video)"
@@ -738,19 +366,7 @@
     "WAVE Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "WAVE Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "WAVE Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "WAVE Audio File"
@@ -761,19 +377,7 @@
     "WavePack Audio File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "WavePack Audio File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "WavePack Audio File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "WavePack Audio File"
@@ -784,19 +388,7 @@
     "WebM Video File" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "WebM Video File"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "WebM Video File"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "WebM Video File"
@@ -807,19 +399,7 @@
     "Windows Media Audio" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Windows Media Audio"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Windows Media Audio"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Windows Media Audio"
@@ -830,19 +410,7 @@
     "Windows Media Video" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Windows Media Video"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Windows Media Video"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Windows Media Video"
@@ -853,19 +421,7 @@
     "Windows Recorded TV Show" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Windows Recorded TV Show"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Windows Recorded TV Show"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Windows Recorded TV Show"
@@ -876,19 +432,7 @@
     "XM audio file" : {
       "shouldTranslate" : false,
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "XM audio file"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "XM audio file"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "XM audio file"
