@@ -7,68 +7,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Kanselleer"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "إلغاء"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Ləğv et"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Скасаваць"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Отмяна"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "বাতিল"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Cancel·la"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Zrušit"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Annuller"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Abbrechen"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Άκυρο"
           }
         },
         "en" : {
@@ -85,128 +85,128 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Utzi"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "لغو"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Peruuta"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Annuler"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "ביטול"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "रद्द करें"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Odustani"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Mégse"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Չեղարկել"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Batal"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Hætta við"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Annulla"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "ರದ್ದುಮಾಡು"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "취소"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Atcelt"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Откажи"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "റദ്ദാക്കുക"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cancel"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Annuleer"
           }
         },
         "no" : {
@@ -217,44 +217,44 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Anuluj"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Anulează"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Zrušiť"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Prekliči"
           }
         },
         "sr" : {
@@ -265,26 +265,26 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Откажи"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Avbryt"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "ยกเลิก"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Vazgeç"
           }
         },
         "ug" : {
@@ -295,32 +295,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Скасувати"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "منسوخ"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Hủy"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "取消"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "取消"
           }
         }
       }
@@ -331,26 +331,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Kies gebied"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "حدد المنطقة"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Bölgəni seçin"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Выберыце рэгіён"
           }
         },
         "bg" : {
@@ -367,32 +367,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Selecciona la regió"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Vybrat oblast"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Vælg region"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Region auswählen"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Επιλογή Περιοχής"
           }
         },
         "en" : {
@@ -409,8 +409,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Seleccionar Zona"
           }
         },
         "eu" : {
@@ -421,44 +421,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "ناحیه را انتخاب کنید"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Valitse alue"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Sélectionnez une région"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "בחר אזור"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "क्षेत्र का चयन करें"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Odaberi područje"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Válassz régiót"
           }
         },
         "hy" : {
@@ -469,26 +469,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Pilih Area"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Veldu svæði"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Seleziona la regione"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "エリアの選択"
           }
         },
         "kn" : {
@@ -499,8 +499,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "영역 선택"
           }
         },
         "lv" : {
@@ -511,26 +511,26 @@
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Одбери регион"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "പ്രദേശം തിരഞ്ഞെടുക്കുക"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Select Region"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Selecteer gebied"
           }
         },
         "no" : {
@@ -541,38 +541,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Zaznacz obszar"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Selecione a Região"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Selecionar Região"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Selectează regiunea"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Выберите область"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Vybrať oblasť"
           }
         },
         "sl" : {
@@ -589,14 +589,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Изабери област"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Välj region"
           }
         },
         "th" : {
@@ -607,8 +607,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Bölge Seç"
           }
         },
         "ug" : {
@@ -619,32 +619,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Виберіть область"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "خطہ منتخب کریں"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "Chọn khu vực"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "选择区域"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Region"
+            "state" : "translated",
+            "value" : "選取區域"
           }
         }
       }
@@ -655,68 +655,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gereed"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "تم"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Hazırdır"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Гатова"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Готово"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "সম্পন্ন"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Fet"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Hotovo"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Udført"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Bestätigen"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Τέλος"
           }
         },
         "en" : {
@@ -733,128 +733,128 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Hecho"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Eginda"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "انجام شد"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Valmis"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "סיום"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "ठीक है"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gotovo"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Kész"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Հաստատել"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Selesai"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Vista"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "完了"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "ಮಾಡಲಾಗಿದೆ"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "완료"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Paveikts"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Завршено"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "ചെയ്തു"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Done"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gereed"
           }
         },
         "no" : {
@@ -865,44 +865,44 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gotowe"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Pronto"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Feito"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gata"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Готово"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Hotovo"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Končano"
           }
         },
         "sr" : {
@@ -913,26 +913,26 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Готово"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Klar"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "เสร็จสิ้น"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Bitti"
           }
         },
         "ug" : {
@@ -943,32 +943,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Готово"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "مکمل"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Xong"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "完成"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "完成"
           }
         }
       }
@@ -979,26 +979,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Sleep om die gewenste gebied te kies."
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "اسحب لتحديد المنطقة المطلوبة."
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "İstədiyiniz hissəni seçmək üçün sürükləyin"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Перацягніце, каб выбраць патрэбны рэгіён."
           }
         },
         "bg" : {
@@ -1015,32 +1015,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Arrossega per seleccionar la regió desitjada."
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Přetažením vyberte požadovanou oblast."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Træk for at vælge den ønskede region."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Wähle die gewünschte Region durch Ziehen aus."
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Σύρετε για να επιλέξετε την επιθυμητή περιοχή."
           }
         },
         "en" : {
@@ -1057,8 +1057,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Arrasta para seleccionar la zona deseada."
           }
         },
         "eu" : {
@@ -1069,44 +1069,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "بکشید تا ناحیه موردنظر انتخاب شود."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Raahaa valitaksesi alueen."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Faites glisser pour sélectionner la région désirée."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "גרור כדי לבחור את האזור הרצוי."
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "इच्छित क्षेत्र का चयन करने के लिए खींचें।"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Povuci za biranje željenog područja."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Húzza, a kívánt régió kiválasztásához."
           }
         },
         "hy" : {
@@ -1117,26 +1117,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Tarik untuk memilih area yang diinginkan."
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Dragðu til að velja svæði."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Trascina per selezionare la regione desiderata."
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "ドラッグして目的のエリアを選択します。"
           }
         },
         "kn" : {
@@ -1147,8 +1147,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "마우스로 끌어 영역을 선택하십시오."
           }
         },
         "lv" : {
@@ -1159,26 +1159,26 @@
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Повлечете за да го означите саканиот регион."
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "ആവശ്യമുള്ള പ്രദേശം തിരഞ്ഞെടുക്കാൻ വലിച്ചിടുക."
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Drag to select the desired region."
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Sleep om een gebied te selecteren"
           }
         },
         "no" : {
@@ -1189,38 +1189,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Przeciągnij, by zaznaczyć pożądany obszar."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Arraste para selecionar a região desejada."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Arrastar para selecionar a região desejada."
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Trage pentru a selecta regiunea dorită."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Перетащите, чтобы выбрать желаемую область."
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Potiahnutím vyberte požadovanú oblasť."
           }
         },
         "sl" : {
@@ -1237,14 +1237,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Превуците да бисте изабрали жељену област."
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Dra för att markera önskad region."
           }
         },
         "th" : {
@@ -1255,8 +1255,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "İstediğiniz bölgeyi seçmek için taşıyın"
           }
         },
         "ug" : {
@@ -1267,32 +1267,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Перетягніть, щоб вибрати бажану область."
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "مطلوبہ علاقہ منتخب کرنے کے لیے گھسیٹیں."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "Kéo để chọn khu vực mong muốn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "拖拽以选择所需区域。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag to select the desired region."
+            "state" : "translated",
+            "value" : "拖曳選取指定的區域。"
           }
         }
       }
