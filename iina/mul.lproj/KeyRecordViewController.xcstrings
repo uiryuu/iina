@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select action:"
           }
         },
@@ -199,7 +199,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Select action:"
           }
         },
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Välj åtgärd:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Select action:"
           }
         },
         "th" : {
@@ -408,7 +402,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Or enter mpv command:"
           }
         },
@@ -528,7 +522,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Or enter mpv command:"
           }
         },
@@ -602,12 +596,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eller ange mpv-kommando:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Or enter mpv command:"
           }
         },
         "th" : {
