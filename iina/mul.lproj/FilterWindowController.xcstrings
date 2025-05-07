@@ -213,6 +213,7 @@
     },
     "09q-ZP-mpK.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"09q-ZP-mpK\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -243,6 +244,7 @@
     },
     "amK-Iz-lu8.headerCell.title" : {
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"#\"; ObjectID = \"amK-Iz-lu8\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
