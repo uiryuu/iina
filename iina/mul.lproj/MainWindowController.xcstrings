@@ -3,6 +3,7 @@
   "strings" : {
     "1XQ-Mt-jmZ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"1XQ-Mt-jmZ\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -197,12 +198,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -210,6 +205,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -257,7 +258,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -270,12 +271,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -329,11 +324,11 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "3fe-fP-yMB.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Buffering... 100%\"; ObjectID = \"3fe-fP-yMB\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -528,12 +523,6 @@
             "value" : "Buffering... 100%"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Buffering... 100%"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -541,6 +530,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Buffering... 100%"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Buffering... 100%"
@@ -588,7 +583,7 @@
             "value" : "Buffering... 100%"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Buffering... 100%"
@@ -601,12 +596,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Buffering... 100%"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Buffering... 100%"
@@ -660,11 +649,11 @@
             "value" : "Buffering... 100%"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "6mL-0A-eq2.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"6mL-0A-eq2\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -859,12 +848,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -872,6 +855,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -919,7 +908,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -932,12 +921,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -991,11 +974,11 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "7aL-lH-m8i.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"7aL-lH-m8i\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1190,12 +1173,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1203,6 +1180,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1250,7 +1233,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1263,12 +1246,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1322,11 +1299,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "DVg-p3-w5Q.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"DVg-p3-w5Q\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1521,12 +1498,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1534,6 +1505,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1581,7 +1558,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1594,12 +1571,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1653,11 +1624,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "eCe-SS-Wlj.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-32x\"; ObjectID = \"eCe-SS-Wlj\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1852,12 +1823,6 @@
             "value" : "-32x"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-32x"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1865,6 +1830,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-32x"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-32x"
@@ -1912,7 +1883,7 @@
             "value" : "-32x"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-32x"
@@ -1925,12 +1896,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-32x"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-32x"
@@ -1984,8 +1949,7 @@
             "value" : "-32x"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "gdE-b5-kod.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"This video is playing in picture in picture\"; ObjectID = \"gdE-b5-kod\";",
@@ -1993,14 +1957,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die video speel in beeld-in-beeld af"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "يجري تشغيل هذا الفيديو بنظام صورة داخل صورة"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "az" : {
@@ -2011,8 +1975,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Гэта відэа праграваецца ў рэжыме відарыс у відарысу"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "bg" : {
@@ -2029,26 +1993,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aquest vídeo s'està reproduint en Picture in Picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video je přehráváno jako obraz v obrazu."
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne video afspilles i picture in picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dieses Video wird Bild-in-Bild abgespielt."
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "el" : {
@@ -2065,14 +2029,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "This video is playing in picture in picture"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este vídeo se esta reproduciendo en picture in picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "eu" : {
@@ -2083,44 +2047,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "این ویدئو در حالت تصویر در تصویر در حال پخش است"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tätä videota toistetaan kuva kuvassa -tilassa"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cette vidéo est en cours de lecture en image dans l'image"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "הסרטון הזה מתנגן במצב תמונה בתוך תמונה"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "यह वीडियो पिक्चर-इन-पिक्चर में चल रहा है"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Videozapis se reproduciraj sliku u slici"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ez a video játszódik kép a képben"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "hy" : {
@@ -2131,8 +2095,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video ini diputar dalam mode picture in picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "is" : {
@@ -2143,14 +2107,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Questo video è in riproduzione in modalità Picture-in-Picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "このビデオはピクチャー・イン・ピクチャーで再生しています"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "kn" : {
@@ -2161,8 +2125,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "화면 속 화면으로 재생 중입니다"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "lv" : {
@@ -2183,12 +2147,6 @@
             "value" : "This video is playing in picture in picture"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne videoen spiller som bilde-i-bilde"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2197,44 +2155,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deze video wordt beeld in beeld afgespeeld."
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odtwarzanie Obraz-w-obrazie"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este vídeo está em Picture in Picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este vídeo está a ser reproduzido em modo Picture in Picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acest video rulează în modul Picture-in-Picture."
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Это видео воспроизводится в режиме «Картинка в картинке»"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video sa prehráva v móde picture in picture"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "sl" : {
@@ -2243,25 +2207,19 @@
             "value" : "This video is playing in picture in picture"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ovaj video-zapis reprodukuje se u režimu slike u slici"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Овај видео-запис репродукује се у режиму слике у слици"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denna video spelar i bild-i-bild"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "This video is playing in picture in picture"
@@ -2275,8 +2233,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bu video resim içinde resim olarak oynatılıyor"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "ug" : {
@@ -2287,8 +2245,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Це відео відтворюється в режимі «Картинка в картинці»"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "ur-PK" : {
@@ -2299,26 +2257,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video này đang phát trong chế độ Ảnh trong ảnh"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "视频正在“画中画”模式播放"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "影片正在子母畫面模式下播放"
+            "state" : "new",
+            "value" : "This video is playing in picture in picture"
           }
         }
       }
     },
     "IyU-0H-hyV.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"99:99\"; ObjectID = \"IyU-0H-hyV\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2513,12 +2472,6 @@
             "value" : "99:99"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "99:99"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2526,6 +2479,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "99:99"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "99:99"
@@ -2573,7 +2532,7 @@
             "value" : "99:99"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "99:99"
@@ -2586,12 +2545,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "99:99"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "99:99"
@@ -2645,11 +2598,11 @@
             "value" : "99:99"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "JAn-Yu-XA2.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"On Screen Display\"; ObjectID = \"JAn-Yu-XA2\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2844,12 +2797,6 @@
             "value" : "On Screen Display"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On Screen Display"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2857,6 +2804,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On Screen Display"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "On Screen Display"
@@ -2904,7 +2857,7 @@
             "value" : "On Screen Display"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "On Screen Display"
@@ -2917,12 +2870,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On Screen Display"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "On Screen Display"
@@ -2976,11 +2923,11 @@
             "value" : "On Screen Display"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "Pw8-rd-mUu.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"Pw8-rd-mUu\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3175,12 +3122,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3188,6 +3129,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -3235,7 +3182,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -3248,12 +3195,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -3307,11 +3248,11 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "ULE-u4-k9L.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"32x\"; ObjectID = \"ULE-u4-k9L\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3506,12 +3447,6 @@
             "value" : "32x"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "32x"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3519,6 +3454,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "32x"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "32x"
@@ -3566,7 +3507,7 @@
             "value" : "32x"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "32x"
@@ -3579,12 +3520,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "32x"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "32x"
@@ -3638,11 +3573,11 @@
             "value" : "32x"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "va1-P5-3b0.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"100%\"; ObjectID = \"va1-P5-3b0\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3837,12 +3772,6 @@
             "value" : "100%"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "100%"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3850,6 +3779,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "100%"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "100%"
@@ -3897,7 +3832,7 @@
             "value" : "100%"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "100%"
@@ -3910,12 +3845,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "100%"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "100%"
@@ -3969,11 +3898,11 @@
             "value" : "100%"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "WOE-SX-krh.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"WOE-SX-krh\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -4168,12 +4097,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -4181,6 +4104,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -4228,7 +4157,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -4241,12 +4170,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -4300,8 +4223,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     }
   },
   "version" : "1.0"
