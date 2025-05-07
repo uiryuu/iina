@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Crop"
           }
         },
@@ -145,7 +145,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Crop"
           }
         },
@@ -197,15 +197,9 @@
             "value" : "ക്രോപ്"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beskjær"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Crop"
           }
         },
@@ -213,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bijsnijden"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "pl" : {
@@ -257,10 +257,10 @@
             "value" : "Obreži"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Iseci"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "sr-SP" : {
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beskär"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வெட்டு"
           }
         },
         "th" : {
@@ -333,6 +327,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[0]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[0] = \"4:3\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -527,12 +522,6 @@
             "value" : "4:3"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "4:3"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -540,6 +529,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4:3"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "4:3"
@@ -587,7 +582,7 @@
             "value" : "4:3"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "4:3"
@@ -600,12 +595,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "4:3"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "4:3"
@@ -659,11 +648,11 @@
             "value" : "4:3"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[1]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[1] = \"16:9\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -858,12 +847,6 @@
             "value" : "16:9"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:9"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -871,6 +854,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "16:9"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:9"
@@ -918,7 +907,7 @@
             "value" : "16:9"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:9"
@@ -931,12 +920,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:9"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:9"
@@ -990,11 +973,11 @@
             "value" : "16:9"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[2]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[2] = \"16:10\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1189,12 +1172,6 @@
             "value" : "16:10"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:10"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1202,6 +1179,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "16:10"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:10"
@@ -1249,7 +1232,7 @@
             "value" : "16:10"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:10"
@@ -1262,12 +1245,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:10"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:10"
@@ -1321,11 +1298,11 @@
             "value" : "16:10"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[3]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[3] = \"5:4\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1520,12 +1497,6 @@
             "value" : "5:4"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "5:4"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1533,6 +1504,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5:4"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "5:4"
@@ -1580,7 +1557,7 @@
             "value" : "5:4"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "5:4"
@@ -1593,12 +1570,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "5:4"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "5:4"
@@ -1652,11 +1623,11 @@
             "value" : "5:4"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[4]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[4] = \"3:2\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1851,12 +1822,6 @@
             "value" : "3:2"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3:2"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1864,6 +1829,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3:2"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3:2"
@@ -1911,7 +1882,7 @@
             "value" : "3:2"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3:2"
@@ -1924,12 +1895,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3:2"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3:2"
@@ -1983,11 +1948,11 @@
             "value" : "3:2"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[5]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[5] = \"21:9\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2182,12 +2147,6 @@
             "value" : "21:9"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "21:9"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2195,6 +2154,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "21:9"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "21:9"
@@ -2242,7 +2207,7 @@
             "value" : "21:9"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "21:9"
@@ -2255,12 +2220,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "21:9"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "21:9"
@@ -2314,8 +2273,7 @@
             "value" : "21:9"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "BtO-vw-tiy.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"BtO-vw-tiy\";",
@@ -2395,7 +2353,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cancel"
           }
         },
@@ -2513,15 +2471,9 @@
             "value" : "റദ്ദാക്കുക"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cancel"
           }
         },
@@ -2529,6 +2481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Annuleer"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pl" : {
@@ -2573,10 +2531,10 @@
             "value" : "Prekliči"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otkaži"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sr-SP" : {
@@ -2589,12 +2547,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avbryt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ரத்துசெய்"
           }
         },
         "th" : {
@@ -2725,7 +2677,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Done"
           }
         },
@@ -2843,15 +2795,9 @@
             "value" : "ചെയ്തു"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ferdig"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Done"
           }
         },
@@ -2859,6 +2805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gereed"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pl" : {
@@ -2903,10 +2855,10 @@
             "value" : "Končano"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sr-SP" : {
@@ -2919,12 +2871,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முடிந்தது"
           }
         },
         "th" : {
@@ -2979,6 +2925,7 @@
     },
     "Fgl-Cs-eEh.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"Fgl-Cs-eEh\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3173,12 +3120,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3186,6 +3127,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3233,7 +3180,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3246,12 +3193,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3305,8 +3246,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     }
   },
   "version" : "1.0"
