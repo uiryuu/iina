@@ -423,6 +423,7 @@
     },
     "azJ-oz-BKZ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"sans-serif\"; ObjectID = \"azJ-oz-BKZ\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
