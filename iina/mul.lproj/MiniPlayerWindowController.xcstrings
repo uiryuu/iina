@@ -3,6 +3,7 @@
   "strings" : {
     "aot-6J-Jp7.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"50\"; ObjectID = \"aot-6J-Jp7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -197,12 +198,6 @@
             "value" : "50"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "50"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -210,6 +205,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -257,7 +258,7 @@
             "value" : "50"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -270,12 +271,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "50"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -329,8 +324,7 @@
             "value" : "50"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "F4P-Wj-5qw.ibShadowedToolTip" : {
       "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Close Mini Player\"; ObjectID = \"F4P-Wj-5qw\";",
@@ -338,14 +332,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sluit minispeler"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "إغلاق النافذة المصغرة"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "az" : {
@@ -356,8 +350,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закрыць міні-плэер"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "bg" : {
@@ -374,26 +368,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tanca Mini Reproductor"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zavřít minipřehrávač"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vælg Mini Afspiller"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mini-Player schließen"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "el" : {
@@ -410,14 +404,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Close Mini Player"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cerrar Mini Reproductor"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "eu" : {
@@ -428,44 +422,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بستن پخش کننده کوچک"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sulje minisoitin"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fermer le mini lecteur"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "סגור נגן מוקטן"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "मिनी प्लेयर बंद करें"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Izaći iz okvirića"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mini Player bezárása"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hy" : {
@@ -476,8 +470,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutup Pemutar Mini"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "is" : {
@@ -488,14 +482,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chiudi Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ミニプレイヤーを閉じる"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "kn" : {
@@ -506,14 +500,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "미니 플레이어 닫기"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aizvērt Mini atskaņotāju"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "mk" : {
@@ -528,12 +522,6 @@
             "value" : "Close Mini Player"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lukk minispiller"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -542,44 +530,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sluit minispeler"
+            "state" : "new",
+            "value" : "Close Mini Player"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zamknij mini odtwarzacz"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fechar Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fechar Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Închide Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закрыть мини-плеер"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zavrieť Mini Prehrávač"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sl" : {
@@ -588,25 +582,19 @@
             "value" : "Close Mini Player"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zatvori mini-plejer"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Затвори мини-плејер"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stäng minispelaren"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Close Mini Player"
@@ -620,8 +608,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mini Oynatıcıyı Kapat"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ug" : {
@@ -632,8 +620,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закрити міні-плеєр"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ur-PK" : {
@@ -644,20 +632,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Đóng trình phát thu nhỏ"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "关闭迷你播放器"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "關閉迷你播放器"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         }
       }
@@ -668,14 +656,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sluit minispeler"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "إغلاق النافذة المصغرة"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "az" : {
@@ -686,8 +674,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закрыць міні-плэер"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "bg" : {
@@ -704,26 +692,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tanca Mini Reproductor"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zavřít minipřehrávač"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vælg Mini Afspiller"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mini-Player schließen"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "el" : {
@@ -740,14 +728,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Close Mini Player"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cerrar Mini Reproductor"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "eu" : {
@@ -758,44 +746,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بستن پخش کننده کوچک"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sulje minisoitin"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fermer le mini lecteur"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "סגור נגן מוקטן"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "मिनी प्लेयर बंद करें"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Izaći iz okvirića"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mini Player bezárása"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "hy" : {
@@ -806,8 +794,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutup Pemutar Mini"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "is" : {
@@ -818,14 +806,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chiudi Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ミニプレイヤーを閉じる"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "kn" : {
@@ -836,14 +824,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "미니 플레이어 닫기"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aizvērt Mini atskaņotāju"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "mk" : {
@@ -858,12 +846,6 @@
             "value" : "Close Mini Player"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lukk minispiller"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -872,44 +854,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sluit minispeler"
+            "state" : "new",
+            "value" : "Close Mini Player"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zamknij mini odtwarzacz"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fechar Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fechar Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Închide Mini Player"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закрыть мини-плеер"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zavrieť Mini Prehrávač"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sl" : {
@@ -918,25 +906,19 @@
             "value" : "Close Mini Player"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zatvori mini-plejer"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Затвори мини-плејер"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stäng minispelaren"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Close Mini Player"
@@ -950,8 +932,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mini Oynatıcıyı Kapat"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ug" : {
@@ -962,8 +944,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закрити міні-плеєр"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "ur-PK" : {
@@ -974,20 +956,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Đóng trình phát thu nhỏ"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "关闭迷你播放器"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "關閉迷你播放器"
+            "state" : "new",
+            "value" : "Close Mini Player"
           }
         }
       }
@@ -998,14 +980,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terug na videomodus"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "العودة إلى وضع الفيديو"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "az" : {
@@ -1016,8 +998,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назад у рэжым відэа"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "bg" : {
@@ -1034,26 +1016,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Torna al mode de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zpět do zobrazení videa"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbage til video mode"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zum Videomodus zurückkehren"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "el" : {
@@ -1070,14 +1052,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Back to video mode"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volver al modo de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "eu" : {
@@ -1088,44 +1070,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بازگشت به حالت ویدئو"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Takaisin videotilaan"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Retour au mode vidéo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "חזור למצב וידאו"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "वापस वीडियो मोड में"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati se u glazbeni modus"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vissza videó módba"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hy" : {
@@ -1136,8 +1118,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kembali ke Mode Video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "is" : {
@@ -1148,14 +1130,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ritorna alla modalità video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ビデオモードに戻る"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "kn" : {
@@ -1166,14 +1148,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "비디오 모드로 복귀"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atgriezties video režīmā"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "mk" : {
@@ -1188,12 +1170,6 @@
             "value" : "Back to video mode"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbake til videomodus"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1202,44 +1178,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schakel terug naar videomodus"
+            "state" : "new",
+            "value" : "Back to video mode"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wróć do trybu wideo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltar ao modo de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltar ao mode de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înapoi la modul video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вернуться в видеорежим"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Späť do video zobrazenia"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sl" : {
@@ -1248,25 +1230,19 @@
             "value" : "Back to video mode"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati se u video-režim"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Врати се у видео-режим"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tillbaka till videoläge"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Back to video mode"
@@ -1280,8 +1256,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video moduna geri dön"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ug" : {
@@ -1292,8 +1268,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назад у режим відео"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ur-PK" : {
@@ -1304,26 +1280,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trở về chế độ video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "返回视频模式"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "返回視訊模式"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         }
       }
     },
     "Nle-gv-CWY.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Artist - Album\"; ObjectID = \"Nle-gv-CWY\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1518,12 +1495,6 @@
             "value" : "Artist - Album"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artist - Album"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1531,6 +1502,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Artist - Album"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -1578,7 +1555,7 @@
             "value" : "Artist - Album"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -1591,12 +1568,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artist - Album"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -1650,11 +1621,11 @@
             "value" : "Artist - Album"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "Rs9-6l-6vp.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Title\"; ObjectID = \"Rs9-6l-6vp\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1849,12 +1820,6 @@
             "value" : "Title"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1862,6 +1827,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -1909,7 +1880,7 @@
             "value" : "Title"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -1922,12 +1893,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -1981,11 +1946,11 @@
             "value" : "Title"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "V74-PQ-Yfr.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"V74-PQ-Yfr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2180,12 +2145,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2193,6 +2152,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2240,7 +2205,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2253,12 +2218,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2312,11 +2271,11 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "WnA-NE-3bG.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"WnA-NE-3bG\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2511,12 +2470,6 @@
             "value" : "-:--:--"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2524,6 +2477,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-:--:--"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2571,7 +2530,7 @@
             "value" : "-:--:--"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2584,12 +2543,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -2643,8 +2596,7 @@
             "value" : "-:--:--"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "WS6-ix-uBJ.ibShadowedToolTip" : {
       "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Back to video mode\"; ObjectID = \"WS6-ix-uBJ\";",
@@ -2652,14 +2604,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terug na videomodus"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "العودة إلى وضع الفيديو"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "az" : {
@@ -2670,8 +2622,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назад у рэжым відэа"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "bg" : {
@@ -2688,26 +2640,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Torna al mode de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zpět do zobrazení videa"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbage til video mode"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zum Videomodus zurückkehren"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "el" : {
@@ -2724,14 +2676,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Back to video mode"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volver al modo de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "eu" : {
@@ -2742,44 +2694,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بازگشت به حالت ویدئو"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Takaisin videotilaan"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Retour au mode vidéo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "חזור למצב וידאו"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "वापस वीडियो मोड में"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati se u glazbeni modus"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vissza videó módba"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "hy" : {
@@ -2790,8 +2742,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kembali ke Mode Video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "is" : {
@@ -2802,14 +2754,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ritorna alla modalità video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ビデオモードに戻る"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "kn" : {
@@ -2820,14 +2772,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "비디오 모드로 복귀"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atgriezties video režīmā"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "mk" : {
@@ -2842,12 +2794,6 @@
             "value" : "Back to video mode"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbake til videomodus"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2856,44 +2802,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schakel terug naar videomodus"
+            "state" : "new",
+            "value" : "Back to video mode"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wróć do trybu wideo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltar ao modo de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltar ao mode de vídeo"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înapoi la modul video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вернуться в видеорежим"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Späť do video zobrazenia"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sl" : {
@@ -2902,25 +2854,19 @@
             "value" : "Back to video mode"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati se u video-režim"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Врати се у видео-режим"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tillbaka till videoläge"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Back to video mode"
@@ -2934,8 +2880,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video moduna geri dön"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ug" : {
@@ -2946,8 +2892,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Назад у режим відео"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "ur-PK" : {
@@ -2958,20 +2904,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trở về chế độ video"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "返回视频模式"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "返回視訊模式"
+            "state" : "new",
+            "value" : "Back to video mode"
           }
         }
       }
