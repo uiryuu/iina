@@ -7,26 +7,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kies aksie:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "حدد الإجراء:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Əməliyyatı seçin:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберыце дзеянне:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "bg" : {
@@ -43,32 +43,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecciona acció:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zvolte akci:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vælg handling:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktion auswählen:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Επιλογή ενέργειας:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "en" : {
@@ -79,14 +79,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select action:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleccionar acción:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "eu" : {
@@ -97,44 +97,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "انتخاب عملکرد:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valitse toiminto:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sélectionnez une action :"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "בחר פעולה:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "कार्रवाई चुनें:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odaberite radnju:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Művelet kiválasztása:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "hy" : {
@@ -145,26 +145,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pilih tindakan:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veldu aðgerð:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleziona azione:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "アクションを選択:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "kn" : {
@@ -175,8 +175,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "동작 선택"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "lv" : {
@@ -205,50 +205,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecteer een actie:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Velg handling:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wybierz akcję:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecionar ação:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecionar ação:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selectează acțiune:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите действие:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vyberte akciu:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "sl" : {
@@ -259,23 +259,17 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Izaberite radnju:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изабери радњу:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Välj åtgärd:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select action:"
@@ -289,8 +283,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eylem seç:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "ug" : {
@@ -301,8 +295,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Оберіть дію:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "ur-PK" : {
@@ -313,20 +307,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chọn hành động:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "选择操作:"
+            "state" : "new",
+            "value" : "Select action:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "選擇動作："
+            "state" : "new",
+            "value" : "Select action:"
           }
         }
       }
@@ -336,26 +330,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Of voer mpv-bevel in:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "أو أدخل أمر mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Və ya mpv əməliyyatı daxil edin:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ці ўвядзіце каманду mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "bg" : {
@@ -372,32 +366,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "O introdueix una ordre de mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nebo zadejte mpv příkaz:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eller vælg mpv-kommando:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mpv-Befehl eingeben:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ή εισάγετε εντολή mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "en" : {
@@ -408,14 +402,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Or enter mpv command:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "O ingrese el comando mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "eu" : {
@@ -426,44 +420,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "یا دستور mvp را وارد کنید:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tai kirjoita mpv-komento:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ou entrez une commande mpv :"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "או הזן פקודת mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "या mpv कमांड दर्ज करें:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ili upiši mpv naredbu:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vagy adjon meg egy mpv parancsot:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "hy" : {
@@ -474,26 +468,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atau masukkan perintah mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eða skrifaðu mpv skipun:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oppure inserisci il comando mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "もしくはmpvコマンドを入力:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "kn" : {
@@ -504,8 +498,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mpv 명령행 바로 입력"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "lv" : {
@@ -534,50 +528,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Of voer een mpv-commando in:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eller skriv mpv-kommando:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lub wprowadź polecenie mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ou insira o comando mvp:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ou introduza o comando mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sau introdu comandă mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Или введите команду mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alebo zadajte mpv príkaz:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "sl" : {
@@ -588,23 +582,17 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ili unesite naredbu za mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Или унесите наредбу за mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eller ange mpv-kommando:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Or enter mpv command:"
@@ -618,8 +606,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veya mpv komutu gir:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "ug" : {
@@ -630,8 +618,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Або введіть команду mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "ur-PK" : {
@@ -642,20 +630,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hoặc nhập lệnh mpv:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "或输入 mpv 命令:"
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "或輸入 mpv 指令："
+            "state" : "new",
+            "value" : "Or enter mpv command:"
           }
         }
       }
