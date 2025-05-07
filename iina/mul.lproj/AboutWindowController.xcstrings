@@ -3,6 +3,7 @@
   "strings" : {
     "7k7-70-Kku.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Crowdin\"; ObjectID = \"7k7-70-Kku\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -33,6 +34,7 @@
     },
     "dkA-td-UyX.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"IINA\"; ObjectID = \"dkA-td-UyX\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -93,6 +95,7 @@
     },
     "gZA-85-Zaw.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0.0.1\"; ObjectID = \"gZA-85-Zaw\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -273,6 +276,7 @@
     },
     "oha-Ne-oEr.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Branch\"; ObjectID = \"oha-Ne-oEr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -333,6 +337,7 @@
     },
     "U9l-uR-i7g.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"iina/contributors\"; ObjectID = \"U9l-uR-i7g\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -363,6 +368,7 @@
     },
     "WeO-aJ-nY3.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"FFmpeg 0.0.0\"; ObjectID = \"WeO-aJ-nY3\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -453,6 +459,7 @@
     },
     "ZAx-ah-fbZ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"mpv 0.0.0\"; ObjectID = \"ZAx-ah-fbZ\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
