@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "0.5x video size"
           }
         },
@@ -197,15 +197,9 @@
             "value" : "0.5x video size"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "0.5x video size"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0.5x video size"
           }
         },
@@ -213,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Halve videogrootte"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0.5x video size"
           }
         },
         "pl" : {
@@ -257,10 +257,10 @@
             "value" : "0.5x video size"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina video-zapisa 0,5x"
+            "state" : "new",
+            "value" : "0.5x video size"
           }
         },
         "sr-SP" : {
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "0,5x videostorlek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "0.5x video size"
           }
         },
         "th" : {
@@ -409,7 +403,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bottom"
           }
         },
@@ -527,15 +521,9 @@
             "value" : "Bottom"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bunn"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bottom"
           }
         },
@@ -543,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Onder"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bottom"
           }
         },
         "pl" : {
@@ -587,10 +581,10 @@
             "value" : "Bottom"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dno"
+            "state" : "new",
+            "value" : "Bottom"
           }
         },
         "sr-SP" : {
@@ -603,12 +597,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Botten"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "கீழ்"
           }
         },
         "th" : {
@@ -857,15 +845,9 @@
             "value" : "Customize…"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Customize…"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Customize…"
           }
         },
@@ -873,6 +855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas aan…"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Customize…"
           }
         },
         "pl" : {
@@ -917,10 +905,10 @@
             "value" : "Customize…"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prilagodi…"
+            "state" : "new",
+            "value" : "Customize…"
           }
         },
         "sr-SP" : {
@@ -933,12 +921,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anpassa…"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தனிமையாக்கு…"
           }
         },
         "th" : {
@@ -1069,7 +1051,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% of screen"
           }
         },
@@ -1187,15 +1169,9 @@
             "value" : "% of screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "% av skjermen"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "% of screen"
           }
         },
@@ -1203,6 +1179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% van scherm"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "% of screen"
           }
         },
         "pl" : {
@@ -1247,10 +1229,10 @@
             "value" : "% of screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "% ekrana"
+            "state" : "new",
+            "value" : "% of screen"
           }
         },
         "sr-SP" : {
@@ -1263,12 +1245,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% av skärm"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "% of screen"
           }
         },
         "th" : {
@@ -1399,7 +1375,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Use left/right button for:"
           }
         },
@@ -1517,15 +1493,9 @@
             "value" : "Use left/right button for:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bruk venstre-/høyreknapp for:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Use left/right button for:"
           }
         },
@@ -1533,6 +1503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gebruik linker-/rechterknop voor:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use left/right button for:"
           }
         },
         "pl" : {
@@ -1577,10 +1553,10 @@
             "value" : "Use left/right button for:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristi levo/desno dugme za:"
+            "state" : "new",
+            "value" : "Use left/right button for:"
           }
         },
         "sr-SP" : {
@@ -1593,12 +1569,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Använd vänster-/högertangenten till:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use left/right button for:"
           }
         },
         "th" : {
@@ -1657,7 +1627,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1693,25 +1663,25 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1729,13 +1699,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1765,7 +1735,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1777,13 +1747,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1795,7 +1765,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1807,13 +1777,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1825,13 +1795,13 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1847,45 +1817,45 @@
             "value" : "MB"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "MB"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "MB"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "MB"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "MB"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1897,7 +1867,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1907,9 +1877,9 @@
             "value" : "MB"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1921,13 +1891,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "MB"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1939,7 +1903,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
@@ -1969,13 +1933,13 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "MB"
           }
         }
@@ -2059,7 +2023,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Floating"
           }
         },
@@ -2177,15 +2141,9 @@
             "value" : "Floating"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Floating"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Floating"
           }
         },
@@ -2193,6 +2151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zwevend"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Floating"
           }
         },
         "pl" : {
@@ -2237,10 +2201,10 @@
             "value" : "Floating"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plutajući"
+            "state" : "new",
+            "value" : "Floating"
           }
         },
         "sr-SP" : {
@@ -2253,12 +2217,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Svävande"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Floating"
           }
         },
         "th" : {
@@ -2389,7 +2347,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resize window to:"
           }
         },
@@ -2507,15 +2465,9 @@
             "value" : "Resize window to:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Resize window to:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Resize window to:"
           }
         },
@@ -2523,6 +2475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open in:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resize window to:"
           }
         },
         "pl" : {
@@ -2567,10 +2525,10 @@
             "value" : "Resize window to:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Promeni veličinu prozora na:"
+            "state" : "new",
+            "value" : "Resize window to:"
           }
         },
         "sr-SP" : {
@@ -2583,12 +2541,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ändra fönsterstorlek till:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Resize window to:"
           }
         },
         "th" : {
@@ -2837,19 +2789,19 @@
             "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
@@ -2897,7 +2849,7 @@
             "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
@@ -2913,12 +2865,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När tillgänglighetsinställningen \"Minska rörelse\" är påslagen i macOS kommer IINA att minska mängden animationer i gränssnittet som kan orsaka problem för personer med vestibulära störningar. Om detta inte skulle räcka kan denna inställning användas för att minska rörelse ännu mer genom att helt ta bort animationer i gränssnittet."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "When the macOS Reduce Motion accessibility setting is enabled IINA will reduce user interface animations that are known to cause problems for those with vestibular disorders. Should that be insufficient, this setting can be used to reduce motion further by eliminating user interface animations."
           }
         },
         "th" : {
@@ -3049,7 +2995,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto hide after:"
           }
         },
@@ -3167,15 +3113,9 @@
             "value" : "Auto hide after:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skjul automatisk etter:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto hide after:"
           }
         },
@@ -3183,6 +3123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verberg automatisch na:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto hide after:"
           }
         },
         "pl" : {
@@ -3227,10 +3173,10 @@
             "value" : "Auto hide after:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatski sakrij nakon:"
+            "state" : "new",
+            "value" : "Auto hide after:"
           }
         },
         "sr-SP" : {
@@ -3243,12 +3189,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Göm automatiskt efter:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto hide after:"
           }
         },
         "th" : {
@@ -3379,7 +3319,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "bottom"
           }
         },
@@ -3497,15 +3437,9 @@
             "value" : "bottom"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "bunn"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "bottom"
           }
         },
@@ -3513,6 +3447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "onderkant"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "bottom"
           }
         },
         "pl" : {
@@ -3557,10 +3497,10 @@
             "value" : "bottom"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "dno"
+            "state" : "new",
+            "value" : "bottom"
           }
         },
         "sr-SP" : {
@@ -3573,12 +3513,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "botten"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "கீழ்"
           }
         },
         "th" : {
@@ -3709,7 +3643,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% of screen"
           }
         },
@@ -3827,15 +3761,9 @@
             "value" : "% of screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "% av skjermen"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "% of screen"
           }
         },
@@ -3843,6 +3771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% van scherm"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "% of screen"
           }
         },
         "pl" : {
@@ -3887,10 +3821,10 @@
             "value" : "% of screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "% ekrana"
+            "state" : "new",
+            "value" : "% of screen"
           }
         },
         "sr-SP" : {
@@ -3903,12 +3837,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% av skärm"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "% of screen"
           }
         },
         "th" : {
@@ -4039,7 +3967,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Window:"
           }
         },
@@ -4105,7 +4033,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Window:"
           }
         },
@@ -4157,15 +4085,9 @@
             "value" : "Window:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vindu:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Window:"
           }
         },
@@ -4173,6 +4095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Venster:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Window:"
           }
         },
         "pl" : {
@@ -4217,10 +4145,10 @@
             "value" : "Okno:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prozor:"
+            "state" : "new",
+            "value" : "Window:"
           }
         },
         "sr-SP" : {
@@ -4233,12 +4161,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fönster:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "சாளரம்:"
           }
         },
         "th" : {
@@ -4487,19 +4409,19 @@
             "value" : "Accessibility:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Accessibility:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Accessibility:"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Accessibility:"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Accessibility:"
@@ -4547,7 +4469,7 @@
             "value" : "Accessibility:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Accessibility:"
@@ -4563,12 +4485,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tillgänglighet:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Accessibility:"
           }
         },
         "th" : {
@@ -4699,7 +4615,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Width:"
           }
         },
@@ -4817,15 +4733,9 @@
             "value" : "വീതി:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bredde:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Width:"
           }
         },
@@ -4833,6 +4743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Breedte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Width:"
           }
         },
         "pl" : {
@@ -4877,10 +4793,10 @@
             "value" : "Širina:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Širina:"
+            "state" : "new",
+            "value" : "Width:"
           }
         },
         "sr-SP" : {
@@ -4893,12 +4809,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bredd:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அகலம்:"
           }
         },
         "th" : {
@@ -5147,15 +5057,9 @@
             "value" : "Toggle Picture-in-Picture by minimizing/un-minimizing the window"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Start/slutt bilde-i-bilde ved å minimere/av-minimere vinduet"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Picture-in-Picture by minimizing/un-minimizing the window"
           }
         },
@@ -5163,6 +5067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gebruik Beeld-in-beeld zolang het venster geminimaliseerd is"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle Picture-in-Picture by minimizing/un-minimizing the window"
           }
         },
         "pl" : {
@@ -5207,10 +5117,10 @@
             "value" : "Toggle Picture-in-Picture by minimizing/un-minimizing the window"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uključi/isključi sliku u slici umanjivanjem/vraćanjem prozora"
+            "state" : "new",
+            "value" : "Toggle Picture-in-Picture by minimizing/un-minimizing the window"
           }
         },
         "sr-SP" : {
@@ -5223,12 +5133,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Växla bild-i-bild genom att minimera/återställa fönstret"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture by minimizing/un-minimizing the window"
           }
         },
         "th" : {
@@ -5359,7 +5263,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Show chapter position in progress bar"
           }
         },
@@ -5477,15 +5381,9 @@
             "value" : "Show chapter position in progress bar"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show chapter position in progress bar"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Show chapter position in progress bar"
           }
         },
@@ -5493,6 +5391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toon hoofdstukken in de tijdbalk"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show chapter position in progress bar"
           }
         },
         "pl" : {
@@ -5537,10 +5441,10 @@
             "value" : "Show chapter position in progress bar"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži položaj poglavlja na traci toka"
+            "state" : "new",
+            "value" : "Show chapter position in progress bar"
           }
         },
         "sr-SP" : {
@@ -5553,12 +5457,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visa kapitelposition i tidslinjen"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show chapter position in progress bar"
           }
         },
         "th" : {
@@ -5689,7 +5587,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "When media is opened manually"
           }
         },
@@ -5807,15 +5705,9 @@
             "value" : "When media is opened manually"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Når media åpnes manuelt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "When media is opened manually"
           }
         },
@@ -5823,6 +5715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als media handmatig wordt geopend"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When media is opened manually"
           }
         },
         "pl" : {
@@ -5867,10 +5765,10 @@
             "value" : "When media is opened manually"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kada se medijska datoteka otvori ručno"
+            "state" : "new",
+            "value" : "When media is opened manually"
           }
         },
         "sr-SP" : {
@@ -5883,12 +5781,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När media öppnas manuellt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "When media is opened manually"
           }
         },
         "th" : {
@@ -6137,19 +6029,19 @@
             "value" : "File start"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "File start"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "File start"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File start"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "File start"
@@ -6197,7 +6089,7 @@
             "value" : "File start"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "File start"
@@ -6210,12 +6102,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "File start"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "File start"
@@ -6349,7 +6235,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Disabled"
           }
         },
@@ -6467,15 +6353,9 @@
             "value" : "Disabled"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deaktivert"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disabled"
           }
         },
@@ -6483,6 +6363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitgeschakeld"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disabled"
           }
         },
         "pl" : {
@@ -6527,10 +6413,10 @@
             "value" : "Disabled"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onemogućeno"
+            "state" : "new",
+            "value" : "Disabled"
           }
         },
         "sr-SP" : {
@@ -6543,12 +6429,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Av"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முடக்கப்பட்டுள்ளது"
           }
         },
         "th" : {
@@ -6679,7 +6559,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "2x video size"
           }
         },
@@ -6797,15 +6677,9 @@
             "value" : "2x video size"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2x videostørrelse"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "2x video size"
           }
         },
@@ -6813,6 +6687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dubbele videogrootte"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2x video size"
           }
         },
         "pl" : {
@@ -6857,10 +6737,10 @@
             "value" : "2x video size"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina video-zapisa 1x"
+            "state" : "new",
+            "value" : "2x video size"
           }
         },
         "sr-SP" : {
@@ -6873,12 +6753,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "2x videostorlek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "2x video size"
           }
         },
         "th" : {
@@ -7009,7 +6883,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Show remaining time instead of total duration"
           }
         },
@@ -7127,15 +7001,9 @@
             "value" : "Show remaining time instead of total duration"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show remaining time instead of total duration"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Show remaining time instead of total duration"
           }
         },
@@ -7143,6 +7011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toon resterende tijd in plaats van totale duur"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show remaining time instead of total duration"
           }
         },
         "pl" : {
@@ -7187,10 +7061,10 @@
             "value" : "Show remaining time instead of total duration"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži preostalo vreme umesto ukupnog trajanja"
+            "state" : "new",
+            "value" : "Show remaining time instead of total duration"
           }
         },
         "sr-SP" : {
@@ -7203,12 +7077,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visa återstående tid istället för total varaktighet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show remaining time instead of total duration"
           }
         },
         "th" : {
@@ -7339,7 +7207,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "When entering Picture-in-Picture:"
           }
         },
@@ -7457,15 +7325,9 @@
             "value" : "When entering Picture-in-Picture:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "When entering Picture-in-Picture:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "When entering Picture-in-Picture:"
           }
         },
@@ -7473,6 +7335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bij activeren van Beeld-in-beeld:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When entering Picture-in-Picture:"
           }
         },
         "pl" : {
@@ -7517,10 +7385,10 @@
             "value" : "When entering Picture-in-Picture:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prilikom ulaska u režim slike u slici:"
+            "state" : "new",
+            "value" : "When entering Picture-in-Picture:"
           }
         },
         "sr-SP" : {
@@ -7533,12 +7401,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När bild-i-bild aktiveras:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "When entering Picture-in-Picture:"
           }
         },
         "th" : {
@@ -7669,7 +7531,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Width:"
           }
         },
@@ -7787,15 +7649,9 @@
             "value" : "വീതി:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bredde:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Width:"
           }
         },
@@ -7803,6 +7659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Breedte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Width:"
           }
         },
         "pl" : {
@@ -7847,10 +7709,10 @@
             "value" : "Širina:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Širina:"
+            "state" : "new",
+            "value" : "Width:"
           }
         },
         "sr-SP" : {
@@ -7863,12 +7725,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bredd:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அகலம்:"
           }
         },
         "th" : {
@@ -7975,7 +7831,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "On Screen Display:"
           }
         },
@@ -7999,7 +7855,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "On Screen Display:"
           }
         },
@@ -8117,15 +7973,9 @@
             "value" : "On Screen Display:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On Screen Display:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "On Screen Display:"
           }
         },
@@ -8133,6 +7983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On-Screen display:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On Screen Display:"
           }
         },
         "pl" : {
@@ -8155,7 +8011,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "On Screen Display:"
           }
         },
@@ -8177,10 +8033,10 @@
             "value" : "On Screen Display:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ekranski meni:"
+            "state" : "new",
+            "value" : "On Screen Display:"
           }
         },
         "sr-SP" : {
@@ -8193,12 +8049,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skärmdisplay:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On Screen Display:"
           }
         },
         "th" : {
@@ -8447,19 +8297,19 @@
             "value" : "px"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "px"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "px"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "px"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "px"
@@ -8507,7 +8357,7 @@
             "value" : "px"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "px"
@@ -8520,12 +8370,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "px"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "px"
@@ -8659,7 +8503,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Use physical resolution on Retina displays"
           }
         },
@@ -8777,15 +8621,9 @@
             "value" : "Use physical resolution on Retina displays"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bruk fysisk oppløsning på Retina-skjermer"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Use physical resolution on Retina displays"
           }
         },
@@ -8793,6 +8631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gebruik volledige resolutie op Retina-schermen"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use physical resolution on Retina displays"
           }
         },
         "pl" : {
@@ -8837,10 +8681,10 @@
             "value" : "Use physical resolution on Retina displays"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristi fizičku rezoluciju na Retina ekranima"
+            "state" : "new",
+            "value" : "Use physical resolution on Retina displays"
           }
         },
         "sr-SP" : {
@@ -8853,12 +8697,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Använd fysisk upplösning för Retina-skärmar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Use physical resolution on Retina displays"
           }
         },
         "th" : {
@@ -8989,7 +8827,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "On Screen Controller:"
           }
         },
@@ -9107,15 +8945,9 @@
             "value" : "On Screen Controller:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kontroller på skjermen:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "On Screen Controller:"
           }
         },
@@ -9123,6 +8955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afspeelregelaars:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On Screen Controller:"
           }
         },
         "pl" : {
@@ -9167,10 +9005,10 @@
             "value" : "On Screen Controller:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ekranski kontroler:"
+            "state" : "new",
+            "value" : "On Screen Controller:"
           }
         },
         "sr-SP" : {
@@ -9183,12 +9021,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skärmkontroller:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On Screen Controller:"
           }
         },
         "th" : {
@@ -9283,7 +9115,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Picture-in-\nPicture:"
           }
         },
@@ -9319,7 +9151,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Picture-in-\nPicture:"
           }
         },
@@ -9437,15 +9269,9 @@
             "value" : "Picture-in-\nPicture:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Picture-in-\nPicture:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Picture-in-\nPicture:"
           }
         },
@@ -9453,6 +9279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beeld-in-beeld:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Picture-in-\nPicture:"
           }
         },
         "pl" : {
@@ -9497,10 +9329,10 @@
             "value" : "Picture-in-\nPicture:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slika u slici:"
+            "state" : "new",
+            "value" : "Picture-in-\nPicture:"
           }
         },
         "sr-SP" : {
@@ -9513,12 +9345,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bild-i-bild:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Picture-in-\nPicture:"
           }
         },
         "th" : {
@@ -9649,7 +9475,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Window:"
           }
         },
@@ -9715,7 +9541,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Window:"
           }
         },
@@ -9767,15 +9593,9 @@
             "value" : "Window:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vindu:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Window:"
           }
         },
@@ -9783,6 +9603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Venster:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Window:"
           }
         },
         "pl" : {
@@ -9827,10 +9653,10 @@
             "value" : "Okno:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prozor:"
+            "state" : "new",
+            "value" : "Window:"
           }
         },
         "sr-SP" : {
@@ -9843,12 +9669,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fönster:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "சாளரம்:"
           }
         },
         "th" : {
@@ -9979,7 +9799,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "1.5x video size"
           }
         },
@@ -10097,15 +9917,9 @@
             "value" : "1.5x video size"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "1.5x video size"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "1.5x video size"
           }
         },
@@ -10113,6 +9927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1.5x videogrootte"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1.5x video size"
           }
         },
         "pl" : {
@@ -10157,10 +9977,10 @@
             "value" : "1.5x video size"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina video-zapisa 1,5x"
+            "state" : "new",
+            "value" : "1.5x video size"
           }
         },
         "sr-SP" : {
@@ -10173,12 +9993,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1,5x videostorlek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "1.5x video size"
           }
         },
         "th" : {
@@ -10309,7 +10123,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "side of the screen"
           }
         },
@@ -10427,15 +10241,9 @@
             "value" : "side of the screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "side of the screen"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "side of the screen"
           }
         },
@@ -10443,6 +10251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "zijde van het scherm"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "side of the screen"
           }
         },
         "pl" : {
@@ -10487,10 +10301,10 @@
             "value" : "side of the screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "strana ekrana"
+            "state" : "new",
+            "value" : "side of the screen"
           }
         },
         "sr-SP" : {
@@ -10503,12 +10317,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sida av skärmen"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "side of the screen"
           }
         },
         "th" : {
@@ -10639,7 +10447,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum cache size:"
           }
         },
@@ -10757,15 +10565,9 @@
             "value" : "Maximum cache size:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Maximum cache size:"
           }
         },
@@ -10773,6 +10575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maximale cachegrootte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum cache size:"
           }
         },
         "pl" : {
@@ -10817,10 +10625,10 @@
             "value" : "Maximum cache size:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maksimalna veličina keša:"
+            "state" : "new",
+            "value" : "Maximum cache size:"
           }
         },
         "sr-SP" : {
@@ -10833,12 +10641,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maximal cache-storlek:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size:"
           }
         },
         "th" : {
@@ -11087,15 +10889,9 @@
             "value" : "Minimize"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimer"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Minimize"
           }
         },
@@ -11103,6 +10899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Minimaliseer"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Minimize"
           }
         },
         "pl" : {
@@ -11147,10 +10949,10 @@
             "value" : "Minimize"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Umanji"
+            "state" : "new",
+            "value" : "Minimize"
           }
         },
         "sr-SP" : {
@@ -11163,12 +10965,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Minimera"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Minimize"
           }
         },
         "th" : {
@@ -11227,7 +11023,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11263,7 +11059,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11275,13 +11071,13 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11299,13 +11095,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11317,19 +11113,19 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11347,7 +11143,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11365,7 +11161,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11383,7 +11179,7 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11395,7 +11191,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11417,45 +11213,45 @@
             "value" : "pt"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "pkt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "pt"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "pt"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "pt"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11477,10 +11273,10 @@
             "value" : "pt"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "tač."
+            "state" : "new",
+            "value" : "pt"
           }
         },
         "sr-SP" : {
@@ -11495,12 +11291,6 @@
             "value" : "punkter"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "pt"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -11509,7 +11299,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11533,7 +11323,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "pt"
           }
         },
@@ -11629,7 +11419,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pause / Resume"
           }
         },
@@ -11747,15 +11537,9 @@
             "value" : "Pause / Resume"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pause / Gjenoppta"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Pause / Resume"
           }
         },
@@ -11763,6 +11547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pauzeren/hervatten"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pause / Resume"
           }
         },
         "pl" : {
@@ -11807,10 +11597,10 @@
             "value" : "Pause / Resume"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pauziraj/nastavi"
+            "state" : "new",
+            "value" : "Pause / Resume"
           }
         },
         "sr-SP" : {
@@ -11823,12 +11613,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pausa / fortsätta"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
           }
         },
         "th" : {
@@ -11959,7 +11743,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Always show float on top status in the title bar"
           }
         },
@@ -12077,19 +11861,19 @@
             "value" : "Always show float on top status in the title bar"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Always show float on top status in the title bar"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Always show float on top status in the title bar"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Always show float on top status in the title bar"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Always show float on top status in the title bar"
@@ -12137,7 +11921,7 @@
             "value" : "Always show float on top status in the title bar"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Always show float on top status in the title bar"
@@ -12153,12 +11937,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visa alltid ikonen för överst flytande i titelraden"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Always show float on top status in the title bar"
           }
         },
         "th" : {
@@ -12289,7 +12067,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "of the screen"
           }
         },
@@ -12407,15 +12185,9 @@
             "value" : "of the screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "av skjermen"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "of the screen"
           }
         },
@@ -12423,6 +12195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "van het scherm"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "of the screen"
           }
         },
         "pl" : {
@@ -12467,10 +12245,10 @@
             "value" : "of the screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ekrana"
+            "state" : "new",
+            "value" : "of the screen"
           }
         },
         "sr-SP" : {
@@ -12483,12 +12261,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "av skärmen"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "of the screen"
           }
         },
         "th" : {
@@ -12619,7 +12391,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y offset:"
           }
         },
@@ -12737,15 +12509,9 @@
             "value" : "Y offset:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Y-forskyvning:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Y offset:"
           }
         },
@@ -12753,6 +12519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Y-afstand:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Y offset:"
           }
         },
         "pl" : {
@@ -12797,10 +12569,10 @@
             "value" : "Y offset:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odstupanje po Y-osi:"
+            "state" : "new",
+            "value" : "Y offset:"
           }
         },
         "sr-SP" : {
@@ -12813,12 +12585,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Y-offset:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Y offset:"
           }
         },
         "th" : {
@@ -12949,7 +12715,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fast Forward / Rewind"
           }
         },
@@ -13067,15 +12833,9 @@
             "value" : "Fast Forward / Rewind"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hurtig fremover / bakover"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fast Forward / Rewind"
           }
         },
@@ -13083,6 +12843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vooruit-/terugspoelen"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fast Forward / Rewind"
           }
         },
         "pl" : {
@@ -13127,10 +12893,10 @@
             "value" : "Fast Forward / Rewind"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Premotaj unapred/unazad"
+            "state" : "new",
+            "value" : "Fast Forward / Rewind"
           }
         },
         "sr-SP" : {
@@ -13143,12 +12909,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snabbspola / backa"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fast Forward / Rewind"
           }
         },
         "th" : {
@@ -13279,7 +13039,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Display time and battery info when in full screen"
           }
         },
@@ -13397,15 +13157,9 @@
             "value" : "Display time and battery info when in full screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis tid og batteriinfo når i fullskjerm"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Display time and battery info when in full screen"
           }
         },
@@ -13413,6 +13167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toon tijd en batterij in schermvullende weergave"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Display time and battery info when in full screen"
           }
         },
         "pl" : {
@@ -13457,10 +13217,10 @@
             "value" : "Display time and battery info when in full screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži vreme i informacije o bateriji u režimu celog ekrana"
+            "state" : "new",
+            "value" : "Display time and battery info when in full screen"
           }
         },
         "sr-SP" : {
@@ -13473,12 +13233,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visa tid och batteriinfo i helskärmsläge"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display time and battery info when in full screen"
           }
         },
         "th" : {
@@ -13609,7 +13363,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Thumbnail Preview:"
           }
         },
@@ -13727,15 +13481,9 @@
             "value" : "Thumbnail Preview:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Forhåndsvisning av miniatyrbilde:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Thumbnail Preview:"
           }
         },
@@ -13743,6 +13491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Miniaturen:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Thumbnail Preview:"
           }
         },
         "pl" : {
@@ -13787,10 +13541,10 @@
             "value" : "Thumbnail Preview:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaz sličica:"
+            "state" : "new",
+            "value" : "Thumbnail Preview:"
           }
         },
         "sr-SP" : {
@@ -13803,12 +13557,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förhandsvisning med miniatyrbilder:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Thumbnail Preview:"
           }
         },
         "th" : {
@@ -13915,7 +13663,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Layout:"
           }
         },
@@ -13939,7 +13687,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Layout:"
           }
         },
@@ -14057,21 +13805,21 @@
             "value" : "Layout:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utforming:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Layout:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Layout:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Layout:"
           }
         },
@@ -14117,10 +13865,10 @@
             "value" : "Layout:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raspored:"
+            "state" : "new",
+            "value" : "Layout:"
           }
         },
         "sr-SP" : {
@@ -14131,14 +13879,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Layout:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தளவமைப்பு:"
           }
         },
         "th" : {
@@ -14269,7 +14011,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Light"
           }
         },
@@ -14387,15 +14129,9 @@
             "value" : "Light"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lys"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Light"
           }
         },
@@ -14403,6 +14139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Licht"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Light"
           }
         },
         "pl" : {
@@ -14447,10 +14189,10 @@
             "value" : "Light"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Svetla"
+            "state" : "new",
+            "value" : "Light"
           }
         },
         "sr-SP" : {
@@ -14463,12 +14205,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ljust"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வெளிச்சம்"
           }
         },
         "th" : {
@@ -14717,15 +14453,9 @@
             "value" : "Snap to center when dragging"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fest til sentrum når du drar"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Snap to center when dragging"
           }
         },
@@ -14733,6 +14463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spring naar het midden tijdens het slepen"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Snap to center when dragging"
           }
         },
         "pl" : {
@@ -14777,10 +14513,10 @@
             "value" : "Snap to center when dragging"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikači za centar prilikom prevlačenja"
+            "state" : "new",
+            "value" : "Snap to center when dragging"
           }
         },
         "sr-SP" : {
@@ -14793,12 +14529,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fäst till mitten vid förflyttning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Snap to center when dragging"
           }
         },
         "th" : {
@@ -15047,19 +14777,19 @@
             "value" : "Disable animations"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disable animations"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disable animations"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disable animations"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Disable animations"
@@ -15107,7 +14837,7 @@
             "value" : "Disable animations"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Disable animations"
@@ -15123,12 +14853,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stäng av animationer"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disable animations"
           }
         },
         "th" : {
@@ -15259,7 +14983,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Appearance:"
           }
         },
@@ -15377,15 +15101,9 @@
             "value" : "Appearance:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utseende:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Appearance:"
           }
         },
@@ -15393,6 +15111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weergave:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appearance:"
           }
         },
         "pl" : {
@@ -15437,10 +15161,10 @@
             "value" : "Appearance:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Izgled:"
+            "state" : "new",
+            "value" : "Appearance:"
           }
         },
         "sr-SP" : {
@@ -15453,12 +15177,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utseende:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தோற்றம்:"
           }
         },
         "th" : {
@@ -15589,7 +15307,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "1x video size"
           }
         },
@@ -15707,15 +15425,9 @@
             "value" : "1x video size"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "1x videostørrelse"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "1x video size"
           }
         },
@@ -15723,6 +15435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Originele videogrootte"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1x video size"
           }
         },
         "pl" : {
@@ -15767,10 +15485,10 @@
             "value" : "1x video size"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina video-zapisa 1x"
+            "state" : "new",
+            "value" : "1x video size"
           }
         },
         "sr-SP" : {
@@ -15783,12 +15501,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1x videostorlek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "1x video size"
           }
         },
         "th" : {
@@ -15919,7 +15631,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Speed"
           }
         },
@@ -16037,15 +15749,9 @@
             "value" : "വേഗത"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hastighet"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Speed"
           }
         },
@@ -16053,6 +15759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snelheid"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Speed"
           }
         },
         "pl" : {
@@ -16097,10 +15809,10 @@
             "value" : "Speed"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brzina"
+            "state" : "new",
+            "value" : "Speed"
           }
         },
         "sr-SP" : {
@@ -16113,12 +15825,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hastighet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வேகம்"
           }
         },
         "th" : {
@@ -16249,7 +15955,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto hide after:"
           }
         },
@@ -16367,15 +16073,9 @@
             "value" : "Auto hide after:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skjul automatisk etter:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto hide after:"
           }
         },
@@ -16383,6 +16083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verberg automatisch na:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto hide after:"
           }
         },
         "pl" : {
@@ -16427,10 +16133,10 @@
             "value" : "Auto hide after:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatski sakrij nakon:"
+            "state" : "new",
+            "value" : "Auto hide after:"
           }
         },
         "sr-SP" : {
@@ -16443,12 +16149,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Göm automatiskt efter:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto hide after:"
           }
         },
         "th" : {
@@ -16579,7 +16279,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "right"
           }
         },
@@ -16697,15 +16397,9 @@
             "value" : "right"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "høyre"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "right"
           }
         },
@@ -16713,6 +16407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "rechter"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "right"
           }
         },
         "pl" : {
@@ -16757,10 +16457,10 @@
             "value" : "right"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "desno"
+            "state" : "new",
+            "value" : "right"
           }
         },
         "sr-SP" : {
@@ -16773,12 +16473,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "höger"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வலது"
           }
         },
         "th" : {
@@ -16909,7 +16603,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Automatically pause playback"
           }
         },
@@ -17027,15 +16721,9 @@
             "value" : "Automatically pause playback"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pause avspilling automatisk"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Automatically pause playback"
           }
         },
@@ -17043,6 +16731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pauzeer"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Automatically pause playback"
           }
         },
         "pl" : {
@@ -17087,10 +16781,10 @@
             "value" : "Automatically pause playback"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatski pauziraj reprodukciju"
+            "state" : "new",
+            "value" : "Automatically pause playback"
           }
         },
         "sr-SP" : {
@@ -17103,12 +16797,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pausa uppspelning automatiskt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Automatically pause playback"
           }
         },
         "th" : {
@@ -17167,7 +16855,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17203,19 +16891,19 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17227,7 +16915,7 @@
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17239,13 +16927,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17263,13 +16951,13 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17287,7 +16975,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17311,7 +16999,7 @@
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17353,19 +17041,13 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "s"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "s"
           }
         },
@@ -17375,27 +17057,33 @@
             "value" : "sec"
           }
         },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "s"
+          }
+        },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17407,7 +17095,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17417,9 +17105,9 @@
             "value" : "s"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -17433,12 +17121,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "s"
           }
         },
         "th" : {
@@ -17569,7 +17251,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Initial window position:"
           }
         },
@@ -17687,15 +17369,9 @@
             "value" : "Initial window position:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Startposisjon for vindu:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Initial window position:"
           }
         },
@@ -17703,6 +17379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aanvankelijke vensterpositie:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Initial window position:"
           }
         },
         "pl" : {
@@ -17747,10 +17429,10 @@
             "value" : "Initial window position:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Početni položaj prozora:"
+            "state" : "new",
+            "value" : "Initial window position:"
           }
         },
         "sr-SP" : {
@@ -17763,12 +17445,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Initial fönsterposition:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Initial window position:"
           }
         },
         "th" : {
@@ -17899,7 +17575,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Previous / Next Media"
           }
         },
@@ -18017,15 +17693,9 @@
             "value" : "Previous / Next Media"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Forrige / Neste media"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Previous / Next Media"
           }
         },
@@ -18033,6 +17703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vorige/volgende bestand"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Previous / Next Media"
           }
         },
         "pl" : {
@@ -18077,10 +17753,10 @@
             "value" : "Previous / Next Media"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prethodna/sledeća datoteka"
+            "state" : "new",
+            "value" : "Previous / Next Media"
           }
         },
         "sr-SP" : {
@@ -18093,12 +17769,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Föregående / nästa media"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Previous / Next Media"
           }
         },
         "th" : {
@@ -18205,7 +17875,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "top"
           }
         },
@@ -18229,7 +17899,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "top"
           }
         },
@@ -18347,15 +18017,9 @@
             "value" : "top"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "topp"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "top"
           }
         },
@@ -18363,6 +18027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "bovenkant"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "top"
           }
         },
         "pl" : {
@@ -18407,10 +18077,10 @@
             "value" : "top"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "vrh"
+            "state" : "new",
+            "value" : "top"
           }
         },
         "sr-SP" : {
@@ -18423,12 +18093,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "toppen"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "மேல்"
           }
         },
         "th" : {
@@ -18677,19 +18341,19 @@
             "value" : "1280"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "1280"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "1280"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1280"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "1280"
@@ -18737,7 +18401,7 @@
             "value" : "1280"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "1280"
@@ -18750,12 +18414,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "1280"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "1280"
@@ -18889,7 +18547,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "to the"
           }
         },
@@ -19007,15 +18665,9 @@
             "value" : "to the"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "til"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "to the"
           }
         },
@@ -19023,6 +18675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "van de"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "to the"
           }
         },
         "pl" : {
@@ -19067,10 +18725,10 @@
             "value" : "to the"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "na"
+            "state" : "new",
+            "value" : "to the"
           }
         },
         "sr-SP" : {
@@ -19083,12 +18741,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "till"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "to the"
           }
         },
         "th" : {
@@ -19219,7 +18871,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Match System Appearance"
           }
         },
@@ -19337,15 +18989,9 @@
             "value" : "Match System Appearance"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Match systemutseende"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Match System Appearance"
           }
         },
@@ -19353,6 +18999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatisch"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Match System Appearance"
           }
         },
         "pl" : {
@@ -19397,10 +19049,10 @@
             "value" : "Match System Appearance"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristi izgled sistema"
+            "state" : "new",
+            "value" : "Match System Appearance"
           }
         },
         "sr-SP" : {
@@ -19413,12 +19065,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Matcha systemets utseende"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Match System Appearance"
           }
         },
         "th" : {
@@ -19667,19 +19313,19 @@
             "value" : "Suppress messages for:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Suppress messages for:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Suppress messages for:"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suppress messages for:"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Suppress messages for:"
@@ -19727,7 +19373,7 @@
             "value" : "Suppress messages for:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Suppress messages for:"
@@ -19740,12 +19386,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Suppress messages for:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Suppress messages for:"
@@ -19879,7 +19519,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Seek"
           }
         },
@@ -19997,15 +19637,9 @@
             "value" : "Seek"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spol"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Seek"
           }
         },
@@ -20013,6 +19647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spoel vooruit of terug"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Seek"
           }
         },
         "pl" : {
@@ -20057,10 +19697,10 @@
             "value" : "Seek"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pomeri"
+            "state" : "new",
+            "value" : "Seek"
           }
         },
         "sr-SP" : {
@@ -20073,12 +19713,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spola"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek"
           }
         },
         "th" : {
@@ -20209,7 +19843,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "point"
           }
         },
@@ -20327,15 +19961,9 @@
             "value" : "point"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "punkt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "point"
           }
         },
@@ -20343,6 +19971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "punt"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "point"
           }
         },
         "pl" : {
@@ -20387,10 +20021,10 @@
             "value" : "point"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "tačka"
+            "state" : "new",
+            "value" : "point"
           }
         },
         "sr-SP" : {
@@ -20403,12 +20037,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "punkter"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "point"
           }
         },
         "th" : {
@@ -20467,7 +20095,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20503,19 +20131,19 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20527,7 +20155,7 @@
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20539,13 +20167,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20563,13 +20191,13 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20587,7 +20215,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20611,7 +20239,7 @@
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20653,19 +20281,13 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "s"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "s"
           }
         },
@@ -20675,27 +20297,33 @@
             "value" : "sec"
           }
         },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "s"
+          }
+        },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20707,7 +20335,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20717,9 +20345,9 @@
             "value" : "s"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -20733,12 +20361,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "s"
           }
         },
         "th" : {
@@ -20845,7 +20467,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Top"
           }
         },
@@ -20869,7 +20491,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Top"
           }
         },
@@ -20987,15 +20609,9 @@
             "value" : "Top"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Topp"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Top"
           }
         },
@@ -21003,6 +20619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Boven"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Top"
           }
         },
         "pl" : {
@@ -21047,10 +20669,10 @@
             "value" : "Top"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrh"
+            "state" : "new",
+            "value" : "Top"
           }
         },
         "sr-SP" : {
@@ -21063,12 +20685,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Topp"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "மேல்"
           }
         },
         "th" : {
@@ -21199,7 +20815,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Always float on top while playing"
           }
         },
@@ -21317,15 +20933,9 @@
             "value" : "Always float on top while playing"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis alltid øverst under avspilling"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Always float on top while playing"
           }
         },
@@ -21333,6 +20943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Houd venster op voorgrond tijdens afspelen"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Always float on top while playing"
           }
         },
         "pl" : {
@@ -21377,10 +20993,10 @@
             "value" : "Always float on top while playing"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uvek zadrži u prvom planu tokom reprodukcije"
+            "state" : "new",
+            "value" : "Always float on top while playing"
           }
         },
         "sr-SP" : {
@@ -21393,12 +21009,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förbli flytande överst under uppspelning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Always float on top while playing"
           }
         },
         "th" : {
@@ -21529,7 +21139,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "left"
           }
         },
@@ -21647,15 +21257,9 @@
             "value" : "left"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "venstre"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "left"
           }
         },
@@ -21663,6 +21267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "linker"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "left"
           }
         },
         "pl" : {
@@ -21707,10 +21317,10 @@
             "value" : "left"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "levo"
+            "state" : "new",
+            "value" : "left"
           }
         },
         "sr-SP" : {
@@ -21723,12 +21333,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "vänster"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இடது"
           }
         },
         "th" : {
@@ -21859,7 +21463,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Text size:"
           }
         },
@@ -21977,15 +21581,9 @@
             "value" : "Text size:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tekststørrelse:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Text size:"
           }
         },
@@ -21993,6 +21591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lettergrootte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text size:"
           }
         },
         "pl" : {
@@ -22037,10 +21641,10 @@
             "value" : "Text size:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina teksta:"
+            "state" : "new",
+            "value" : "Text size:"
           }
         },
         "sr-SP" : {
@@ -22053,12 +21657,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Textstorlek:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "உரை அளவு:"
           }
         },
         "th" : {
@@ -22307,19 +21905,19 @@
             "value" : "20"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "20"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "20"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "20"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "20"
@@ -22367,7 +21965,7 @@
             "value" : "20"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "20"
@@ -22380,12 +21978,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "20"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "20"
@@ -22519,7 +22111,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Speed"
           }
         },
@@ -22637,15 +22229,9 @@
             "value" : "വേഗത"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hastighet"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Speed"
           }
         },
@@ -22653,6 +22239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snelheid"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Speed"
           }
         },
         "pl" : {
@@ -22697,10 +22289,10 @@
             "value" : "Speed"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brzina"
+            "state" : "new",
+            "value" : "Speed"
           }
         },
         "sr-SP" : {
@@ -22713,12 +22305,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hastighet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வேகம்"
           }
         },
         "th" : {
@@ -22849,7 +22435,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Height:"
           }
         },
@@ -22967,15 +22553,9 @@
             "value" : "Height:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Høyde:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Height:"
           }
         },
@@ -22983,6 +22563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoogte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Height:"
           }
         },
         "pl" : {
@@ -23027,10 +22613,10 @@
             "value" : "Višina:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visina:"
+            "state" : "new",
+            "value" : "Height:"
           }
         },
         "sr-SP" : {
@@ -23043,12 +22629,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Höjd:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Height:"
           }
         },
         "th" : {
@@ -23179,7 +22759,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "point"
           }
         },
@@ -23297,15 +22877,9 @@
             "value" : "point"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "punkt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "point"
           }
         },
@@ -23313,6 +22887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "punt"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "point"
           }
         },
         "pl" : {
@@ -23357,10 +22937,10 @@
             "value" : "point"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "tačka"
+            "state" : "new",
+            "value" : "point"
           }
         },
         "sr-SP" : {
@@ -23373,12 +22953,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "punkter"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "point"
           }
         },
         "th" : {
@@ -23509,7 +23083,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "fit the screen"
           }
         },
@@ -23627,15 +23201,9 @@
             "value" : "fit the screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "tilpass til skjerm"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "fit the screen"
           }
         },
@@ -23643,6 +23211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passend in beeldscherm"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "fit the screen"
           }
         },
         "pl" : {
@@ -23687,10 +23261,10 @@
             "value" : "fit the screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "uklopi u ekran"
+            "state" : "new",
+            "value" : "fit the screen"
           }
         },
         "sr-SP" : {
@@ -23703,12 +23277,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "att fylla skärmen"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "fit the screen"
           }
         },
         "th" : {
@@ -23839,7 +23407,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Dark"
           }
         },
@@ -23957,15 +23525,9 @@
             "value" : "Dark"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mørk"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dark"
           }
         },
@@ -23973,6 +23535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Donker"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dark"
           }
         },
         "pl" : {
@@ -24017,10 +23585,10 @@
             "value" : "Dark"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tamna"
+            "state" : "new",
+            "value" : "Dark"
           }
         },
         "sr-SP" : {
@@ -24033,12 +23601,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mörkt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இருள்"
           }
         },
         "th" : {
@@ -24287,19 +23849,19 @@
             "value" : "20"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "20"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "20"
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "20"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "20"
@@ -24347,7 +23909,7 @@
             "value" : "20"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "20"
@@ -24360,12 +23922,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "20"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "20"
@@ -24499,7 +24055,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "point"
           }
         },
@@ -24617,15 +24173,9 @@
             "value" : "point"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "punkt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "point"
           }
         },
@@ -24633,6 +24183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "punt"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "point"
           }
         },
         "pl" : {
@@ -24677,10 +24233,10 @@
             "value" : "point"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "tačka"
+            "state" : "new",
+            "value" : "point"
           }
         },
         "sr-SP" : {
@@ -24693,12 +24249,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "punkter"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "point"
           }
         },
         "th" : {
@@ -24829,7 +24379,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Enable thumbnail preview"
           }
         },
@@ -24947,15 +24497,9 @@
             "value" : "Enable thumbnail preview"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktiver forhåndsvisning av miniatyrbilder"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Enable thumbnail preview"
           }
         },
@@ -24963,6 +24507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toon miniaturen"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enable thumbnail preview"
           }
         },
         "pl" : {
@@ -25007,10 +24557,10 @@
             "value" : "Enable thumbnail preview"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omogući prikaz sličica"
+            "state" : "new",
+            "value" : "Enable thumbnail preview"
           }
         },
         "sr-SP" : {
@@ -25023,12 +24573,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivera förhandsvisning med miniatyrbilder"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable thumbnail preview"
           }
         },
         "th" : {
@@ -25159,7 +24703,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Enable OSD"
           }
         },
@@ -25277,15 +24821,9 @@
             "value" : "Enable OSD"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktiver OSD"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Enable OSD"
           }
         },
@@ -25293,6 +24831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schakel de OSD in"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enable OSD"
           }
         },
         "pl" : {
@@ -25337,10 +24881,10 @@
             "value" : "Enable OSD"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omogući ekranski meni"
+            "state" : "new",
+            "value" : "Enable OSD"
           }
         },
         "sr-SP" : {
@@ -25353,12 +24897,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivera skärmdisplay"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OSDஐ இயக்கு"
           }
         },
         "th" : {
@@ -25489,7 +25027,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto hide after:"
           }
         },
@@ -25607,15 +25145,9 @@
             "value" : "Auto hide after:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skjul automatisk etter:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto hide after:"
           }
         },
@@ -25623,6 +25155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verberg automatisch na:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto hide after:"
           }
         },
         "pl" : {
@@ -25667,10 +25205,10 @@
             "value" : "Auto hide after:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatski sakrij nakon:"
+            "state" : "new",
+            "value" : "Auto hide after:"
           }
         },
         "sr-SP" : {
@@ -25683,12 +25221,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Göm automatiskt efter:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto hide after:"
           }
         },
         "th" : {
@@ -25819,7 +25351,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Toolbar:"
           }
         },
@@ -25937,15 +25469,9 @@
             "value" : "Toolbar:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verktøylinje:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toolbar:"
           }
         },
@@ -25953,6 +25479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Werkbalk:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toolbar:"
           }
         },
         "pl" : {
@@ -25997,10 +25529,10 @@
             "value" : "Toolbar:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Traka sa alatkama:"
+            "state" : "new",
+            "value" : "Toolbar:"
           }
         },
         "sr-SP" : {
@@ -26013,12 +25545,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verktygsfält:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toolbar:"
           }
         },
         "th" : {
@@ -26149,7 +25675,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% of screen"
           }
         },
@@ -26267,15 +25793,9 @@
             "value" : "% of screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "% av skjermen"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "% of screen"
           }
         },
@@ -26283,6 +25803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% van scherm"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "% of screen"
           }
         },
         "pl" : {
@@ -26327,10 +25853,10 @@
             "value" : "% of screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "% ekrana"
+            "state" : "new",
+            "value" : "% of screen"
           }
         },
         "sr-SP" : {
@@ -26343,12 +25869,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% av skärm"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "% of screen"
           }
         },
         "th" : {
@@ -26479,7 +25999,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hide"
           }
         },
@@ -26597,15 +26117,9 @@
             "value" : "Hide"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skjul"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Hide"
           }
         },
@@ -26613,6 +26127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verberg"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide"
           }
         },
         "pl" : {
@@ -26657,10 +26177,10 @@
             "value" : "Hide"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sakrij"
+            "state" : "new",
+            "value" : "Hide"
           }
         },
         "sr-SP" : {
@@ -26673,12 +26193,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Göm"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "மறை"
           }
         },
         "th" : {
@@ -26809,7 +26323,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "to the"
           }
         },
@@ -26927,15 +26441,9 @@
             "value" : "to the"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "til"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "to the"
           }
         },
@@ -26943,6 +26451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "van de"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "to the"
           }
         },
         "pl" : {
@@ -26987,10 +26501,10 @@
             "value" : "to the"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "na"
+            "state" : "new",
+            "value" : "to the"
           }
         },
         "sr-SP" : {
@@ -27003,12 +26517,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "till"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "to the"
           }
         },
         "th" : {
@@ -27139,7 +26647,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Always"
           }
         },
@@ -27257,15 +26765,9 @@
             "value" : "Always"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alltid"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Always"
           }
         },
@@ -27273,6 +26775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Altijd"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Always"
           }
         },
         "pl" : {
@@ -27317,10 +26825,10 @@
             "value" : "Always"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uvek"
+            "state" : "new",
+            "value" : "Always"
           }
         },
         "sr-SP" : {
@@ -27333,12 +26841,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alltid"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "எப்பொழுதும்"
           }
         },
         "th" : {
@@ -27469,7 +26971,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Theme:"
           }
         },
@@ -27587,15 +27089,9 @@
             "value" : "Theme:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tema:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Theme:"
           }
         },
@@ -27603,6 +27099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thema:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Theme:"
           }
         },
         "pl" : {
@@ -27647,10 +27149,10 @@
             "value" : "Theme:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tema:"
+            "state" : "new",
+            "value" : "Theme:"
           }
         },
         "sr-SP" : {
@@ -27663,12 +27165,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tema:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "கருப்பொருள்:"
           }
         },
         "th" : {
@@ -27799,7 +27295,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "X offset:"
           }
         },
@@ -27865,7 +27361,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "X offset:"
           }
         },
@@ -27917,15 +27413,9 @@
             "value" : "X offset:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "X-forskyvning:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "X offset:"
           }
         },
@@ -27933,6 +27423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "X-afstand:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "X offset:"
           }
         },
         "pl" : {
@@ -27977,10 +27473,10 @@
             "value" : "X offset:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odstupanje po X-osi:"
+            "state" : "new",
+            "value" : "X offset:"
           }
         },
         "sr-SP" : {
@@ -27993,12 +27489,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "X-offset:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "X offset:"
           }
         },
         "th" : {
@@ -28129,7 +27619,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Do nothing"
           }
         },
@@ -28247,15 +27737,9 @@
             "value" : "Do nothing"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjør ingenting"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Do nothing"
           }
         },
@@ -28263,6 +27747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toon niets"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Do nothing"
           }
         },
         "pl" : {
@@ -28307,10 +27797,10 @@
             "value" : "Do nothing"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ne radi ništa"
+            "state" : "new",
+            "value" : "Do nothing"
           }
         },
         "sr-SP" : {
@@ -28323,12 +27813,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gör ingenting"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "எதுவும் செய்யாதே"
           }
         },
         "th" : {
@@ -28459,7 +27943,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resize the window to fit video size:"
           }
         },
@@ -28577,15 +28061,9 @@
             "value" : "Resize the window to fit video size:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilpass vindu for å passe videostørrelse:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Resize the window to fit video size:"
           }
         },
@@ -28593,6 +28071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas het venster aan naar videogrootte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resize the window to fit video size:"
           }
         },
         "pl" : {
@@ -28637,10 +28121,10 @@
             "value" : "Resize the window to fit video size:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Promeni veličinu prozora tako da odgovara veličini video-zapisa:"
+            "state" : "new",
+            "value" : "Resize the window to fit video size:"
           }
         },
         "sr-SP" : {
@@ -28653,12 +28137,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passa fönsterstorlek till video:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Resize the window to fit video size:"
           }
         },
         "th" : {
@@ -28789,7 +28267,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Initial window size:"
           }
         },
@@ -28907,15 +28385,9 @@
             "value" : "Initial window size:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Initial window size:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Initial window size:"
           }
         },
@@ -28923,6 +28395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aanvankelijke venstergrootte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Initial window size:"
           }
         },
         "pl" : {
@@ -28967,10 +28445,10 @@
             "value" : "Initial window size:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Početna veličina prozora:"
+            "state" : "new",
+            "value" : "Initial window size:"
           }
         },
         "sr-SP" : {
@@ -28983,12 +28461,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Initial fönsterstorlek:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Initial window size:"
           }
         },
         "th" : {
