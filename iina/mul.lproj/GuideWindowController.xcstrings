@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Website"
           }
         },
@@ -197,21 +197,21 @@
             "value" : "വെബ്സൈറ്റ്"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nettside"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Website"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Website"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Website"
           }
         },
@@ -229,7 +229,7 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Website"
           }
         },
@@ -257,10 +257,10 @@
             "value" : "Spletna stran"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veb-sajt"
+            "state" : "new",
+            "value" : "Website"
           }
         },
         "sr-SP" : {
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Webbplats"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வலைத்தளம்"
           }
         },
         "th" : {
@@ -409,7 +403,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Failed to load highlights. Please visit our website https://iina.io for more information."
           }
         },
@@ -527,15 +521,9 @@
             "value" : "ഹൈലൈറ്റുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു. കൂടുതൽ വിവരങ്ങൾക്ക് ഞങ്ങളുടെ വെബ്സൈറ്റ് https://iina.io സന്ദർശിക്കുക."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kan ikke laste høydepunkter. Besøk nettsiden vår https://iina.io for mer informasjon."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Failed to load highlights. Please visit our website https://iina.io for more information."
           }
         },
@@ -543,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout bij het laden van hoogtepunten. Bezoek onze website https://iina.io voor meer informatie."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to load highlights. Please visit our website https://iina.io for more information."
           }
         },
         "pl" : {
@@ -587,10 +581,10 @@
             "value" : "Failed to load highlights. Please visit our website https://iina.io for more information."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Učitavanje istaknutih sadržaja nije uspelo. Više informacija potražite na našem veb-sajtu: https://iina.io."
+            "state" : "new",
+            "value" : "Failed to load highlights. Please visit our website https://iina.io for more information."
           }
         },
         "sr-SP" : {
@@ -603,12 +597,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det gick inte att läsa in höjdpunkter. Vänligen besök vår hemsida https://iina.io för mer information."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to load highlights. Please visit our website https://iina.io for more information."
           }
         },
         "th" : {
@@ -739,7 +727,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Continue"
           }
         },
@@ -857,15 +845,9 @@
             "value" : "തുടരുക"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fortsett"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Continue"
           }
         },
@@ -873,6 +855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Doorgaan"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Continue"
           }
         },
         "pl" : {
@@ -917,10 +905,10 @@
             "value" : "Continue"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavi"
+            "state" : "new",
+            "value" : "Continue"
           }
         },
         "sr-SP" : {
@@ -933,12 +921,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fortsätt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தொடர்"
           }
         },
         "th" : {
