@@ -33,6 +33,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[0]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[0] = \"4:3\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -63,6 +64,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[1]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[1] = \"16:9\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -93,6 +95,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[2]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[2] = \"16:10\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -123,6 +126,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[3]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[3] = \"5:4\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -153,6 +157,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[4]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[4] = \"3:2\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -183,6 +188,7 @@
     },
     "bQc-2s-1MS.ibShadowedLabels[5]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[5] = \"21:9\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -273,6 +279,7 @@
     },
     "Fgl-Cs-eEh.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"Fgl-Cs-eEh\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
