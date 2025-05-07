@@ -657,14 +657,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Hoofstukke"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "الفصول"
           }
         },
         "az" : {
@@ -675,8 +675,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Раздзелаў"
           }
         },
         "bg" : {
@@ -693,32 +693,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Capítols"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Kapitola"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Kapitel"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Kapitel"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Κεφάλαια"
           }
         },
         "en" : {
@@ -735,8 +735,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Capítulo"
           }
         },
         "eu" : {
@@ -747,44 +747,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "فصل‌ها"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Luvut"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Chapitres"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "פרקים"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "अध्याय"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Poglavlja"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Fejezetek"
           }
         },
         "hy" : {
@@ -795,8 +795,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Chapter"
           }
         },
         "is" : {
@@ -807,14 +807,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Capitoli"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "チャプター"
           }
         },
         "kn" : {
@@ -825,14 +825,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "챕터"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Nodaļas"
           }
         },
         "mk" : {
@@ -849,14 +849,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Chapters"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Hoofdstukken"
           }
         },
         "no" : {
@@ -867,38 +867,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Rozdział"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Capítulos"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Capítulos"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Capitole"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Глава"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Kapitoly"
           }
         },
         "sl" : {
@@ -915,14 +915,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Поглавља"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Kapitel"
           }
         },
         "th" : {
@@ -933,8 +933,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Bölümler"
           }
         },
         "ug" : {
@@ -945,32 +945,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Розділи"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "ابواب"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "Chương"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "章节"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
+            "state" : "translated",
+            "value" : "章節"
           }
         }
       }
@@ -981,14 +981,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Voeg lêer toe…"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "إضافة ملف…"
           }
         },
         "az" : {
@@ -1017,26 +1017,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Afegeix fitxer…"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Přidat soubor…"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Tilføj Arkiv…"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Datei hinzufügen …"
           }
         },
         "el" : {
@@ -1059,8 +1059,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Añadir archivo…"
           }
         },
         "eu" : {
@@ -1071,44 +1071,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "افزودن فایل…"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Lisää tiedosto…"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Ajouter un fichier…"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "הוסף קובץ…"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "फाइल जोडें…"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Dodaj datoteku…"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Fájl hozzáadása…"
           }
         },
         "hy" : {
@@ -1119,8 +1119,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Tambahkan file…"
           }
         },
         "is" : {
@@ -1131,14 +1131,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Aggiungi file…"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "ファイルの追加…"
           }
         },
         "kn" : {
@@ -1149,14 +1149,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "파일 추가…"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Pievienot failu…"
           }
         },
         "mk" : {
@@ -1173,14 +1173,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add File…"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Voeg bestand toe…"
           }
         },
         "no" : {
@@ -1191,38 +1191,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Dodaj plik…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Adicionar Arquivo…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Adicionar Ficheiro…"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Adaugă Fișier…"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Добавить файл…"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Pridať Súbor…"
           }
         },
         "sl" : {
@@ -1239,14 +1239,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Додај датотеку…"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Lägg till fil…"
           }
         },
         "th" : {
@@ -1257,8 +1257,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Dosya Ekle"
           }
         },
         "ug" : {
@@ -1269,8 +1269,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Додати файл…"
           }
         },
         "ur-PK" : {
@@ -1281,20 +1281,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "Thêm tệp tin…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "添加文件…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
+            "state" : "translated",
+            "value" : "加入檔案⋯"
           }
         }
       }
@@ -1630,14 +1630,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "AFSPEELLYS"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "قائمة تشغيل"
           }
         },
         "az" : {
@@ -1648,8 +1648,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "ПЛЭЙЛІСТ"
           }
         },
         "bg" : {
@@ -1666,8 +1666,8 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "LLISTA DE REPRODUCCIÓ"
           }
         },
         "cs" : {
@@ -1678,14 +1678,14 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "AFSPILNINGSLISTE"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "WIEDERGABELISTE"
           }
         },
         "el" : {
@@ -1708,8 +1708,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "LISTA DE REPRODUCCIÓN"
           }
         },
         "eu" : {
@@ -1720,44 +1720,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "پلی‌لیست"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "SOITTOLISTA"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "LISTE DE LECTURE"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "רשימת השמעה"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "प्लेलिस्ट"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "PLAYLISTA"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "Lejátszási lista"
           }
         },
         "hy" : {
@@ -1786,8 +1786,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "プレイリスト"
           }
         },
         "kn" : {
@@ -1798,14 +1798,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "재생목록"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "ATSKAŅOŠANAS SARAKSTS"
           }
         },
         "mk" : {
@@ -1822,14 +1822,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "PLAYLIST"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "AFSPEELLIJST"
           }
         },
         "no" : {
@@ -1840,38 +1840,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "PLAYLISTA"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "PLAYLISTS"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "LISTA DE REPRODUÇÃO"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "LISTĂ DE REDARE"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "ПЛЕЙЛИСТ"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "ZOZNAM"
           }
         },
         "sl" : {
@@ -1888,14 +1888,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "ПЛЕЈЛИСТА"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "SPELLISTA"
           }
         },
         "th" : {
@@ -1906,8 +1906,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "OYNATMA LİSTESİ"
           }
         },
         "ug" : {
@@ -1918,8 +1918,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "ПЛЕЙЛИСТ"
           }
         },
         "ur-PK" : {
@@ -1930,20 +1930,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "DANH SÁCH PHÁT"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "播放列表"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
+            "state" : "translated",
+            "value" : "播放列表"
           }
         }
       }
@@ -2279,14 +2279,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Onderskrifte gevind"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "ترجمات متطابقة"
           }
         },
         "az" : {
@@ -2297,8 +2297,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Адпаведныя субцітры"
           }
         },
         "bg" : {
@@ -2315,26 +2315,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Subtítols trobats"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Vyhovující titulky"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Mathcende undertekster"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Passende Untertitel"
           }
         },
         "el" : {
@@ -2357,8 +2357,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Subtítulos coincidentes"
           }
         },
         "eu" : {
@@ -2369,44 +2369,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "زیر‌نویس‌های سازگار"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Löydetyt tekstitykset"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Sous-titres correspondants"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "כתוביות שנמצאו"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "मिलान किया गया उपशीर्षक"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Pronađeni titlovi"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Megfelelő Felirat(ok)"
           }
         },
         "hy" : {
@@ -2417,8 +2417,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Terjemahan yang cocok"
           }
         },
         "is" : {
@@ -2429,14 +2429,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Sottotitoli corrispondenti"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "該当の字幕"
           }
         },
         "kn" : {
@@ -2447,14 +2447,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "일치하는 자막"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Atbilstoši subtitri"
           }
         },
         "mk" : {
@@ -2471,14 +2471,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Matched subtitles"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Gevonden ondertiteling"
           }
         },
         "no" : {
@@ -2489,38 +2489,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Pasujące napisy"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Legendas encontradas"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Legendas correspondentes"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Subitrări care se potrivesc"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Подходящие субтитры"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Zodpovedajúce titulky"
           }
         },
         "sl" : {
@@ -2537,14 +2537,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Одговарајући титлови"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Matchade undertexter"
           }
         },
         "th" : {
@@ -2555,8 +2555,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Eşleşen altyazılar"
           }
         },
         "ug" : {
@@ -2567,8 +2567,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Зіставлені субтитри"
           }
         },
         "ur-PK" : {
@@ -2579,20 +2579,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "Đã hợp phụ đề"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "匹配的字幕"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
+            "state" : "translated",
+            "value" : "相符的字幕"
           }
         }
       }
@@ -2603,14 +2603,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "HOOFSTUKKE"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "الفصول"
           }
         },
         "az" : {
@@ -2621,8 +2621,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "РАЗДЗЕЛЫ"
           }
         },
         "bg" : {
@@ -2639,26 +2639,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CAPÍTOLS"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "KAPITOLY"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "KAPITLER"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "KAPITEL"
           }
         },
         "el" : {
@@ -2681,8 +2681,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CAPÍTULOS"
           }
         },
         "eu" : {
@@ -2693,44 +2693,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "سرفصل ها"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "LUVUT"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CHAPITRES"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "פרקים"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "अध्याय"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "POGLAVLJA"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "FEJEZETEK"
           }
         },
         "hy" : {
@@ -2741,8 +2741,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CHAPTER"
           }
         },
         "is" : {
@@ -2753,14 +2753,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CAPITOLI"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "チャプター"
           }
         },
         "kn" : {
@@ -2771,14 +2771,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "챕터"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "NODAĻAS"
           }
         },
         "mk" : {
@@ -2795,14 +2795,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "CHAPTERS"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "HOOFDSTUKKEN"
           }
         },
         "no" : {
@@ -2813,38 +2813,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "ROZDZIAŁY"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CAPÍTULOS"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CAPÍTULOS"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CAPITOLE"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "ГЛАВЫ"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "KAPITOLY"
           }
         },
         "sl" : {
@@ -2861,14 +2861,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "ПОГЛАВЉА"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "KAPITEL"
           }
         },
         "th" : {
@@ -2879,8 +2879,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "BÖLÜMLER"
           }
         },
         "ug" : {
@@ -2891,8 +2891,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "РОЗДІЛИ"
           }
         },
         "ur-PK" : {
@@ -2903,20 +2903,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "CHƯƠNG"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "章节"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
+            "state" : "translated",
+            "value" : "章節"
           }
         }
       }
@@ -2927,14 +2927,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Afspeellys"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "قائمة التشغيل"
           }
         },
         "az" : {
@@ -2963,8 +2963,8 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Llista de reproducció"
           }
         },
         "cs" : {
@@ -2975,14 +2975,14 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Spilleliste"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Wiedergabeliste"
           }
         },
         "el" : {
@@ -3005,8 +3005,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Lista de reproducción"
           }
         },
         "eu" : {
@@ -3017,44 +3017,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "فهرست پخش"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Soittolista"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Liste de lecture"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "רשימת השמעה"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "प्लेलिस्ट"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Playlista"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Lejátszási lista"
           }
         },
         "hy" : {
@@ -3071,8 +3071,8 @@
         },
         "is" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Spilunarlisti"
           }
         },
         "it" : {
@@ -3083,8 +3083,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "プレイリスト"
           }
         },
         "kn" : {
@@ -3095,14 +3095,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "재생목록"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Atskaņošanas saraksts"
           }
         },
         "mk" : {
@@ -3119,14 +3119,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Playlist"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Afspeellijst"
           }
         },
         "no" : {
@@ -3137,8 +3137,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Playlista"
           }
         },
         "pt-BR" : {
@@ -3149,26 +3149,26 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Lista de Reprodução"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Listă de redare"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Плейлист"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Zoznam"
           }
         },
         "sl" : {
@@ -3185,14 +3185,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Плејлиста"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Spellista"
           }
         },
         "th" : {
@@ -3203,8 +3203,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Oynatma Listesi"
           }
         },
         "ug" : {
@@ -3215,8 +3215,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Плейлист"
           }
         },
         "ur-PK" : {
@@ -3227,20 +3227,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "Danh sách phát"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "播放列表"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
+            "state" : "translated",
+            "value" : "播放列表"
           }
         }
       }
@@ -3251,8 +3251,8 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Versteek gedeelde prefiks"
           }
         },
         "ar" : {
@@ -3269,8 +3269,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Складаная агульная прыстаўка"
           }
         },
         "bg" : {
@@ -3287,26 +3287,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Prefix comú plegat"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Zkrácená obecná předpona"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Foldet fælles prefix"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Gemeinsamer Dateinamenanfang ist ausgeblendet."
           }
         },
         "el" : {
@@ -3329,8 +3329,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Prefijo común plegado"
           }
         },
         "eu" : {
@@ -3347,38 +3347,38 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Taitettu yhteinen etuliite"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Préfixe commun caché"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "קידומת נפוצה מקופלת"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "मुड़ा हुआ आम उपसर्ग"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Zajednički prefiks"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Adatnevek elrejtése"
           }
         },
         "hy" : {
@@ -3389,8 +3389,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Gabungan Imbuhan Umum"
           }
         },
         "is" : {
@@ -3401,14 +3401,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Tronca i nomi con il medesimo prefisso"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "折り畳まれた共通接頭辞"
           }
         },
         "kn" : {
@@ -3419,14 +3419,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "파일 이름중 공통 부분을 감추거나 보이게 합니다"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Salocīts kopējais prefikss"
           }
         },
         "mk" : {
@@ -3443,14 +3443,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Folded common prefix"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Verberg gedeelde begintekst"
           }
         },
         "no" : {
@@ -3461,38 +3461,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Zwijaj wspólny prefiks"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Prefixo comum dobrado"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Prefixo comum dobrado"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Prefix comun pliat"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Общий префикс"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Skrátený všeobecný prefix"
           }
         },
         "sl" : {
@@ -3509,14 +3509,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Скраћени уобичајени префикс"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Ihopvikt gemensamt prefix"
           }
         },
         "th" : {
@@ -3527,8 +3527,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Karlanmış ortak önek"
           }
         },
         "ug" : {
@@ -3539,8 +3539,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Складений загальний префікс"
           }
         },
         "ur-PK" : {
@@ -3551,20 +3551,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "Gộp tiền tố chung"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "被折叠的公共前缀"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
+            "state" : "translated",
+            "value" : "被摺疊的共用通用字首"
           }
         }
       }
@@ -4875,14 +4875,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Voeg bronadres toe…"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "إضافة عنوان URL…"
           }
         },
         "az" : {
@@ -4911,26 +4911,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Afegeix enllaç…"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Přidat URL…"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Tilføj URL…"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Adresse hinzufügen …"
           }
         },
         "el" : {
@@ -4953,8 +4953,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Añadir URL…"
           }
         },
         "eu" : {
@@ -4965,44 +4965,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "افزودن URL…"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Lisää URL-osoite…"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Ajouter une URL…"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "הוסף URL…"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "यू आर एल जोड़िये…"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Dodaj URL adresu…"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "URL hozzáadása…"
           }
         },
         "hy" : {
@@ -5013,8 +5013,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Tambahkan URL…"
           }
         },
         "is" : {
@@ -5025,14 +5025,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Aggiungi URL…"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "URLの追加…"
           }
         },
         "kn" : {
@@ -5043,14 +5043,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "URL 추가…"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Pievienot URL saiti…"
           }
         },
         "mk" : {
@@ -5067,14 +5067,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add URL…"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Voeg URL toe…"
           }
         },
         "no" : {
@@ -5085,38 +5085,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Dodaj adres URL…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Adicionar URL…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Adicionar URL…"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Adaugă URL…"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Добавить URL…"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Pridať URL…"
           }
         },
         "sl" : {
@@ -5133,14 +5133,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Додај URL…"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Lägg till URL…"
           }
         },
         "th" : {
@@ -5151,8 +5151,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "URL Ekle…"
           }
         },
         "ug" : {
@@ -5163,8 +5163,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Додати URL…"
           }
         },
         "ur-PK" : {
@@ -5175,20 +5175,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "Thêm liên kết URL…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "添加 URL…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
+            "state" : "translated",
+            "value" : "加入 URL⋯"
           }
         }
       }
@@ -5199,14 +5199,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Verkeerde onderskrif!"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "ملف ترجمة خاطئ!"
           }
         },
         "az" : {
@@ -5241,20 +5241,20 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Nesprávné titulky!"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Forkert undertekst!"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Falscher Untertitel!"
           }
         },
         "el" : {
@@ -5277,8 +5277,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "¡Subtítulo incorrecto!"
           }
         },
         "eu" : {
@@ -5289,44 +5289,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "زیر نویس اشتباه است!"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Väärä tekstitys!"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Mauvais sous-titre !"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "כתוביות לא תקינות!"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "गलत उपशीर्षक!"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Krivi titl!"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Rossz felirat!"
           }
         },
         "hy" : {
@@ -5337,8 +5337,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Terjemahan Tidak Sesuai!"
           }
         },
         "is" : {
@@ -5349,14 +5349,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Sotttotioli errati!"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "誤った字幕です！"
           }
         },
         "kn" : {
@@ -5367,14 +5367,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "잘못된 자막!"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Nepareizs subtitrs!"
           }
         },
         "mk" : {
@@ -5391,14 +5391,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong Subtitle!"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Verkeerde ondertiteling!"
           }
         },
         "no" : {
@@ -5409,38 +5409,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Nie można odczytać formatu napisów"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Legenda Errada!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Legenda Errada!"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Subtitrare greșită!"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Неверные субтитры!"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Nesprávne Titulky!"
           }
         },
         "sl" : {
@@ -5457,14 +5457,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Погрешан титл!"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Fel undertext!"
           }
         },
         "th" : {
@@ -5475,8 +5475,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Yanlış Altyazı!"
           }
         },
         "ug" : {
@@ -5487,8 +5487,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Субтитри неправильні!"
           }
         },
         "ur-PK" : {
@@ -5499,20 +5499,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "Sai phụ đề!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "错误的字幕!"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
+            "state" : "translated",
+            "value" : "錯誤的字幕！"
           }
         }
       }
