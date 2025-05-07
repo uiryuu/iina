@@ -10,19 +10,7 @@
             "value" : "Blur"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Blur"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Blur"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "模糊"
@@ -39,22 +27,10 @@
             "value" : "Amount"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Amount"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Amount"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "銳利量"
+            "value" : "锐化度"
           }
         }
       }
@@ -68,22 +44,10 @@
             "value" : "Matrix size"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matrix size"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matrix size"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "矩陣大小"
+            "value" : "矩阵尺寸"
           }
         }
       }
@@ -98,22 +62,10 @@
             "value" : "Crop"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Crop"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Crop"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "裁切"
+            "value" : "裁剪："
           }
         }
       }
@@ -127,22 +79,10 @@
             "value" : "Height (default: video height)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Height (default: video height)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Height (default: video height)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "高度（預設值：影片高度）"
+            "value" : "高 (默认: 视频高度)"
           }
         }
       }
@@ -156,22 +96,10 @@
             "value" : "Width (default: video width)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Width (default: video width)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Width (default: video width)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "寬度（預設值：影片寬度）"
+            "value" : "宽 (默认: 视频宽度)"
           }
         }
       }
@@ -185,22 +113,10 @@
             "value" : "Origin X (default: center)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin X (default: center)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin X (default: center)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "原點 X（預設值：中央）"
+            "value" : "起始 X (默认: 从中心裁切)"
           }
         }
       }
@@ -214,22 +130,10 @@
             "value" : "Origin Y (default: center)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin Y (default: center)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin Y (default: center)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "原點 Y（預設值：中央）"
+            "value" : "起始 Y (默认: 从中心裁切)"
           }
         }
       }
@@ -243,22 +147,10 @@
             "value" : "Custom (FFmpeg)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom (FFmpeg)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom (FFmpeg)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自訂（FFmpeg）"
+            "value" : "自定义 (FFmpeg)"
           }
         }
       }
@@ -272,22 +164,10 @@
             "value" : "Filter name"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter name"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter name"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡名稱"
+            "value" : "滤镜名称"
           }
         }
       }
@@ -301,22 +181,10 @@
             "value" : "Filter value"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter value"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter value"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡字串"
+            "value" : "滤镜值"
           }
         }
       }
@@ -330,22 +198,10 @@
             "value" : "Custom (mpv)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom (mpv)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom (mpv)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自訂（mpv）"
+            "value" : "定制 (mpv)"
           }
         }
       }
@@ -359,22 +215,10 @@
             "value" : "Filter name"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter name"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter name"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡名稱"
+            "value" : "滤镜名称"
           }
         }
       }
@@ -388,22 +232,10 @@
             "value" : "Filter value"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter value"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter value"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡字串"
+            "value" : "滤镜值"
           }
         }
       }
@@ -417,22 +249,10 @@
             "value" : "Delogo"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Delogo"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delogo"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "去水印"
+            "value" : "去除水印"
           }
         }
       }
@@ -446,22 +266,10 @@
             "value" : "Height"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Height"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Height"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "高度"
+            "value" : "高"
           }
         }
       }
@@ -475,22 +283,10 @@
             "value" : "Width"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Width"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Width"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "寬度"
+            "value" : "宽"
           }
         }
       }
@@ -504,22 +300,10 @@
             "value" : "Origin X"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin X"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin X"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "原點 X"
+            "value" : "起始横坐标"
           }
         }
       }
@@ -533,22 +317,10 @@
             "value" : "Origin Y"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin Y"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin Y"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "原點 Y"
+            "value" : "起始纵坐标"
           }
         }
       }
@@ -562,22 +334,10 @@
             "value" : "Expand"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Expand"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Expand"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "展開"
+            "value" : "展开"
           }
         }
       }
@@ -591,22 +351,10 @@
             "value" : "Expands to fit an aspect (e.g: 4/3)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Expands to fit an aspect (e.g: 4/3)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Expands to fit an aspect (e.g: 4/3)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "展開以符合比例（例如：4/3）"
+            "value" : "扩展以适应比例 (例: 4比3)"
           }
         }
       }
@@ -620,22 +368,10 @@
             "value" : "Height (default: video height)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Height (default: video height)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Height (default: video height)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "高度（預設值：影片高度）"
+            "value" : "高 (默认: 视频高度)"
           }
         }
       }
@@ -649,22 +385,10 @@
             "value" : "Rounds up to make divisible by this value"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Rounds up to make divisible by this value"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rounds up to make divisible by this value"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "四捨五入整除此值"
+            "value" : "向上取整使得能被此值整除"
           }
         }
       }
@@ -678,22 +402,10 @@
             "value" : "Width (default: video width)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Width (default: video width)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Width (default: video width)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "寬度（預設值：影片寬度）"
+            "value" : "宽 (默认: 视频宽度)"
           }
         }
       }
@@ -707,22 +419,10 @@
             "value" : "Origin X (default: center)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin X (default: center)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin X (default: center)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "原點 X（預設值：中央）"
+            "value" : "起始 X (默认: 从中心裁切)"
           }
         }
       }
@@ -736,22 +436,10 @@
             "value" : "Origin Y (default: center)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin Y (default: center)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Origin Y (default: center)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "原點 Y（預設值：中央）"
+            "value" : "起始 Y (默认: 从中心裁切)"
           }
         }
       }
@@ -765,22 +453,10 @@
             "value" : "Mirror"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mirror"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mirror"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "水平翻轉"
+            "value" : "水平镜像翻转"
           }
         }
       }
@@ -794,22 +470,10 @@
             "value" : "3D LUT"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3D LUT"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "3D LUT"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3D LUT"
+            "state" : "translated",
+            "value" : "3D LUT调色档"
           }
         }
       }
@@ -823,22 +487,10 @@
             "value" : "File path (you can also drag & drop the file into the input box)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "File path (you can also drag & drop the file into the input box)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "File path (you can also drag & drop the file into the input box)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "檔案"
+            "value" : "文件"
           }
         }
       }
@@ -852,22 +504,10 @@
             "value" : "Interpolation mode"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Interpolation mode"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Interpolation mode"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "補幀模式"
+            "value" : "插值模式"
           }
         }
       }
@@ -881,22 +521,10 @@
             "value" : "Negative"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Negative"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Negative"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "負片"
+            "value" : "负片"
           }
         }
       }
@@ -910,22 +538,10 @@
             "value" : "Sharpen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sharpen"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sharpen"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "銳利化"
+            "value" : "锐化"
           }
         }
       }
@@ -939,22 +555,10 @@
             "value" : "Amount"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Amount"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Amount"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "銳利量"
+            "value" : "锐化度"
           }
         }
       }
@@ -968,22 +572,10 @@
             "value" : "Matrix size"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matrix size"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matrix size"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "矩陣大小"
+            "value" : "矩阵尺寸"
           }
         }
       }
@@ -997,22 +589,10 @@
             "value" : "Flip"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Flip"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Flip"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "垂直翻轉"
+            "value" : "垂直翻转"
           }
         }
       }
