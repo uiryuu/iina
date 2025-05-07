@@ -11,22 +11,10 @@
             "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "偏好設定 > 一般 中取消勾選「接收 beta 版本更新」，然後從<a href=\"https://iina.io\">官網</a>下載並安裝穩定版本。"
+            "value" : "请在“设置”>“通用”中，取消勾选\"接收 beta 版本更新\"，然后在我们的<a href=\"https://iina.io\">官方网站</a>下载稳定版本安装。"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "請透過<a href=\"mailto:developers@iina.io\">電子郵件</a>或者 <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a> 向我們報告。"
+            "value" : "请通过<a href=\"mailto:developers@iina.io\">邮件</a>或 <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a> 向我们报告。"
           }
         }
       }
@@ -72,19 +48,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -103,19 +67,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -133,22 +85,10 @@
             "value" : "Open URL…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Open URL…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open URL…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "打開 URL⋯"
+            "value" : "打开URL…"
           }
         }
       }
@@ -164,19 +104,7 @@
             "value" : "⌘O"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⌘O"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⌘O"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⌘O"
@@ -194,22 +122,10 @@
             "value" : "BETA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "BETA"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "BETA"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "BETA"
+            "state" : "translated",
+            "value" : "测试版本（Beta）"
           }
         }
       }
@@ -224,22 +140,10 @@
             "value" : "You are using a beta version of IINA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "You are using a beta version of IINA"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You are using a beta version of IINA"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "您正在使用 IINA 的 beta 版本"
+            "value" : "您正在使用 IINA 的测试版本（Beta）"
           }
         }
       }
@@ -254,22 +158,10 @@
             "value" : "Found a bug?"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Found a bug?"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found a bug?"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "發現了 bug？"
+            "value" : "发现错误？"
           }
         }
       }
@@ -285,19 +177,7 @@
             "value" : "⇧⌘O"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⇧⌘O"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⇧⌘O"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⇧⌘O"
@@ -315,22 +195,10 @@
             "value" : "Resume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Resume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Resume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "繼續播放"
+            "value" : "继续播放"
           }
         }
       }
@@ -345,22 +213,10 @@
             "value" : "Found a bug?"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Found a bug?"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found a bug?"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "發現了 bug？"
+            "value" : "发现错误？"
           }
         }
       }
@@ -376,19 +232,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -407,19 +251,7 @@
             "value" : "IINA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA"
@@ -437,22 +269,10 @@
             "value" : "Open…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Open…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "打開⋯"
+            "value" : "打开…"
           }
         }
       }
@@ -467,22 +287,10 @@
             "value" : "Want to rollback?"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Want to rollback?"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Want to rollback?"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "想要復原到穩定版本？"
+            "value" : "是否需要回滚到上一稳定版本？"
           }
         }
       }
@@ -498,19 +306,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -529,19 +325,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -560,19 +344,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
