@@ -1957,14 +1957,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Die video speel in beeld-in-beeld af"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "يجري تشغيل هذا الفيديو بنظام صورة داخل صورة"
           }
         },
         "az" : {
@@ -1975,8 +1975,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Гэта відэа праграваецца ў рэжыме відарыс у відарысу"
           }
         },
         "bg" : {
@@ -1993,26 +1993,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Aquest vídeo s'està reproduint en Picture in Picture"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Video je přehráváno jako obraz v obrazu."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Denne video afspilles i picture in picture"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Dieses Video wird Bild-in-Bild abgespielt."
           }
         },
         "el" : {
@@ -2035,8 +2035,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Este vídeo se esta reproduciendo en picture in picture"
           }
         },
         "eu" : {
@@ -2047,44 +2047,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "این ویدئو در حالت تصویر در تصویر در حال پخش است"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Tätä videota toistetaan kuva kuvassa -tilassa"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Cette vidéo est en cours de lecture en image dans l'image"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "הסרטון הזה מתנגן במצב תמונה בתוך תמונה"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "यह वीडियो पिक्चर-इन-पिक्चर में चल रहा है"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Videozapis se reproduciraj sliku u slici"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Ez a video játszódik kép a képben"
           }
         },
         "hy" : {
@@ -2095,8 +2095,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Video ini diputar dalam mode picture in picture"
           }
         },
         "is" : {
@@ -2107,14 +2107,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Questo video è in riproduzione in modalità Picture-in-Picture"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "このビデオはピクチャー・イン・ピクチャーで再生しています"
           }
         },
         "kn" : {
@@ -2125,8 +2125,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "화면 속 화면으로 재생 중입니다"
           }
         },
         "lv" : {
@@ -2149,14 +2149,14 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "This video is playing in picture in picture"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Deze video wordt beeld in beeld afgespeeld."
           }
         },
         "no" : {
@@ -2167,38 +2167,38 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Odtwarzanie Obraz-w-obrazie"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Este vídeo está em Picture in Picture"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Este vídeo está a ser reproduzido em modo Picture in Picture"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Acest video rulează în modul Picture-in-Picture."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Это видео воспроизводится в режиме «Картинка в картинке»"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Video sa prehráva v móde picture in picture"
           }
         },
         "sl" : {
@@ -2215,14 +2215,14 @@
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Овај видео-запис репродукује се у режиму слике у слици"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Denna video spelar i bild-i-bild"
           }
         },
         "th" : {
@@ -2233,8 +2233,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Bu video resim içinde resim olarak oynatılıyor"
           }
         },
         "ug" : {
@@ -2245,8 +2245,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Це відео відтворюється в режимі «Картинка в картинці»"
           }
         },
         "ur-PK" : {
@@ -2257,20 +2257,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "Video này đang phát trong chế độ Ảnh trong ảnh"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "视频正在“画中画”模式播放"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This video is playing in picture in picture"
+            "state" : "translated",
+            "value" : "影片正在子母畫面模式下播放"
           }
         }
       }
