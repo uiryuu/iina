@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Family"
           }
         },
@@ -197,15 +197,9 @@
             "value" : "ഫാമലി"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Familie"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Family"
           }
         },
@@ -213,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Familie"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Family"
           }
         },
         "pl" : {
@@ -257,10 +257,10 @@
             "value" : "Family"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Porodica"
+            "state" : "new",
+            "value" : "Family"
           }
         },
         "sr-SP" : {
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Familj"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "குடும்பம்"
           }
         },
         "th" : {
@@ -408,7 +402,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Type to filter…"
           }
         },
@@ -526,15 +520,9 @@
             "value" : "ഫിൽട്ടർ ചെയ്യാൻ ടൈപ്പ് ചെയ്യുക…"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skriv for å filtrere…"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Type to filter…"
           }
         },
@@ -542,6 +530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zoek"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type to filter…"
           }
         },
         "pl" : {
@@ -586,10 +580,10 @@
             "value" : "Type to filter…"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kucajte da biste filtrirali…"
+            "state" : "new",
+            "value" : "Type to filter…"
           }
         },
         "sr-SP" : {
@@ -602,12 +596,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skriv för att filtrera…"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வடிகட்ட தட்டச்சு செய்க…"
           }
         },
         "th" : {
@@ -738,7 +726,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Choose a Font"
           }
         },
@@ -856,15 +844,9 @@
             "value" : "ഒരു ഫോണ്ട് തിരഞ്ഞെടുക്കുക"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Velg skrifttype"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Choose a Font"
           }
         },
@@ -872,6 +854,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kies een lettertype"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose a Font"
           }
         },
         "pl" : {
@@ -916,10 +904,10 @@
             "value" : "Izberi pisavo"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odaberi font"
+            "state" : "new",
+            "value" : "Choose a Font"
           }
         },
         "sr-SP" : {
@@ -932,12 +920,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Välj typsnitt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "எழுத்துருவைத் தேர்வுசெய்க"
           }
         },
         "th" : {
@@ -1068,7 +1050,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Typeface"
           }
         },
@@ -1186,15 +1168,9 @@
             "value" : "ടൈപ്പ്ഫേസ്"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skrifttype"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Typeface"
           }
         },
@@ -1202,6 +1178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stijl"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Typeface"
           }
         },
         "pl" : {
@@ -1246,10 +1228,10 @@
             "value" : "Typeface"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slovni oblik"
+            "state" : "new",
+            "value" : "Typeface"
           }
         },
         "sr-SP" : {
@@ -1262,12 +1244,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Variant"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Typeface"
           }
         },
         "th" : {
@@ -1398,7 +1374,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cancel"
           }
         },
@@ -1516,15 +1492,9 @@
             "value" : "റദ്ദാക്കുക"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cancel"
           }
         },
@@ -1532,6 +1502,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Annuleer"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pl" : {
@@ -1576,10 +1552,10 @@
             "value" : "Prekliči"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otkaži"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sr-SP" : {
@@ -1592,12 +1568,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avbryt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ரத்துசெய்"
           }
         },
         "th" : {
@@ -1652,6 +1622,7 @@
     },
     "Kt3-me-43R.placeholderString" : {
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"sans-serif\"; ObjectID = \"Kt3-me-43R\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1846,12 +1817,6 @@
             "value" : "sans-serif"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "sans-serif"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1859,6 +1824,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "sans-serif"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -1906,7 +1877,7 @@
             "value" : "sans-serif"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -1919,12 +1890,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "sans-serif"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -1978,8 +1943,7 @@
             "value" : "sans-serif"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "qwM-r2-9ki.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Test\"; ObjectID = \"qwM-r2-9ki\";",
@@ -1999,7 +1963,7 @@
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2029,19 +1993,19 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2059,7 +2023,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2089,7 +2053,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2107,7 +2071,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2177,21 +2141,21 @@
             "value" : "പരിശോധന"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Test"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2215,7 +2179,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2227,7 +2191,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
           }
         },
@@ -2237,10 +2201,10 @@
             "value" : "Test"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testiraj"
+            "state" : "new",
+            "value" : "Test"
           }
         },
         "sr-SP" : {
@@ -2251,14 +2215,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Test"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "சோதனை"
           }
         },
         "th" : {
@@ -2329,7 +2287,7 @@
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2359,19 +2317,19 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2389,7 +2347,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2413,13 +2371,13 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2443,7 +2401,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2455,7 +2413,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2467,13 +2425,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2507,57 +2465,57 @@
             "value" : "ശരി"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Godkjenn"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "OK"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2567,10 +2525,10 @@
             "value" : "V redu"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "U redu"
+            "state" : "new",
+            "value" : "OK"
           }
         },
         "sr-SP" : {
@@ -2581,14 +2539,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "சரி"
           }
         },
         "th" : {
@@ -2623,7 +2575,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2719,7 +2671,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Choose a font:"
           }
         },
@@ -2837,15 +2789,9 @@
             "value" : "ഒരു ഫോണ്ട് തിരഞ്ഞെടുക്കുക:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Velg skrifttype:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Choose a font:"
           }
         },
@@ -2853,6 +2799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kies een lettertype:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose a font:"
           }
         },
         "pl" : {
@@ -2897,10 +2849,10 @@
             "value" : "Izberi pisavo:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odaberi font:"
+            "state" : "new",
+            "value" : "Choose a font:"
           }
         },
         "sr-SP" : {
@@ -2913,12 +2865,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Välj typsnitt:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "எழுத்துருவைத் தேர்வுசெய்க:"
           }
         },
         "th" : {
@@ -3049,7 +2995,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Or enter the font name:"
           }
         },
@@ -3167,15 +3113,9 @@
             "value" : "അല്ലെങ്കിൽ ഫോണ്ടിന്റെ പേര് നൽകുക:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eller skriv inn skrifttypenavn:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Or enter the font name:"
           }
         },
@@ -3183,6 +3123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Of voer de naam van het lettertype in:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Or enter the font name:"
           }
         },
         "pl" : {
@@ -3227,10 +3173,10 @@
             "value" : "Or enter the font name:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ili unesi naziv fonta:"
+            "state" : "new",
+            "value" : "Or enter the font name:"
           }
         },
         "sr-SP" : {
@@ -3243,12 +3189,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eller ange typsnittets namn:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அல்லது எழுத்துரு பெயரை உள்ளிடவும்:"
           }
         },
         "th" : {
@@ -3379,7 +3319,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Preview"
           }
         },
@@ -3497,15 +3437,9 @@
             "value" : "പ്രിവ്യൂ"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Forhåndsvisning"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Preview"
           }
         },
@@ -3513,6 +3447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voorvertoning"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preview"
           }
         },
         "pl" : {
@@ -3557,10 +3497,10 @@
             "value" : "Predogled"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pregled"
+            "state" : "new",
+            "value" : "Preview"
           }
         },
         "sr-SP" : {
@@ -3573,12 +3513,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förhandsvisning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முன்னோட்டம்"
           }
         },
         "th" : {
