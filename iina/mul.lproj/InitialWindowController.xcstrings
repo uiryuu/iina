@@ -7,68 +7,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verwyder die merkie “ontvang betabywerkings” in Voorkeure - Algemeen en installeer ’n stabiele weergawe d.m.v. ons <a href=\"https://iina.io\">amptelike webwerf</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "قم بإلغاء تحديد \"تلقي تحديثات بيتا\" من التفضيلات - عام، وتثبيت إصدار مستقر من <a href=\"https://iina.io\">موقعنا الرسمي</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tənzimləmələr > General'dan \"beta yeniləmələrini endir\" hissəsini seçimdən çıxarın və sabit buraxılışı bu linkdən endirin <a href=\"https://iina.io\">Rəsmi websayt</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Зніміце птушку з пункта «Атрымліваць бэта абнаўленні» ў агульных наладах і ўсталюйце стабільны выпуск з нашага <a href=\"https://iina.io\">афіцыйнага вэб-сайта</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desmarca \"rebre actualitzacions beta\" a les Preferències - General, i installa una versió estable des del nostre <a href=\"https://iina.io\">lloc web oficial</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zrušte výběr „Dostávat beta aktualizace“ v Nastavení > Obecné, a nainstalujte stabilní verzi z naší <a href=\"https://iina.io\">oficiální webové stránky</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fjern markeringen \"modtag beta-opdateringer\" i Præferencer - Generelt, og installer en stabil udgivelse fra vores <a href=\"https://iina.io\"> officielle hjemmeside </a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entferne den Haken bei „Betaupdates erhalten“ in Einstellungen -> Allgemein und installiere eine stabile Version von unserer <a href=\"https://iina.io\">offiziellen Webseite</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Αποεπιλέξτε τη \"Λήψη δοκιμαστικών ενημερώσεων\" στις Προτιμήσεις > Γενικά, και εγκαταστήστε μια σταθερή έκδοση από την <a href=\"https://iina.io\">επίσημη Ιστοσελίδα</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "en" : {
@@ -79,128 +79,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desmarque \"Recibir actualizaciones beta\" en Preferencias - General, e instale una versión estable desde nuestro <a href=\"https://iina.io\">sitio web oficial</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "تیک گزینه‌ی “دریافت بروزرسانی‌های بتا” را از بخش تنظیمات - عمومی بردارید و یک نسخه‌ی پایدار را از <a href=\"https://iina.io\">سایت رسمی ما</a> نصب کنید."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Poista valinta \"vastaanota betapäivityksiä\" Asetukset - Yleiset -kohdasta ja asenna vakaa julkaisu <a href=\"https://iina.io\">viralliselta verkkosivustoltamme</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Décochez « Recevoir les mises à jour bêta » depuis Réglages > Général et installez une version stable depuis notre <a href=\"https://iina.io\">site officiel</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "प्राथमिकता - जेनरल से \"बीटा अपडेट प्राप्त करें\" को अनचेक करें, और हमारी <a href=\"https://iina.io\">ऑफिशियल वेबसाइट</a> से स्टेबल रिलीज इंस्टॉल करें।"
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odznači opciju „primaj beta verzije” u Postavke > Opće i instaliraj stabilno izdanje s naše <a href=\"https://iina.io\">službene web-stranice</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Szüntesse meg a kijelölést a \"béta frissítések\" opciónál a Beállításokban, majd telepítsen egy stabil verziót a <a href=\"https://iina.io\">hivatalos weboldalunkról</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hilangkan centang \"Terima Pembaruan Beta\" dari Preferensi - Umum, dan instal versi stabil dari <a href=\"https://iina.io\">laman situs resmi</a> kami."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deseleziona \"Ricevi aggiornamenti beta\" da Preferenze - Generali e installa la versione stabile dal nostro <a href=\"https://iina.io\"> sito web ufficiale </a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "環境設定 > 一般 から「ベータ版のアップデート通知を受け取る」のチェックを外し、<a href=\"https://iina.io\">公式サイト</a>から最新の安定版をインストールしてください。"
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "환경 설정 > 일반 탭에서 '베타 업데이트 받기'를 해제한 다음, <a href=\"https://iina.io\">공식 웹사이트</a>에서 안정 버전을 설치하십시오."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fjern avkrysningen for \"motta betaoppdateringer\" fra Innstillinger - General, og installer en stabil versjon fra vår <a href=\"https://iina.io\">offisielle hjemmeside</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ne" : {
@@ -211,122 +205,122 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verwijder het vinkje bij \"ontvang bètaversies\" in Voorkeuren - Algemeen, en installeer een stabiele versie via onze <a href=\"https://iina.io\">officiële website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "W zakładce Ogólne w Preferencjach aplikacji odznacz \"Uwzględniaj wersje beta\" i zainstaluj stabilne wydanie z naszej <a href=\"https://github.com/iina/iina\">oficjalnej strony</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desmarque a opção \"receber atualizações beta\" das Preferências - Geral e instale uma versão estável em nosso <a href=\"https://iina.io\">site oficial</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desmarque a opção \"Receber atualizações beta\" nas Preferências - Geral e instale uma versão estável do nosso <a href=\"https://iina.io\">site oficial</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Debifează „Primește versiuni beta” din Preferințe - General și instalează o versiune stabilă de pe <a href=\"https://iina.io\">site-ul oficial</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Снимите флажок «Получать бета-обновления» в Настройках (вкладка «Основные») и установите стабильную версию с нашего <a href=\"https://iina.io\">официального сайта</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odškrtnite \"Sťahovať beta aktualizácie\" v Nastavenia - Všeobecné a nainštalujte stabilnú verziu z našej <a href=\"https://iina.io\">oficiálnej stránky</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opozovite izbor stavke „primaj beta ažuriranja“ u okviru opcije Željene postavke – Opšte postavke, a zatim instalirajte stabilno izdanje sa <a href=\"https://iina.io\">zvaničnog veb-sajta</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avmarkera \"ta emot beta-uppdateringar\" i Inställningar - Allmänt, och installera en stabil utgivning från vår <a href=\"https://iina.io\">officiella webbplats</a>."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lütfen “Tercihler” / “Genel” sekmesinden “Beta güncellemeleri al”ı kapatın ve <a href=\"https://iina.io\">resmi IINA sitesinden</a> stabil son sürümü indirin."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ug" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Зніміть прапорець «Отримувати бета-оновлення» через Параметри → Загальні та встановіть стабільну версію з нашого <a href=\"https://iina.io\">офіційного веб-сайту</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncheck \"receive beta updates\" from Preferences - General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bỏ chọn \"cập nhật bản thử nghiệm\" trong Cài đặt - Chung, và cài đặt bản ổn định từ <a href=\"https://iina.io\">trang web chính thức</a>."
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "请在“设置”>“通用”中，取消勾选\"接收 beta 版本更新\"，然后在我们的<a href=\"https://iina.io\">官方网站</a>下载稳定版本安装。"
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "偏好設定 > 一般 中取消勾選「接收 beta 版本更新」，然後從<a href=\"https://iina.io\">官網</a>下載並安裝穩定版本。"
+            "state" : "new",
+            "value" : "Uncheck \"receive beta updates\" from Settings > General, and install a stable release from our <a href=\"https://iina.io\">official website</a>."
           }
         }
       }
@@ -337,26 +331,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rapporteer dit aan ons per <a href=\"mailto:developers@iina.io\">e-pos</a> of <a href=\"https://github.com/iina/iina/issues\">GitHub-knelpunt</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "أبلغ لنا عبر <a href=\"mailto:developers@iina.io\">البريد الإلكتروني</a> أو <a href=\"https://github.com/iina/iina/issues\">مشكلة GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bizə bildirin <a href=\"mailto:developers@iina.io\">email</a> və ya <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Паведаміце нам аб гэтым па <a href=\"mailto:developers@iina.io\">электроннай пошце</a> ці <a href=\"https://github.com/iina/iina/issues\">на GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "bg" : {
@@ -373,32 +367,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Informa'ns a través de <a href=\"mailto:developers@iina.io\">correu</a> o una incidència a <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nahlaste nám to na <a href=\"mailto:developers@iina.io\">email</a> nebo <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rapporter til os via <a href=\"mailto:developers@iina.io\">email</a> eller <a href=\"https://github.com/iina/iina/issues\">Github issues</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du kannst Fehler via <a href=\"mailto:developers@iina.io\">E-Mail</a> oder <a href=\"https://github.com/iina/iina/issues\">GitHub</a> melden."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Αναφορά μέσω <a href=\"mailto:developers@iina.io\">email</a> ή <a href=\"https://github.com/iina/iina/issues\">Θέματος GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "en" : {
@@ -409,14 +403,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Infórmenos mediante <a href=\"mailto:developers@iina.io\">correo electrónico</a> o una incidencia en <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "eu" : {
@@ -427,44 +421,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "از طریق <a href=\"mailto:developers@iina.io\">ایمیل</a> یا <a href=\"https://github.com/iina/iina/issues\">GitHub Issue</a> به ما گزارش دهید."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoita meille <a href=\"mailto:developers@iina.io\">sähköpostitse</a> tai <a href=\"https://github.com/iina/iina/issues\">GitHub-issuena</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Signalez-nous les bugs à <a href=\"mailto:developers@iina.io\">cette adresse</a> ou sur <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "דווח לנו באמצעות <a href=\"mailto:developers@iina.io\">אימייל</a> או <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "हमारी <a href=\"mailto:developers@iina.io\">ईमेल</a> \nया <a href=\"https://github.com/iina/iina/issues\">गिटहब इशू </a> द्वारा रिपोर्ट करें"
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prijavi greške putem <a href=\"mailto:developers@iina.io\">e-maila</a> ili <a href=\"https://github.com/iina/iina/issues\">GitHub problema</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jelentse nekünk <a href=\"mailto:developers@iina.io\">emailben</a> vagy <a href=\"https://github.com/iina/iina/issues\"> Githubon</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "hy" : {
@@ -475,8 +469,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Laporkan kepada kami melalui <a href=\"mailto:developers@iina.io\">surat elektronik</a> atau <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "is" : {
@@ -487,14 +481,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inviaci una segnalazione tramite <a href=\"mailto:developers@iina.io\">email</a> o <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "<a href=\"mailto:developers@iina.io\">メール</a> または <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>に報告してください。"
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "kn" : {
@@ -505,14 +499,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "<a href=\"mailto:developers@iina.io\">이메일</a> 또는 <a href=\"https://github.com/iina/iina/issues\">GitHub 이슈</a>를 통해 오류를 보고해주십시오."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ziņojiet mums, izmantojot <a href=\"mailto:developers@iina.io\">pastu</a> vai <a href=\"https://github.com/iina/iina/issues\">GitHub jautājumu</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "mk" : {
@@ -523,14 +517,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "<a href=\"mailto:developers@iina.io\">email</a> അല്ലെങ്കിൽ <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a> വഴി ഞങ്ങൾക്ക് റിപ്പോർട്ട് ചെയ്യുക."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rapporter til oss via <a href=\"mailto:developers@iina.io\">email</a> eller <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ne" : {
@@ -541,44 +529,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stuur ons een melding via <a href=\"mailto:developers@iina.io\">e-mail</a> of met een <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zgłoś to nam przez <a href=\"mailto:developers@iina.io\">e-mail</a> lub dodaj zgłoszenie na naszym <a href=\"https://github.com/iina/iina/issues\">repozytorium GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reporte um problema por <a href=\"mailto:developers@iina.io\">email</a> ou <a href=\"https://github.com/iina/iina/issues\">issue do GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Informamo-nos por <a href=\"mailto:developers@iina.io\">e-mail</a> ou através do <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raportați-ne problemele prin <a href=\"mailto:developers@iina.io\">e-mail</a> sau <a href=\"https://github.com/iina/iina/issues\"> GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сообщите нам <a href=\"mailto:developers@iina.io\">по почте</a> или <a href=\"https://github.com/iina/iina/issues\">через GitHub issue</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nahláste nám to cez <a href=\"mailto:developers@iina.io\">e-mail</a> alebo <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "sl" : {
@@ -587,10 +581,10 @@
             "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prijavite nam putem <a href=\"mailto:developers@iina.io\">e-pošte</a> ili <a href=\"https://github.com/iina/iina/issues\"> problema na GitHubu</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "sr-SP" : {
@@ -601,14 +595,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rapportera in till oss via <a href=\"mailto:developers@iina.io\">e-post</a> eller <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "<a href=\"mailto:developers@iina.io\">மின்னஞ்சல்</a> அல்லது <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a> மூலம் எங்களுக்கு தெரிவிக்கவும்."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "th" : {
@@ -619,8 +607,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lütfen sorunu <a href=\"mailto:developers@iina.io\">adresine</a> ileti olarak veya <a href=\"https://github.com/iina/iina/issues\">GitHub sayfası üzerinden</a> bildirin."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ug" : {
@@ -631,8 +619,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Повідомте нам через <a href=\"mailto:developers@iina.io\">e-mail</a> або <a href=\"https://github.com/iina/iina/issues\">GitHub</a>."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "ur-PK" : {
@@ -643,26 +631,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Báo cáo cho chúng tôi qua <a href=\"mailto:developers@iina.io\">email</a>hoặc<a href=\"https://github.com/iina/iina/issues\">GitHub issue."
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "请通过<a href=\"mailto:developers@iina.io\">邮件</a>或 <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a> 向我们报告。"
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "請透過<a href=\"mailto:developers@iina.io\">電子郵件</a>或者 <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a> 向我們報告。"
+            "state" : "new",
+            "value" : "Report to us via <a href=\"mailto:developers@iina.io\">email</a> or <a href=\"https://github.com/iina/iina/issues\">GitHub issue</a>."
           }
         }
       }
     },
     "eEO-DW-buJ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"eEO-DW-buJ\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -857,12 +846,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -870,6 +853,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -917,7 +906,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -930,12 +919,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -989,11 +972,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "ejb-iU-Lro.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"ejb-iU-Lro\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1188,12 +1171,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1201,6 +1178,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1248,7 +1231,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1261,12 +1244,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1320,8 +1297,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "FKG-Tz-TCV.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Open URL…\"; ObjectID = \"FKG-Tz-TCV\";",
@@ -1329,26 +1305,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open bronadres…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "فتح الرابط…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL açın..."
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Адкрыць URL-адрас…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "bg" : {
@@ -1365,32 +1341,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obre enllaç…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otevřít URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åbn URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Adresse öffnen …"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Άνοιγμα συνδέσμου URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "en" : {
@@ -1401,14 +1377,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Open URL…"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abrir URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "eu" : {
@@ -1419,44 +1395,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بازکردن URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouvrir une adresse…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "פתח URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "यूआरएल खोलें…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvori URL …"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL megnyitása…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "hy" : {
@@ -1467,26 +1443,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buka Link…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opna URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apri URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "URLを開く…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "kn" : {
@@ -1497,14 +1473,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL 열기…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atvērt URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "mk" : {
@@ -1515,14 +1491,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL തുറക്കുക…"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpne URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ne" : {
@@ -1533,44 +1503,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Open URL…"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Open URL…"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otwórz URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abrir URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abrir URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deschide URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Открыть URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvoriť URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "sl" : {
@@ -1579,28 +1555,22 @@
             "value" : "Open URL…"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvori URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отвори URL адресу…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Öppna URL…"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URLஐ திற…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "th" : {
@@ -1611,8 +1581,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL Aç…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ug" : {
@@ -1623,8 +1593,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Відкрити URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "ur-PK" : {
@@ -1635,26 +1605,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mở URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "打开URL…"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "打開 URL⋯"
+            "state" : "new",
+            "value" : "Open URL…"
           }
         }
       }
     },
     "FKk-kb-jEw.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"⌘O\"; ObjectID = \"FKk-kb-jEw\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1849,12 +1820,6 @@
             "value" : "⌘O"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⌘O"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1862,6 +1827,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⌘O"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⌘O"
@@ -1909,7 +1880,7 @@
             "value" : "⌘O"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⌘O"
@@ -1922,12 +1893,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⌘O"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⌘O"
@@ -1981,8 +1946,7 @@
             "value" : "⌘O"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "g2g-dy-qBH.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"BETA\"; ObjectID = \"g2g-dy-qBH\";",
@@ -1990,25 +1954,25 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بيتا"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2026,32 +1990,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ΔΟΚΙΜΑΣΤΙΚΗ ΕΚΔΟΣΗ"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "en" : {
@@ -2062,13 +2026,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2080,44 +2044,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بتا"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "בטא"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "बीटा"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "BÉTA"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "hy" : {
@@ -2128,26 +2092,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prófunarútgáfa"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ベータ"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "kn" : {
@@ -2158,13 +2122,13 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "베타"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2176,13 +2140,7 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ബീറ്റ"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2194,43 +2152,49 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "BETA"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Бета"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2240,9 +2204,9 @@
             "value" : "BETA"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2253,12 +2217,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "BETA"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "BETA"
@@ -2272,7 +2230,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         },
@@ -2284,8 +2242,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "БЕТА"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "ur-PK" : {
@@ -2296,19 +2254,19 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "THỬ NGHIỆM"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "测试版本（Beta）"
+            "state" : "new",
+            "value" : "BETA"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BETA"
           }
         }
@@ -2320,26 +2278,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "U gebruik ’n betaweergawe van IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "أنت تستخدم نسخة تجريبية من IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Siz İİNA'nın beta versiyasını istifadə edirsiz"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы выкарыстоўваеце бэта-версію IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "bg" : {
@@ -2356,32 +2314,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Estàs fent servir una versió beta d'IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Používáte beta verzi aplikace IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du bruger en beta version af IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du benutzt eine Beta-Version von IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Χρησιμοποιείτε μια δοκιμαστική έκδοση του IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "en" : {
@@ -2392,14 +2350,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "You are using a beta version of IINA"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Estás usando una versión beta de IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "eu" : {
@@ -2410,44 +2368,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "شما دارید از یک نسخه‌ی بتای IINA استفاده می‌کنید"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Käytät IINA:n betaversiota"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vous utilisez une version bêta de IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "אתה משתמש בגרסת בטא של IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "आप IINA के बीटा संस्करण का उपयोग कर रहे हैं"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristiš beta verziju programa IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ön az IINA béta verzióját használja"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "hy" : {
@@ -2458,26 +2416,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anda menggunakan versi beta dari IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Þú ert að nota prófunarútgáfu af IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stai usando una versione beta di IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ベータ版のIINAを利用中です"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "kn" : {
@@ -2488,14 +2446,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "베타 버전을 사용하고 있습니다"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jūs izmantojat IINA beta versiju"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "mk" : {
@@ -2506,14 +2464,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "നിങ്ങൾ IINA-യുടെ ബീറ്റ പതിപ്പാണ് ഉപയോഗിക്കുന്നത്"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du bruker en betaversjon av IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ne" : {
@@ -2524,44 +2476,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je gebruikt een bètaversie van IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Używasz wersji beta aplikacji IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Você está usando uma versão beta do IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Está a usar uma versão beta do IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Folosești o versiune beta de IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы используете бета-версию IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Používate beta verziu aplikácie IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "sl" : {
@@ -2570,10 +2528,10 @@
             "value" : "You are using a beta version of IINA"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koristite beta verziju programa IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "sr-SP" : {
@@ -2584,14 +2542,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du använder en beta-version av IINA"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "நீங்கள் IINA இன் முன்னோட்ட பதிப்பைப் பயன்படுத்துகிறீர்கள்"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "th" : {
@@ -2602,8 +2554,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Şu an IINA 'nın BETA sürümünü kullanıyorsunuz"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ug" : {
@@ -2614,8 +2566,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ви користуєтеся бета-версією IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "ur-PK" : {
@@ -2626,20 +2578,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bạn đang sử dụng một phiên bản thử nghiệm của IINA"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "您正在使用 IINA 的测试版本（Beta）"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "您正在使用 IINA 的 beta 版本"
+            "state" : "new",
+            "value" : "You are using a beta version of IINA"
           }
         }
       }
@@ -2650,26 +2602,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "’n Fout opgespoor?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "وجدت خطأ؟"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Xəta tapdız?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Знайшлі памылку?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "bg" : {
@@ -2686,32 +2638,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Has trobat un error?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Našli jste chybu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fundet en fejl?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler gefunden?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Βρήκατε σφάλμα;"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "en" : {
@@ -2722,14 +2674,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Found a bug?"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "¿Encontraste un error?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "eu" : {
@@ -2740,44 +2692,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "اشکالی پیدا کردید؟"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Löysitkö virheen?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avez-vous trouvé un bogue ?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "מצאת באג?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "एक बग मिला?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pronašao/la si grešku?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hibát talált?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hy" : {
@@ -2788,26 +2740,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Menemukan sebuah masalah atau galat?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fannstu villu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hai trovato un bug?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "不具合を見つけましたか？"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "kn" : {
@@ -2818,14 +2770,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "오류를 발견했나요?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atradāt kļūdu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "mk" : {
@@ -2836,14 +2788,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഒരു ബഗ് കണ്ടെത്തിയോ?"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funnet en feil?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ne" : {
@@ -2854,44 +2800,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Een bug gevonden?"
+            "state" : "new",
+            "value" : "Found a bug?"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Znalazłeś błąd?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Encontrou um bug?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Encontrou um erro?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ai găsit un bug?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нашли ошибку?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Našli ste chybu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "sl" : {
@@ -2900,10 +2852,10 @@
             "value" : "Found a bug?"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pronašli ste grešku?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "sr-SP" : {
@@ -2913,12 +2865,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hittat ett fel?"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Found a bug?"
@@ -2932,8 +2878,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bir hata mı buldunuz?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ug" : {
@@ -2944,8 +2890,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Знайшли несправність?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ur-PK" : {
@@ -2956,26 +2902,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bạn tìm thấy lỗi?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "发现错误？"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "發現了 bug？"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         }
       }
     },
     "kBV-5X-8Bp.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"⇧⌘O\"; ObjectID = \"kBV-5X-8Bp\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3170,12 +3117,6 @@
             "value" : "⇧⌘O"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⇧⌘O"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3183,6 +3124,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⇧⌘O"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⇧⌘O"
@@ -3230,7 +3177,7 @@
             "value" : "⇧⌘O"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⇧⌘O"
@@ -3243,12 +3190,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "⇧⌘O"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⇧⌘O"
@@ -3302,8 +3243,7 @@
             "value" : "⇧⌘O"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "KWZ-BM-GBN.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Resume\"; ObjectID = \"KWZ-BM-GBN\";",
@@ -3311,26 +3251,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hervat"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "استئناف"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Davam et"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Узнавіць"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "bg" : {
@@ -3347,32 +3287,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reprèn"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pokračovat"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Genoptag"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fortsetzen"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Συνέχιση"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "en" : {
@@ -3383,14 +3323,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continuar"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "eu" : {
@@ -3401,44 +3341,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ادامه"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jatka"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reprendre"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "המשך את"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "रिज्यूम"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavi"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Folytatás"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "hy" : {
@@ -3449,26 +3389,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lanjutkan"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Halda áfram"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Riprendi"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "続きから再生"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "kn" : {
@@ -3479,14 +3419,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "이어보기"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Turpināt"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "mk" : {
@@ -3497,14 +3437,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "പുനരാരംഭിക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjenoppta"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ne" : {
@@ -3515,44 +3449,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hervat"
+            "state" : "new",
+            "value" : "Resume"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wznowienie"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continuar"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Retomar"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reia"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Продолжить"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pokračovať"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "sl" : {
@@ -3561,10 +3501,10 @@
             "value" : "Resume"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavi"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "sr-SP" : {
@@ -3574,12 +3514,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Återuppta"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Resume"
@@ -3593,8 +3527,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sürdür"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ug" : {
@@ -3605,8 +3539,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Відновити"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "ur-PK" : {
@@ -3617,20 +3551,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tiếp tục"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "继续播放"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "繼續播放"
+            "state" : "new",
+            "value" : "Resume"
           }
         }
       }
@@ -3641,26 +3575,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "’n Fout opgespoor?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "وجدت خطأ؟"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Xəta tapdız?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Знайшлі памылку?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "bg" : {
@@ -3677,32 +3611,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Has trobat un error?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Našli jste chybu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fundet en fejl?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler gefunden?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Βρήκατε σφάλμα;"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "en" : {
@@ -3713,14 +3647,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Found a bug?"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "¿Encontraste un error?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "eu" : {
@@ -3731,44 +3665,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "اشکالی پیدا کردید؟"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Löysitkö virheen?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avez-vous trouvé un bogue ?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "מצאת באג?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "एक बग मिला?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pronašao/la si grešku?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hibát talált?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "hy" : {
@@ -3779,26 +3713,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Menemukan sebuah masalah atau galat?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fannstu villu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hai trovato un bug?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "不具合を見つけましたか？"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "kn" : {
@@ -3809,14 +3743,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "오류를 발견했나요?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atradāt kļūdu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "mk" : {
@@ -3827,14 +3761,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഒരു ബഗ് കണ്ടെത്തിയോ?"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funnet en feil?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ne" : {
@@ -3845,44 +3773,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Een bug gevonden?"
+            "state" : "new",
+            "value" : "Found a bug?"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Znalazłeś błąd?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Encontrou um bug?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Encontrou um erro?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ai găsit un bug?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нашли ошибку?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Našli ste chybu?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "sl" : {
@@ -3891,10 +3825,10 @@
             "value" : "Found a bug?"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pronašli ste grešku?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "sr-SP" : {
@@ -3904,12 +3838,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hittat ett fel?"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Found a bug?"
@@ -3923,8 +3851,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bir hata mı buldunuz?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ug" : {
@@ -3935,8 +3863,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Знайшли несправність?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "ur-PK" : {
@@ -3947,26 +3875,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bạn tìm thấy lỗi?"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "发现错误？"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "發現了 bug？"
+            "state" : "new",
+            "value" : "Found a bug?"
           }
         }
       }
     },
     "lwC-kY-Nqh.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"lwC-kY-Nqh\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -4161,12 +4090,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -4174,6 +4097,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -4221,7 +4150,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -4234,12 +4163,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -4293,11 +4216,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "n70-xD-8He.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"IINA\"; ObjectID = \"n70-xD-8He\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -4492,12 +4415,6 @@
             "value" : "IINA"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -4505,6 +4422,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "IINA"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA"
@@ -4552,7 +4475,7 @@
             "value" : "IINA"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA"
@@ -4565,12 +4488,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "IINA"
@@ -4624,8 +4541,7 @@
             "value" : "IINA"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "qsU-lZ-WQq.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Open…\"; ObjectID = \"qsU-lZ-WQq\";",
@@ -4633,26 +4549,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Open…"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "فتح…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aç..."
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Адкрыць…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "bg" : {
@@ -4669,32 +4585,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obre…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otevřít…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åbn…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Öffnen …"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Άνοιγμα…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "en" : {
@@ -4705,14 +4621,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Open…"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abrir…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "eu" : {
@@ -4723,44 +4639,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "باز کردن…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouvrir un fichier…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "פתח קובץ…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "खोलें…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvori …"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Megnyitás…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "hy" : {
@@ -4771,26 +4687,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buka…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opna…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apri…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "開く…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "kn" : {
@@ -4801,14 +4717,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "열기…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atvērt…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "mk" : {
@@ -4819,14 +4735,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "തുറക്കുക…"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpne…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "ne" : {
@@ -4837,44 +4747,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Open…"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Open…"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otwórz…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abrir…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abrir…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deschide…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Открыть…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvoriť…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "sl" : {
@@ -4883,10 +4799,10 @@
             "value" : "Open…"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvori…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "sr-SP" : {
@@ -4897,14 +4813,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Öppna…"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "திற…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "th" : {
@@ -4915,8 +4825,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aç…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "ug" : {
@@ -4927,8 +4837,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Відкрити…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "ur-PK" : {
@@ -4939,20 +4849,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mở…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "打开…"
+            "state" : "new",
+            "value" : "Open…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "打開⋯"
+            "state" : "new",
+            "value" : "Open…"
           }
         }
       }
@@ -4963,26 +4873,26 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wil u terugdraai?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "هل تريد التراجع؟"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geri qaytarmaq istəyirsiz?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Жадаеце адкаціць?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "bg" : {
@@ -4999,32 +4909,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vols tornar a la versió anterior?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chcete se vrátit zpět?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vil du genoprette?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zu einer stabilen Version zurückkehren?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Θέλετε επαναφορά;"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "en" : {
@@ -5035,14 +4945,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Want to rollback?"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "¿Quiere volver a la versión anterior?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "eu" : {
@@ -5053,44 +4963,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "میخواهید به عقب برگردانید؟"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Haluatko peruuttaa?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vous voulez revenir à la version précédente ?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "רוצה לחזור אחורנית?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "रोलबैक करना चाहते हैं?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Želiš se vratiti na raniju verziju?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vissz szeretne állítani?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "hy" : {
@@ -5101,8 +5011,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingin kembali ke versi sebelumnya?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "is" : {
@@ -5113,14 +5023,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vuoi ripristinare la versione stabile?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "安定版に戻しますか？"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "kn" : {
@@ -5131,14 +5041,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "안정 버전을 사용하시겠습니까?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vai vēlaties atiestatīt?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "mk" : {
@@ -5149,14 +5059,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "റോൾബാക്ക് ചെയ്യണോ?"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vil du tilbake til tidligere versjon?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ne" : {
@@ -5167,44 +5071,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wil je dit terugdraaien?"
+            "state" : "new",
+            "value" : "Want to rollback?"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chcesz wrócić do stabilnej wersji?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Quer reverter?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Quer voltar atrás?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrei să revii?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Хотите вернуться на стабильную версию?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chcete sa vrátiť späť?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "sl" : {
@@ -5213,10 +5123,10 @@
             "value" : "Want to rollback?"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vratite se na prethodnu verziju?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "sr-SP" : {
@@ -5226,12 +5136,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vill du gå tillbaka?"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Want to rollback?"
@@ -5245,8 +5149,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eski sürüme dönmek ister misiniz?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ug" : {
@@ -5257,8 +5161,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Бажаєте відкотитися?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "ur-PK" : {
@@ -5269,26 +5173,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Muốn quay lại bản cũ?"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "是否需要回滚到上一稳定版本？"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "想要復原到穩定版本？"
+            "state" : "new",
+            "value" : "Want to rollback?"
           }
         }
       }
     },
     "tzb-ey-DZ9.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"tzb-ey-DZ9\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -5483,12 +5388,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -5496,6 +5395,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -5543,7 +5448,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -5556,12 +5461,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -5615,11 +5514,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "UfC-Vv-Izn.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"UfC-Vv-Izn\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -5814,12 +5713,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -5827,6 +5720,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -5874,7 +5773,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -5887,12 +5786,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -5946,11 +5839,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "Yih-Jo-OZc.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"Yih-Jo-OZc\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -6145,12 +6038,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -6158,6 +6045,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -6205,7 +6098,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -6218,12 +6111,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -6277,8 +6164,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     }
   },
   "version" : "1.0"
