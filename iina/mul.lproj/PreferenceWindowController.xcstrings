@@ -3,6 +3,7 @@
   "strings" : {
     "bTQ-iD-3rD.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"bTQ-iD-3rD\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -197,12 +198,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -210,6 +205,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -257,7 +258,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -270,12 +271,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -329,8 +324,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "F0z-JX-Cv5.title" : {
       "comment" : "Class = \"NSWindow\"; title = \"Preferences\"; ObjectID = \"F0z-JX-Cv5\";",
@@ -338,14 +332,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voorkeure"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "التفضيلات"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "az" : {
@@ -356,8 +350,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Налады"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "bg" : {
@@ -374,32 +368,32 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferències"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavení"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Indstillinger"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Προτιμήσεις"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "en" : {
@@ -410,14 +404,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Preferences"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferencias"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "eu" : {
@@ -428,44 +422,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "تنظیمات"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asetukset"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Préférences"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "העדפות"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "पसंद"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Postavke"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beállítások"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "hy" : {
@@ -476,26 +470,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferensi"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valmöguleikar"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferenze"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "環境設定"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "kn" : {
@@ -506,14 +500,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "환경설정"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Iestatījumi"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "mk" : {
@@ -528,12 +522,6 @@
             "value" : "Preferences"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Innstillinger"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -542,44 +530,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voorkeuren"
+            "state" : "new",
+            "value" : "Preferences"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferencje"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferencias"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferências"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferințe"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройки"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavenia"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "sl" : {
@@ -588,28 +582,22 @@
             "value" : "Preferences"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Željene postavke"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Подешавања"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inställningar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "விருப்பங்கள்"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "th" : {
@@ -620,8 +608,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tercihler"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "ug" : {
@@ -632,8 +620,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Параметри"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "ur-PK" : {
@@ -644,26 +632,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cài đặt"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "偏好设置"
+            "state" : "new",
+            "value" : "Preferences"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "偏好設定"
+            "state" : "new",
+            "value" : "Preferences"
           }
         }
       }
     },
     "hIj-J9-06Z.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"»\"; ObjectID = \"hIj-J9-06Z\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -858,12 +847,6 @@
             "value" : "»"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "»"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -871,6 +854,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "»"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "»"
@@ -918,7 +907,7 @@
             "value" : "»"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "»"
@@ -931,12 +920,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "»"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "»"
@@ -990,8 +973,7 @@
             "value" : "»"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "jUU-3A-jLW.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"No Result\"; ObjectID = \"jUU-3A-jLW\";",
@@ -999,14 +981,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geen resultaat"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "لا توجد نتيجة"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "az" : {
@@ -1017,8 +999,8 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Няма выніку"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "bg" : {
@@ -1035,26 +1017,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cap resultat"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Žádný výsledek"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen resultater"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Keine Ergebnisse"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "el" : {
@@ -1071,14 +1053,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Result"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sin resultados"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "eu" : {
@@ -1089,44 +1071,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بی نتیجه"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ei tuloksia"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aucun résultat"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "אין תוצאות"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "कोई परिणाम नही"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nema rezultata"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nincs eredmény"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "hy" : {
@@ -1137,26 +1119,26 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tidak Ada Hasil"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Engar niðurstöður"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nessun risultato"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "該当なし"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "kn" : {
@@ -1167,14 +1149,14 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "결과 없음"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nav rezultāta"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "mk" : {
@@ -1189,12 +1171,6 @@
             "value" : "No Result"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen treff"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1203,44 +1179,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geen resultaat"
+            "state" : "new",
+            "value" : "No Result"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brak wyników"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nenhum resultado"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sem Resultados"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fără Rezultat"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нет результатов"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Žiadny Výsledok"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "sl" : {
@@ -1249,25 +1231,19 @@
             "value" : "No Result"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nema rezultata"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нема резултата"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inga resultat"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No Result"
@@ -1281,8 +1257,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sonuç Yok"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "ug" : {
@@ -1293,8 +1269,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нічого не знайдено"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "ur-PK" : {
@@ -1305,26 +1281,27 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Không có kết quả"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "无结果"
+            "state" : "new",
+            "value" : "No Result"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "沒有結果"
+            "state" : "new",
+            "value" : "No Result"
           }
         }
       }
     },
     "KCo-fS-6w5.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"»\"; ObjectID = \"KCo-fS-6w5\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1519,12 +1496,6 @@
             "value" : "»"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "»"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1532,6 +1503,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "»"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "»"
@@ -1579,7 +1556,7 @@
             "value" : "»"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "»"
@@ -1592,12 +1569,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "»"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "»"
@@ -1651,11 +1622,11 @@
             "value" : "»"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "nPh-AY-eX8.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"nPh-AY-eX8\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1850,12 +1821,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1863,6 +1828,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1910,7 +1881,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1923,12 +1894,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -1982,11 +1947,11 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "Yqs-iT-EDU.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"Yqs-iT-EDU\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2181,12 +2146,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2194,6 +2153,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -2241,7 +2206,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -2254,12 +2219,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -2313,8 +2272,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     }
   },
   "version" : "1.0"
