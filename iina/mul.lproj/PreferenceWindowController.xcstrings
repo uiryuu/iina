@@ -3,6 +3,7 @@
   "strings" : {
     "bTQ-iD-3rD.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"bTQ-iD-3rD\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -63,6 +64,7 @@
     },
     "hIj-J9-06Z.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"»\"; ObjectID = \"hIj-J9-06Z\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -123,6 +125,7 @@
     },
     "KCo-fS-6w5.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"»\"; ObjectID = \"KCo-fS-6w5\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -153,6 +156,7 @@
     },
     "nPh-AY-eX8.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"nPh-AY-eX8\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -183,6 +187,7 @@
     },
     "Yqs-iT-EDU.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"Yqs-iT-EDU\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
