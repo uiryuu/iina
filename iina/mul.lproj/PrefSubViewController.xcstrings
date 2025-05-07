@@ -11,22 +11,10 @@
             "value" : "Assrt API token:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Assrt API token:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Assrt API token:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "Assrt（偽射手網）API token:"
+            "value" : "Assrt (伪射手网) API token:"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Online Subtitles:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Online Subtitles:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Online Subtitles:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "線上字幕："
+            "value" : "在线字幕:"
           }
         }
       }
@@ -71,22 +47,10 @@
             "value" : "Top"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Top"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Top"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "頂端"
+            "value" : "顶端"
           }
         }
       }
@@ -101,22 +65,10 @@
             "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display subtitles in letterboxes while in full screen"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Display subtitles in letterboxes while in full screen"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "全螢幕時在黑邊顯示字幕"
+            "value" : "全屏时将字幕显示在黑边"
           }
         }
       }
@@ -131,22 +83,10 @@
             "value" : "strip"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "strip"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "strip"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "過濾"
+            "value" : "条形"
           }
         }
       }
@@ -161,22 +101,10 @@
             "value" : "Position:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Position:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Position:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "位置："
+            "value" : "位置:"
           }
         }
       }
@@ -191,19 +119,7 @@
             "value" : "Bottom"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bottom"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bottom"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "底部"
@@ -221,22 +137,10 @@
             "value" : "Subtitles have priority when filename containing:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles have priority when filename containing:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles have priority when filename containing:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "優先載入檔名包含下列字串的字幕："
+            "value" : "优先加载文件名含有以下字符串的字幕:"
           }
         }
       }
@@ -251,22 +155,10 @@
             "value" : "Scale subtitles with window size"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Scale subtitles with window size"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scale subtitles with window size"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "根據視窗大小縮放字幕"
+            "value" : "字幕大小随窗口缩放"
           }
         }
       }
@@ -281,22 +173,10 @@
             "value" : "Font spacing:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Font spacing:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Font spacing:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "字體間距："
+            "value" : "字间距:"
           }
         }
       }
@@ -311,22 +191,10 @@
             "value" : "Vertical position:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Vertical position:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Vertical position:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "垂直位置："
+            "value" : "垂直位置:"
           }
         }
       }
@@ -341,22 +209,10 @@
             "value" : "Font"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Font"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Font"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "字體"
+            "value" : "字体"
           }
         }
       }
@@ -371,22 +227,10 @@
             "value" : "Y:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Y:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Y:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "垂直："
           }
         }
       }
@@ -401,22 +245,10 @@
             "value" : "Blur:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Blur:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Blur:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "模糊："
+            "value" : "模糊:"
           }
         }
       }
@@ -432,19 +264,7 @@
             "value" : "sans-serif"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "sans-serif"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "sans-serif"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -462,22 +282,10 @@
             "value" : "Shadow"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Shadow"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Shadow"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "陰影"
+            "value" : "阴影"
           }
         }
       }
@@ -492,22 +300,10 @@
             "value" : "Search online subtitles automatically"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Search online subtitles automatically"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Search online subtitles automatically"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動搜尋線上字幕"
+            "value" : "自动搜索在线字幕"
           }
         }
       }
@@ -522,22 +318,10 @@
             "value" : "Font:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Font:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Font:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "字體："
+            "value" : "字体"
           }
         }
       }
@@ -552,22 +336,10 @@
             "value" : " X:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : " X:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : " X:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水平："
           }
         }
       }
@@ -582,22 +354,10 @@
             "value" : "Not logged in"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Not logged in"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not logged in"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "尚未登入"
+            "value" : "未登录"
           }
         }
       }
@@ -612,22 +372,10 @@
             "value" : "Offset:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Offset:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Offset:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "位移："
+            "value" : "偏移:"
           }
         }
       }
@@ -642,22 +390,10 @@
             "value" : "Advanced"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Advanced"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Advanced"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "進階設定"
+            "value" : "高级"
           }
         }
       }
@@ -672,22 +408,10 @@
             "value" : "Center"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "置中"
+            "value" : "中间"
           }
         }
       }
@@ -702,22 +426,10 @@
             "value" : "Other Styles"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Styles"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Styles"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "其他樣式"
+            "value" : "Box"
           }
         }
       }
@@ -732,22 +444,10 @@
             "value" : "Background:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Background:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Background:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "背景："
+            "value" : "背景:"
           }
         }
       }
@@ -762,22 +462,10 @@
             "value" : "Override level:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Override level:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override level:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "覆蓋等級："
+            "value" : "覆盖等级"
           }
         }
       }
@@ -792,22 +480,10 @@
             "value" : "Right"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Right"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Right"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "齊右"
+            "value" : "右"
           }
         }
       }
@@ -822,22 +498,10 @@
             "value" : "Size:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Size:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Size:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "大小："
+            "value" : "大小:"
           }
         }
       }
@@ -852,22 +516,10 @@
             "value" : "Bold"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bold"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bold"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "粗體"
+            "value" : "粗体"
           }
         }
       }
@@ -882,22 +534,10 @@
             "value" : "OpenSubtitles account:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "OpenSubtitles account:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "OpenSubtitles account:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "OpenSubtitles 帳戶："
+            "value" : "OpenSubtitles 账户:"
           }
         }
       }
@@ -912,19 +552,7 @@
             "value" : "%"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%"
@@ -942,22 +570,10 @@
             "value" : "Align"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Align"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Align"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "對齊"
+            "value" : "对齐"
           }
         }
       }
@@ -972,22 +588,10 @@
             "value" : " X:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : " X:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : " X:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水平："
           }
         }
       }
@@ -1002,22 +606,10 @@
             "value" : "Other:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Other:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Other:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "其他："
+            "value" : "其他:"
           }
         }
       }
@@ -1032,22 +624,10 @@
             "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "目錄之間由冒號（:）隔開。允許相對路徑和在結尾處使用萬用字元（*）。"
+            "value" : "各路径由冒号 (:) 分隔。允许相对路径和结尾的通配符 (*)。"
           }
         }
       }
@@ -1062,22 +642,10 @@
             "value" : "ASS Subtitles:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "ASS Subtitles:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "ASS Subtitles:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "ASS 字幕："
+            "value" : "ASS 字幕:"
           }
         }
       }
@@ -1092,22 +660,10 @@
             "value" : "Please enter a comma-separated list of strings."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please enter a comma-separated list of strings."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please enter a comma-separated list of strings."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入由逗號分隔的字串列表。"
+            "value" : "请输入一系列逗号分隔的字符串。"
           }
         }
       }
@@ -1121,22 +677,10 @@
             "value" : "Choose…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇⋯"
+            "value" : "选择…"
           }
         }
       }
@@ -1151,22 +695,10 @@
             "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用時，所有 ASS 字幕將使用下方的樣式顯示。"
+            "value" : "这将导致 ASS 字幕使用以下设置渲染。"
           }
         }
       }
@@ -1181,22 +713,10 @@
             "value" : "Italic"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Italic"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Italic"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "斜體"
+            "value" : "斜体"
           }
         }
       }
@@ -1211,22 +731,10 @@
             "value" : "Margin"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Margin"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Margin"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "邊界"
+            "value" : "边距"
           }
         }
       }
@@ -1241,22 +749,10 @@
             "value" : "Text Subtitles:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Text Subtitles:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Text Subtitles:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "字幕樣式："
+            "value" : "文本字幕:"
           }
         }
       }
@@ -1271,22 +767,10 @@
             "value" : "Also search subtitles in following directories:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Also search subtitles in following directories:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Also search subtitles in following directories:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "也在下列的目錄中搜尋字幕："
+            "value" : "在以下目录中也查找字幕:"
           }
         }
       }
@@ -1301,22 +785,10 @@
             "value" : "Auto Load:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto Load:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto Load:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動載入："
+            "value" : "自动加载:"
           }
         }
       }
@@ -1331,22 +803,10 @@
             "value" : "Ignore ASS styles"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ignore ASS styles"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Ignore ASS styles"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "忽略所有 ASS 樣式"
+            "value" : "忽略所有 ASS 样式"
           }
         }
       }
@@ -1361,22 +821,10 @@
             "value" : "Color:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Color:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Color:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "顏色："
+            "value" : "颜色:"
           }
         }
       }
@@ -1391,22 +839,10 @@
             "value" : "Center"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "置中"
+            "value" : "中间"
           }
         }
       }
@@ -1421,22 +857,10 @@
             "value" : "Border"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Border"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Border"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "邊框"
+            "value" : "边框"
           }
         }
       }
@@ -1451,22 +875,10 @@
             "value" : "Download subtitles from:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Download subtitles from:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Download subtitles from:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "從⋯下載字幕："
+            "value" : "自动下载字幕来源:"
           }
         }
       }
@@ -1481,22 +893,10 @@
             "value" : "Disabled"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disabled"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disabled"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "停用"
+            "value" : "禁用"
           }
         }
       }
@@ -1511,22 +911,10 @@
             "value" : "Size:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Size:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Size:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "大小："
+            "value" : "大小:"
           }
         }
       }
@@ -1541,22 +929,10 @@
             "value" : "Color:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Color:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Color:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "顏色："
+            "value" : "颜色:"
           }
         }
       }
@@ -1571,22 +947,10 @@
             "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用時，IINA 只會為沒有載入字幕、長度超過 20 分鐘的影片自動搜尋線上字幕。"
+            "value" : "启用该选项时，IINA 只会针对没有加载字幕、长度超过 20 分钟的视频自动搜索在线字幕。"
           }
         }
       }
@@ -1601,22 +965,10 @@
             "value" : "Login"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Login"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Login"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "登入"
+            "value" : "登录"
           }
         }
       }
@@ -1631,22 +983,10 @@
             "value" : "Advanced"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Advanced"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Advanced"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "進階設定"
+            "value" : "高级"
           }
         }
       }
@@ -1661,22 +1001,10 @@
             "value" : "Y:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Y:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Y:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "垂直："
           }
         }
       }
@@ -1691,22 +1019,10 @@
             "value" : "Color:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Color:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Color:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "顏色："
+            "value" : "颜色:"
           }
         }
       }
@@ -1721,22 +1037,10 @@
             "value" : "Detect intelligently by IINA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Detect intelligently by IINA"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Detect intelligently by IINA"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "由 IINA 自動偵測"
+            "value" : "由 IINA 智能选择"
           }
         }
       }
@@ -1751,22 +1055,10 @@
             "value" : "Subtitles containing media filename"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles containing media filename"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles containing media filename"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "包含媒體檔名的字幕"
+            "value" : "包含媒体文件名的字幕"
           }
         }
       }
@@ -1781,22 +1073,10 @@
             "value" : "Default encoding:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default encoding:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default encoding:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設編碼："
+            "value" : "默认编码:"
           }
         }
       }
@@ -1810,22 +1090,10 @@
             "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "此選項將會以 ISO 639-2 編碼儲存，可使用於 mpv 和 OpenSubtitles 。"
+            "value" : "此选项将会以 ISO 639-2 格式保存，并适用于 mpv 和 OpenSubtitles 。"
           }
         }
       }
@@ -1840,22 +1108,10 @@
             "value" : "Preferred language:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred language:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred language:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "偏好的語言："
+            "value" : "偏好语言:"
           }
         }
       }
@@ -1870,22 +1126,10 @@
             "value" : "Left"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Left"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "齊左"
+            "value" : "左"
           }
         }
       }
