@@ -11,22 +11,10 @@
             "value" : "Auto (Copy)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto (Copy)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto (Copy)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動（拷貝）"
+            "value" : "自动 (拷贝)"
           }
         }
       }
@@ -42,19 +30,7 @@
             "value" : "reinhard"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "reinhard"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "reinhard"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "reinhard"
@@ -73,19 +49,7 @@
             "value" : "AC3"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AC3"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "AC3"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "AC3"
@@ -103,22 +67,10 @@
             "value" : "Default: 0 (Auto)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 0 (Auto)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 0 (Auto)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設：0（自動）"
+            "value" : "默认: 0 (自动)"
           }
         }
       }
@@ -133,22 +85,10 @@
             "value" : "Load ICC profile"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Load ICC profile"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Load ICC profile"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "載入 ICC 色彩描述檔"
+            "value" : "加载 ICC 配置文件"
           }
         }
       }
@@ -164,19 +104,7 @@
             "value" : "gamma"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "gamma"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "gamma"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "gamma"
@@ -195,19 +123,7 @@
             "value" : "mobius"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "mobius"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "mobius"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "mobius"
@@ -225,22 +141,10 @@
             "value" : "Preamp gain:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Preamp gain:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Preamp gain:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Preamp gain:"
+            "state" : "translated",
+            "value" : "前置增益："
           }
         }
       }
@@ -255,22 +159,10 @@
             "value" : "Maximum volume:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum volume:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum volume:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "最高音量："
+            "value" : "最大音量:"
           }
         }
       }
@@ -285,22 +177,10 @@
             "value" : "Number of threads:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Number of threads:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Number of threads:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "執行緒數："
+            "value" : "线程数:"
           }
         }
       }
@@ -315,22 +195,10 @@
             "value" : "Enable tone mapping"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable tone mapping"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable tone mapping"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用色調對應"
+            "value" : "启用色调映射"
           }
         }
       }
@@ -345,22 +213,10 @@
             "value" : "Measured peak brightness of the display. If set to 0, IINA detects this value. If detection fails, IINA sets the target peak to 400."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Measured peak brightness of the display. If set to 0, IINA detects this value. If detection fails, IINA sets the target peak to 400."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Measured peak brightness of the display. If set to 0, IINA detects this value. If detection fails, IINA sets the target peak to 400."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "螢幕的測量最大亮度。如果設為0，IINA將檢測此值。若檢測失敗，IINA將目標峰值設為400。"
+            "value" : "测量的显示器的峰值亮度。如果设置为0，IINA会检测这个值。如果检测失败，IINA会将目标峰值设为400。"
           }
         }
       }
@@ -375,19 +231,7 @@
             "value" : "nits"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "nits"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "nits"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "尼特"
@@ -405,22 +249,10 @@
             "value" : "dB"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "dB"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "dB"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "dB"
+            "state" : "translated",
+            "value" : "分贝"
           }
         }
       }
@@ -435,22 +267,10 @@
             "value" : "Default: 0 (Auto)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 0 (Auto)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 0 (Auto)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設：0（自動）"
+            "value" : "默认: 0 (自动)"
           }
         }
       }
@@ -465,19 +285,7 @@
             "value" : "(100-1000)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "(100-1000)"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "(100-1000)"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "(100-1000)"
@@ -495,22 +303,10 @@
             "value" : "Fallback:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fallback:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fallback:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fallback:"
+            "state" : "translated",
+            "value" : "减退："
           }
         }
       }
@@ -525,22 +321,10 @@
             "value" : "Initial volume:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Initial volume:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Initial volume:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "初始音量："
+            "value" : "固定初始音量:"
           }
         }
       }
@@ -555,22 +339,10 @@
             "value" : "Always use the dedicated GPU for rendering (if it exists). This can improve performance but may reduce battery life."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Always use the dedicated GPU for rendering (if it exists). This can improve performance but may reduce battery life."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Always use the dedicated GPU for rendering (if it exists). This can improve performance but may reduce battery life."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "渲染時總是使用獨立 GPU (如果可用)。這將會提高效能，但可能會減少電池壽命。"
+            "value" : "总是使用独立显卡(如果存在)。这可以提高渲染性能，但是可能增加耗电量。"
           }
         }
       }
@@ -585,22 +357,10 @@
             "value" : "ReplayGain:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "ReplayGain:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "ReplayGain:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "ReplayGain:"
+            "state" : "translated",
+            "value" : "回放增益"
           }
         }
       }
@@ -616,19 +376,7 @@
             "value" : "clip"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "clip"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "clip"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "clip"
@@ -646,22 +394,10 @@
             "value" : "If this option is not enabled, clipping will be prevented by lowering the gain."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If this option is not enabled, clipping will be prevented by lowering the gain."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If this option is not enabled, clipping will be prevented by lowering the gain."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If this option is not enabled, clipping will be prevented by lowering the gain."
+            "state" : "translated",
+            "value" : "如果未启用此选项，将会通过降低增益来防止削波。"
           }
         }
       }
@@ -677,19 +413,7 @@
             "value" : "DTS-HD"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DTS-HD"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DTS-HD"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DTS-HD"
@@ -708,19 +432,7 @@
             "value" : "Item 1"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Item 1"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Item 1"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Item 1"
@@ -738,22 +450,10 @@
             "value" : "Allow the volume gain to clip"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow the volume gain to clip"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow the volume gain to clip"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow the volume gain to clip"
+            "state" : "translated",
+            "value" : "允许音量增益削波"
           }
         }
       }
@@ -768,22 +468,10 @@
             "value" : "No adjustment"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No adjustment"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No adjustment"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No adjustment"
+            "state" : "translated",
+            "value" : "无调整"
           }
         }
       }
@@ -799,19 +487,7 @@
             "value" : "DTS"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DTS"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DTS"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "DTS"
@@ -829,22 +505,10 @@
             "value" : "Load the ICC profile for current display and use it to transform video RGB to screen output. (Only for SDR mode)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Load the ICC profile for current display and use it to transform video RGB to screen output. (Only for SDR mode)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Load the ICC profile for current display and use it to transform video RGB to screen output. (Only for SDR mode)"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "載入目前顯示的ICC配置檔，並使用它將視頻RGB轉換為屏幕輸出僅(適用於 SDR 模式)"
+            "value" : "加载当前显示器的 ICC 配置文件并用于将视频 RGB 转换至屏幕输出。(仅适用于 SDR 模式)"
           }
         }
       }
@@ -859,22 +523,10 @@
             "value" : "Gain to apply if the file has no ReplayGain tags."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Gain to apply if the file has no ReplayGain tags."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Gain to apply if the file has no ReplayGain tags."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Gain to apply if the file has no ReplayGain tags."
+            "state" : "translated",
+            "value" : "应用于文件没有「回放增益」标签的增益"
           }
         }
       }
@@ -889,22 +541,10 @@
             "value" : "Video:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Video:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Video:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "視訊："
+            "value" : "视频:"
           }
         }
       }
@@ -919,22 +559,10 @@
             "value" : "Enable tone mapping images onto the display"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable tone mapping images onto the display"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable tone mapping images onto the display"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用將圖像進行色調映射並顯示在螢幕上"
+            "value" : "在显示器上启用色调映射图像"
           }
         }
       }
@@ -950,19 +578,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -981,19 +597,7 @@
             "value" : "hable"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "hable"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "hable"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "hable"
@@ -1011,22 +615,10 @@
             "value" : "Hardware decoder:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Hardware decoder:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hardware decoder:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "硬體解碼器："
+            "value" : "硬件解码器:"
           }
         }
       }
@@ -1041,22 +633,10 @@
             "value" : "dB"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "dB"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "dB"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "dB"
+            "state" : "translated",
+            "value" : "分贝"
           }
         }
       }
@@ -1072,19 +652,7 @@
             "value" : "bt.2390"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "bt.2390"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "bt.2390"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "bt.2390"
@@ -1102,22 +670,10 @@
             "value" : "Algorithm:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Algorithm:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Algorithm:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "演算法："
+            "value" : "算法："
           }
         }
       }
@@ -1131,22 +687,10 @@
             "value" : "Enable HDR support"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable HDR support"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable HDR support"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用 HDR 支援"
+            "value" : "启用 HDR 支持"
           }
         }
       }
@@ -1161,22 +705,10 @@
             "value" : "Disabled"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disabled"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disabled"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "停用"
+            "value" : "禁用"
           }
         }
       }
@@ -1191,22 +723,10 @@
             "value" : "Pre-amplification gain to apply to the ReplayGain gain."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-amplification gain to apply to the ReplayGain gain."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-amplification gain to apply to the ReplayGain gain."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-amplification gain to apply to the ReplayGain gain."
+            "state" : "translated",
+            "value" : "应用于回放增益的前置放大增益。"
           }
         }
       }
@@ -1221,22 +741,10 @@
             "value" : "Preferred audio device:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred audio device:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred audio device:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "偏好音訊裝置："
+            "value" : "默认音频设备:"
           }
         }
       }
@@ -1251,22 +759,10 @@
             "value" : "Audio:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "音訊："
+            "value" : "音频:"
           }
         }
       }
@@ -1281,22 +777,10 @@
             "value" : "Algorithm to use for tone mapping images onto the display."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Algorithm to use for tone mapping images onto the display."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Algorithm to use for tone mapping images onto the display."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "在將圖像映射到螢幕上時使用的算法。"
+            "value" : "用于将图像映射到显示器上的算法。"
           }
         }
       }
@@ -1311,22 +795,10 @@
             "value" : "Auto"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動"
+            "value" : "自动"
           }
         }
       }
@@ -1341,22 +813,10 @@
             "value" : "Number of threads:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Number of threads:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Number of threads:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "執行緒數："
+            "value" : "线程数:"
           }
         }
       }
@@ -1372,19 +832,7 @@
             "value" : "auto"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "auto"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "auto"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "auto"
@@ -1402,22 +850,10 @@
             "value" : "S/PDIF output:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "S/PDIF output:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "S/PDIF output:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "S/PDIF 輸出："
+            "value" : "S/PDIF 输出:"
           }
         }
       }
@@ -1432,22 +868,10 @@
             "value" : "Track gain"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Track gain"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Track gain"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Track gain"
+            "state" : "translated",
+            "value" : "轨道增益"
           }
         }
       }
@@ -1462,22 +886,10 @@
             "value" : "Preferred language:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred language:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred language:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "偏好的語言："
+            "value" : "偏好语言:"
           }
         }
       }
@@ -1492,22 +904,10 @@
             "value" : "Target peak:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Target peak:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Target peak:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "目標峰值:"
+            "value" : "目标峰值："
           }
         }
       }
@@ -1522,22 +922,10 @@
             "value" : "Adjust volume gain according to ReplayGain values stored in the file metadata."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust volume gain according to ReplayGain values stored in the file metadata."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust volume gain according to ReplayGain values stored in the file metadata."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust volume gain according to ReplayGain values stored in the file metadata."
+            "state" : "translated",
+            "value" : "根据原数据中的回放增益调整音量增益"
           }
         }
       }
@@ -1553,19 +941,7 @@
             "value" : "linear"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "linear"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "linear"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "linear"
@@ -1583,22 +959,10 @@
             "value" : "Force dedicated GPU"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Force dedicated GPU"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Force dedicated GPU"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "強制使用獨立 GPU"
+            "value" : "强制使用独立显卡"
           }
         }
       }
@@ -1613,22 +977,10 @@
             "value" : "Enable HDR mode by default when playing HDR videos."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable HDR mode by default when playing HDR videos."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable HDR mode by default when playing HDR videos."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動啟用 HDR"
+            "value" : "播放 HDR 视频时默认启用 HDR 模式。"
           }
         }
       }
@@ -1643,22 +995,10 @@
             "value" : "Album gain"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Album gain"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Album gain"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Album gain"
+            "state" : "translated",
+            "value" : "专辑增益"
           }
         }
       }
@@ -1673,22 +1013,10 @@
             "value" : "Gain adjustment:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Gain adjustment:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Gain adjustment:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Gain adjustment:"
+            "state" : "translated",
+            "value" : "增益调整："
           }
         }
       }
