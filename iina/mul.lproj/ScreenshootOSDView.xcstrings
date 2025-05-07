@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "REVEAL"
           }
         },
@@ -197,15 +197,9 @@
             "value" : "വെളിപ്പെടുത്തുക"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "REVEAL"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "REVEAL"
           }
         },
@@ -213,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "TOON"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "REVEAL"
           }
         },
         "pl" : {
@@ -257,10 +257,10 @@
             "value" : "REVEAL"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRIKAŽI"
+            "state" : "new",
+            "value" : "REVEAL"
           }
         },
         "sr-SP" : {
@@ -273,12 +273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VISA"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "REVEAL"
           }
         },
         "th" : {
@@ -409,7 +403,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "EDIT"
           }
         },
@@ -527,15 +521,9 @@
             "value" : "എഡിറ്റ്"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "REDIGER"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "EDIT"
           }
         },
@@ -543,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "BEWERKEN"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "EDIT"
           }
         },
         "pl" : {
@@ -587,10 +581,10 @@
             "value" : "EDIT"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "UREDI"
+            "state" : "new",
+            "value" : "EDIT"
           }
         },
         "sr-SP" : {
@@ -603,12 +597,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "REDIGERA"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "EDIT"
           }
         },
         "th" : {
@@ -739,7 +727,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "DELETE"
           }
         },
@@ -857,15 +845,9 @@
             "value" : "ഡിലീറ്റ്"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "SLETT"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "DELETE"
           }
         },
@@ -873,6 +855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VERWIJDEREN"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DELETE"
           }
         },
         "pl" : {
@@ -917,10 +905,10 @@
             "value" : "DELETE"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "IZBRIŠI"
+            "state" : "new",
+            "value" : "DELETE"
           }
         },
         "sr-SP" : {
@@ -933,12 +921,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RADERA"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "DELETE"
           }
         },
         "th" : {
