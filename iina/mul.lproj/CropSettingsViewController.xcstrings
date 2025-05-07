@@ -7,68 +7,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Snoei"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "اقتصاص"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kəs"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Абрэзаць"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изрязване"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ক্রপ"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Escapça"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oříznout"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beskær"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zuschneiden"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Περικοπή"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "en" : {
@@ -79,128 +79,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Crop"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recortar"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ebaki"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "برش دادن"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rajaa"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rogner"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "חתוך"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "क्रॉप"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obreži"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Körbevágás"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Կտրել"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Crop"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klippa"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ritaglia"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "クロップ"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಕತ್ತರಿಸು"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "자르기"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apgriezt"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Исечи"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ക്രോപ്"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beskjær"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ne" : {
@@ -211,86 +205,86 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bijsnijden"
+            "state" : "new",
+            "value" : "Crop"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kadrowanie"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cortar"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cortar"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Decupează"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Кадрирование"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Orezanie"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obreži"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Iseci"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Исеци"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beskär"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வெட்டு"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ตัด"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kırp"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ug" : {
@@ -301,38 +295,39 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Обрізати"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "تراشیں"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cắt"
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "裁剪："
+            "state" : "new",
+            "value" : "Crop"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "裁切"
+            "state" : "new",
+            "value" : "Crop"
           }
         }
       }
     },
     "bQc-2s-1MS.ibShadowedLabels[0]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[0] = \"4:3\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -527,12 +522,6 @@
             "value" : "4:3"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "4:3"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -540,6 +529,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4:3"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "4:3"
@@ -587,7 +582,7 @@
             "value" : "4:3"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "4:3"
@@ -600,12 +595,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "4:3"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "4:3"
@@ -659,11 +648,11 @@
             "value" : "4:3"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[1]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[1] = \"16:9\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -858,12 +847,6 @@
             "value" : "16:9"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:9"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -871,6 +854,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "16:9"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:9"
@@ -918,7 +907,7 @@
             "value" : "16:9"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:9"
@@ -931,12 +920,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:9"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:9"
@@ -990,11 +973,11 @@
             "value" : "16:9"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[2]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[2] = \"16:10\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1189,12 +1172,6 @@
             "value" : "16:10"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:10"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1202,6 +1179,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "16:10"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:10"
@@ -1249,7 +1232,7 @@
             "value" : "16:10"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:10"
@@ -1262,12 +1245,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "16:10"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "16:10"
@@ -1321,11 +1298,11 @@
             "value" : "16:10"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[3]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[3] = \"5:4\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1520,12 +1497,6 @@
             "value" : "5:4"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "5:4"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1533,6 +1504,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5:4"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "5:4"
@@ -1580,7 +1557,7 @@
             "value" : "5:4"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "5:4"
@@ -1593,12 +1570,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "5:4"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "5:4"
@@ -1652,11 +1623,11 @@
             "value" : "5:4"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[4]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[4] = \"3:2\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -1851,12 +1822,6 @@
             "value" : "3:2"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3:2"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -1864,6 +1829,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3:2"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3:2"
@@ -1911,7 +1882,7 @@
             "value" : "3:2"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3:2"
@@ -1924,12 +1895,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "3:2"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3:2"
@@ -1983,11 +1948,11 @@
             "value" : "3:2"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "bQc-2s-1MS.ibShadowedLabels[5]" : {
       "comment" : "Class = \"NSSegmentedCell\"; bQc-2s-1MS.ibShadowedLabels[5] = \"21:9\"; ObjectID = \"bQc-2s-1MS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -2182,12 +2147,6 @@
             "value" : "21:9"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "21:9"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -2195,6 +2154,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "21:9"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "21:9"
@@ -2242,7 +2207,7 @@
             "value" : "21:9"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "21:9"
@@ -2255,12 +2220,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "21:9"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "21:9"
@@ -2314,8 +2273,7 @@
             "value" : "21:9"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "BtO-vw-tiy.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"BtO-vw-tiy\";",
@@ -2323,68 +2281,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kanselleer"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "إلغاء"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ləğv et"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Скасаваць"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отмяна"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "বাতিল"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancel·la"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zrušit"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuller"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abbrechen"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Άκυρο"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "en" : {
@@ -2395,128 +2353,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cancel"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancelar"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utzi"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "لغو"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Peruuta"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuler"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ביטול"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "रद्द करें"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odustani"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mégse"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Չեղարկել"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Batal"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hætta við"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annulla"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "キャンセル"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ರದ್ದುಮಾಡು"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "취소"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atcelt"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Откажи"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "റദ്ദാക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ne" : {
@@ -2527,86 +2479,86 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuleer"
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anuluj"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancelar"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancelar"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anulează"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отмена"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zrušiť"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prekliči"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otkaži"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Откажи"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ரத்துசெய்"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ยกเลิก"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vazgeç"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ug" : {
@@ -2617,32 +2569,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Скасувати"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "منسوخ"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hủy"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+            "state" : "new",
+            "value" : "Cancel"
           }
         }
       }
@@ -2653,68 +2605,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gereed"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "تم"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hazırdır"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Гатова"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "সম্পন্ন"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fet"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Udført"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bestätigen"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Τέλος"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "en" : {
@@ -2725,128 +2677,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Done"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hecho"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eginda"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "انجام شد"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valmis"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "סיום"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ठीक है"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kész"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Հաստատել"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selesai"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vista"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "完了"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಮಾಡಲಾಗಿದೆ"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "완료"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paveikts"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Завршено"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ചെയ്തു"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ferdig"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ne" : {
@@ -2857,86 +2803,86 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gereed"
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotowe"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pronto"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feito"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gata"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Končano"
+            "state" : "new",
+            "value" : "Done"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முடிந்தது"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "เสร็จสิ้น"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bitti"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ug" : {
@@ -2947,38 +2893,39 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "مکمل"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Xong"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "完成"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "完成"
+            "state" : "new",
+            "value" : "Done"
           }
         }
       }
     },
     "Fgl-Cs-eEh.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"Fgl-Cs-eEh\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -3173,12 +3120,6 @@
             "value" : "Label"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -3186,6 +3127,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3233,7 +3180,7 @@
             "value" : "Label"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3246,12 +3193,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -3305,8 +3246,7 @@
             "value" : "Label"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     }
   },
   "version" : "1.0"
