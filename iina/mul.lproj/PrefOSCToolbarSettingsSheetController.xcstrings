@@ -7,68 +7,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gereed"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "تم"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hazırdır"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Гатова"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "সম্পন্ন"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fet"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Udført"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bestätigen"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Τέλος"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "en" : {
@@ -79,128 +79,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Done"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hecho"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eginda"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "انجام شد"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valmis"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "סיום"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ठीक है"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kész"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Հաստատել"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selesai"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vista"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "完了"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಮಾಡಲಾಗಿದೆ"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "완료"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paveikts"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Завршено"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ചെയ്തു"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ferdig"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ne" : {
@@ -211,86 +205,86 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gereed"
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotowe"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pronto"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feito"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gata"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Končano"
+            "state" : "new",
+            "value" : "Done"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gotovo"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முடிந்தது"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "เสร็จสิ้น"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bitti"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ug" : {
@@ -301,32 +295,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Готово"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "مکمل"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Xong"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "完成"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "完成"
+            "state" : "new",
+            "value" : "Done"
           }
         }
       }
@@ -337,14 +331,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beskikbare items:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "العناصر المتاحة:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "az" : {
@@ -373,26 +367,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elements disponibles:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dostupné položky:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilgængelige emner:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfügbare Menüeinträge:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "el" : {
@@ -409,14 +403,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Available Items:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elementos disponibles:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "eu" : {
@@ -427,44 +421,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "موارد موجود:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Saatavilla olevat kohteet:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Éléments disponibles :"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "פריטים זמינים:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "उपलब्ध आइटम:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dostupne stavke:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elérhető elemek:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "hy" : {
@@ -475,8 +469,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Item tersedia:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "is" : {
@@ -487,14 +481,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comandi disponibili:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "利用可能な項目:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "kn" : {
@@ -505,8 +499,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용할 수 있는 항목"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "lv" : {
@@ -523,14 +517,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ലഭ്യമായ ഇനങ്ങൾ:"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilgjengelige elementer:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ne" : {
@@ -541,44 +529,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beschikbare onderdelen:"
+            "state" : "new",
+            "value" : "Available Items:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dostępne opcje:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Itens Disponíveis:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Itens Disponíveis:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elemente Disponibile:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Доступные элементы:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dostupné Položky:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "sl" : {
@@ -587,10 +581,10 @@
             "value" : "Available Items:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dostupne stavke:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "sr-SP" : {
@@ -600,12 +594,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tillgängliga objekt:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Available Items:"
@@ -619,8 +607,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mevcut Düğmeler:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ug" : {
@@ -631,8 +619,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Наявні елементи:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "ur-PK" : {
@@ -643,20 +631,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mục có sẵn:"
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "可用项目："
+            "state" : "new",
+            "value" : "Available Items:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "可用的項目："
+            "state" : "new",
+            "value" : "Available Items:"
           }
         }
       }
@@ -667,14 +655,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sleep ’n item buite die kas om dit te skrap."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "اسحب العنصر خارج الصندوق لحذفه."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "az" : {
@@ -703,26 +691,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arrossega un element a fora de la caixa per suprimir-lo."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Smažte položku přetáhnutím ven z pole."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Træk et element ud af boksen for at slette det."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Menüpunkt herausziehen um ihn zu löschen."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "el" : {
@@ -739,14 +727,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Drag an item out of the box to delete it."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arrastre un elemento fuera de la caja para eliminarlo."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "eu" : {
@@ -757,44 +745,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "برای حذف کردن٬ یک گزینه را از کادر خارج کن."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vedä kohde pois laatikosta poistaaksesi sen."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Faites glisser un élément hors de la zone pour le supprimer."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "גרור פריט אל מחוץ לתיבה כדי למחוק אותו."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "इसे हटाने के लिए किसी आइटम को बॉक्स से बाहर खींचें।"
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za brisanje stavke povuci je iz okvira van."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "A törléshez húzd ki az elemet a dobozból."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "hy" : {
@@ -805,8 +793,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seret item keluar kotak untuk menghapus."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "is" : {
@@ -817,14 +805,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Per eliminare un comando trascinalo fuori dalla casella."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "項目を削除するにはボックスの外へドラッグしてください。"
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "kn" : {
@@ -835,8 +823,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "항목을 지우려면 상자 바깥으로 끌어내십시오."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "lv" : {
@@ -853,14 +841,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഒരു ഇനം ഇല്ലാതാക്കാൻ ബോക്‌സിന് പുറത്തേക്ക് വലിച്ചിടുക."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dra et element ut av boksen for å slette det."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ne" : {
@@ -871,44 +853,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sleep een onderdeel uit het vak om het te verwijderen."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Przeciągnij ikonę poza pole, aby usunąć."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arraste um item para fora da caixa para excluí-lo."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arraste um item para fora da caixa para o eliminar."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trage un element din casetă pentru a-l șterge."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Перетащите элемент из поля, чтобы удалить его."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pretiahnite položku von z boxu, aby ste ju vymazali."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "sl" : {
@@ -917,10 +905,10 @@
             "value" : "Drag an item out of the box to delete it."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prevucite stavku van okvira da biste je izbrisali."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "sr-SP" : {
@@ -930,12 +918,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dra ett objekt ut ur rutan för att radera det."
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Drag an item out of the box to delete it."
@@ -949,8 +931,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Düğmeyi silmek için kutunun dışına sürükleyin."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ug" : {
@@ -961,8 +943,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Щоб видалити елемент, витягніть його з поля."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "ur-PK" : {
@@ -973,20 +955,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kéo một mục khỏi hộp để xóa bỏ."
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "把按钮拖拽出方框来删除它。"
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "將項目拖移出方框來刪除它。"
+            "state" : "new",
+            "value" : "Drag an item out of the box to delete it."
           }
         }
       }
@@ -997,68 +979,68 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kanselleer"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "إلغاء"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "az" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ləğv et"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Скасаваць"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отмяна"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "বাতিল"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancel·la"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zrušit"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuller"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abbrechen"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Άκυρο"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "en" : {
@@ -1069,128 +1051,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cancel"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancelar"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utzi"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "لغو"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Peruuta"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuler"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ביטול"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "रद्द करें"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odustani"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mégse"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Չեղարկել"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Batal"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hætta við"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annulla"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "キャンセル"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ರದ್ದುಮಾಡು"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "취소"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atcelt"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Откажи"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "റദ്ദാക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ne" : {
@@ -1201,86 +1177,86 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuleer"
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anuluj"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancelar"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancelar"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anulează"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отмена"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zrušiť"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prekliči"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otkaži"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Откажи"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ரத்துசெய்"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ยกเลิก"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vazgeç"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ug" : {
@@ -1291,32 +1267,32 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Скасувати"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "منسوخ"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hủy"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+            "state" : "new",
+            "value" : "Cancel"
           }
         }
       }
@@ -1327,14 +1303,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidige items:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "العناصر الحالية:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "az" : {
@@ -1363,26 +1339,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elements actuals:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktuální položky:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nuværende emner:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Momentane Menüpunkte:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "el" : {
@@ -1399,14 +1375,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Current Items:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elementos actuales:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "eu" : {
@@ -1417,44 +1393,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "موارد جاری:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nykyiset kohteet:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Éléments actuels :"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "פריטים נוכחיים:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "वर्तमान आइटम:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trenutačne stavke:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktuális elemek:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "hy" : {
@@ -1465,8 +1441,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Item saat ini:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "is" : {
@@ -1477,14 +1453,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comandi attivi:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "現在の項目:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "kn" : {
@@ -1495,8 +1471,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "선택된 항목"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "lv" : {
@@ -1513,14 +1489,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "നിലവിലെ ഇനങ്ങൾ:"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjeldende elementer:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ne" : {
@@ -1531,44 +1501,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidige werkbalk:"
+            "state" : "new",
+            "value" : "Current Items:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktywne opcje:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Itens atuais:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Itens atuais:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elemente Curente:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Текущие элементы:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktuálne Položky:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "sl" : {
@@ -1577,10 +1553,10 @@
             "value" : "Current Items:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trenutne stavke:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "sr-SP" : {
@@ -1590,12 +1566,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nuvarande uppsättning:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Current Items:"
@@ -1609,8 +1579,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Şu Anki Düğmeler:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ug" : {
@@ -1621,8 +1591,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поточні елементи:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "ur-PK" : {
@@ -1633,20 +1603,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mục đang sử dụng:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "当前的按钮:"
+            "state" : "new",
+            "value" : "Current Items:"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "目前的項目："
+            "state" : "new",
+            "value" : "Current Items:"
           }
         }
       }
@@ -1657,14 +1627,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herstel verstek"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "استعادة للإعدادات الافتراضية"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "az" : {
@@ -1693,26 +1663,26 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaura els valors per defecte"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obnovit výchozí"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gendan standardindstillinger"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standard wiederherstellen"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "el" : {
@@ -1729,14 +1699,14 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Restore Default"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restablecer valores predeterminados"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "eu" : {
@@ -1747,44 +1717,44 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "بازیابی پیش فرض"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Palauta oletusarvot"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réinitialiser"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "שחזר ברירת מחדל"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "पहले जैसा कर देना"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obnovi zadane vrijednosti"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visszaállítás alapértelmezettre"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "hy" : {
@@ -1795,8 +1765,8 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kembali ke Pengaturan Awal"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "is" : {
@@ -1807,14 +1777,14 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ripristina predefiniti"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "デフォルトに戻す"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "kn" : {
@@ -1825,8 +1795,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "기본값으로 복원"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "lv" : {
@@ -1843,14 +1813,8 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ഡിഫോൾട്ടുകൾ പുനഃസ്ഥാപിക്കുക"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjenopprett standardinnstillinger"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ne" : {
@@ -1861,44 +1825,50 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standaardset"
+            "state" : "new",
+            "value" : "Restore Default"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Przywróć domyślne"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurar padrão"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurar Padrão"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurează Implicite"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сброс настроек"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obnoviť Pôvodné"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "sl" : {
@@ -1907,10 +1877,10 @@
             "value" : "Restore Default"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrati na podrazumеvano"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "sr-SP" : {
@@ -1920,12 +1890,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Återställ till förval"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Restore Default"
@@ -1939,8 +1903,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsayılana Dön"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ug" : {
@@ -1951,8 +1915,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Налаштування за замовчуванням"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "ur-PK" : {
@@ -1963,20 +1927,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Khôi phục mặc định"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "恢复初始设置"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "回復預設值"
+            "state" : "new",
+            "value" : "Restore Default"
           }
         }
       }
@@ -1987,14 +1951,14 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sleep ’n item en los dit in die bostaande kas om dit toe te voeg."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "قم بسحب عنصر وإسقاطه في المربع أعلاه لإضافته."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "az" : {
@@ -2005,50 +1969,50 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "bg" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "bn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arrossega un element i deixa'l anar a la caixa de sobre per afegir-lo."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Přidejte položku přetáhnutím do výše uvedeného pole."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Træk en genstand og slip den til ovenstående boks for at tilføje den."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ziehe einen Menüpunkt auf den grauen Kasten oben und lass ihn fallen um ihn hinzuzufügen."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "en" : {
@@ -2059,128 +2023,122 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arrastre un elemento y suéltelo en la caja de arriba para agregarlo."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "eu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "برای اضافه کردن٬ یک گزینه را به داخل کادر بکش و رها کن."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vedä kohde ja pudota se yllä olevaan laatikkoon lisätäksesi sen."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Faites glisser un élément et déposez-le dans la zone ci-dessus pour l'ajouter."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "גרור פריט מכאן ושחרר אותו בתיבה למעלה כדי להוסיף אותו."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "किसी आइटम को खींचें और उसे जोड़ने के लिए उपरोक्त बॉक्स पर छोड़ दें।"
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za dodavanje stavke povuci i ispusti je u gornji okvir."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "A hozzáadáshoz húzd és dobd az elemet a fenti dobozra."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "hy" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seret item dan letakkan pada box untuk menambahkan."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Per aggiungere un comando trascinalo nella casella qui sopra."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "項目を追加するには上のボックスへドラッグ&ドロップしてください。"
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "kn" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "추가하려는 항목을 마우스로 끌어 위쪽 상자에 떨구십시오."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "lv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "mk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dra inn et element i boksen over for å legge det til."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ne" : {
@@ -2191,122 +2149,122 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sleep een onderdeel naar de bovenstaande werkbalk om het toe te voegen."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Przeciągnij ikonę nad obszar powyżej, a następnie opuść, by dodać."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arraste um item e solte-o na caixa acima para adicioná-lo."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arraste um item e coloque-o na caixa em cima para adicioná-lo."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trage un element peste casetă pentru a-l adăuga."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Перетащите элемент в поле выше, чтобы добавить его."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pretiahnite položku do boxu hore, aby ste ju pridali."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "sl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prevucite stavku i otpustite je na gornji okvir da biste je dodali."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "sr-SP" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dra ett objekt och släpp det i den ovanstående boxen för att lägga till det."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "İstediğiniz düğmeyi yukarıdaki kutuya sürükleyin."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ug" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Щоб додати елемент, перетягніть його та відпустіть у полі вище."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "ur-PK" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag an item and drop it to the above box to add it."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kéo một mục và thả ở hộp phía trên để thêm."
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "把按钮拖拽到上面来添加。"
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "將項目拖移到上面來新增。"
+            "state" : "new",
+            "value" : "Drag an item and drop it to the box above to add it."
           }
         }
       }
