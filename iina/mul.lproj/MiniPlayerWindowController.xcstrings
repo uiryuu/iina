@@ -12,19 +12,7 @@
             "value" : "50"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "50"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "50"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50"
@@ -42,22 +30,10 @@
             "value" : "Close Mini Player"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Close Mini Player"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Close Mini Player"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "關閉迷你播放器"
+            "value" : "关闭迷你播放器"
           }
         }
       }
@@ -72,22 +48,10 @@
             "value" : "Close Mini Player"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Close Mini Player"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Close Mini Player"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "關閉迷你播放器"
+            "value" : "关闭迷你播放器"
           }
         }
       }
@@ -102,22 +66,10 @@
             "value" : "Back to video mode"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Back to video mode"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Back to video mode"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "返回視訊模式"
+            "value" : "返回视频模式"
           }
         }
       }
@@ -133,19 +85,7 @@
             "value" : "Artist - Album"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artist - Album"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artist - Album"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Artist - Album"
@@ -164,19 +104,7 @@
             "value" : "Title"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
@@ -195,19 +123,7 @@
             "value" : "-:--:--"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -226,19 +142,7 @@
             "value" : "-:--:--"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "-:--:--"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "-:--:--"
@@ -256,22 +160,10 @@
             "value" : "Back to video mode"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Back to video mode"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Back to video mode"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "返回視訊模式"
+            "value" : "返回视频模式"
           }
         }
       }
