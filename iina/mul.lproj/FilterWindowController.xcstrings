@@ -11,22 +11,10 @@
             "value" : "Save"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存"
+            "value" : "保存"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Filter String"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter String"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter String"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡字串"
+            "value" : "滤镜（字符串）"
           }
         }
       }
@@ -71,19 +47,7 @@
             "value" : "Cancel"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -101,22 +65,10 @@
             "value" : "New Filter"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "New Filter"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Filter"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "新增濾鏡"
+            "value" : "添加新滤镜"
           }
         }
       }
@@ -131,22 +83,10 @@
             "value" : "By saving a filter, you can enable or disable it conveniently and even assign a shortcut key to it."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "By saving a filter, you can enable or disable it conveniently and even assign a shortcut key to it."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "By saving a filter, you can enable or disable it conveniently and even assign a shortcut key to it."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存濾鏡後，您可以快速啟用/停用它，或為其新增快速鍵。"
+            "value" : "音频管理器"
           }
         }
       }
@@ -161,19 +101,7 @@
             "value" : "Cancel"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -191,22 +119,10 @@
             "value" : "Name:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Name:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Name:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "名稱："
+            "value" : "名称:"
           }
         }
       }
@@ -222,19 +138,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -253,19 +157,7 @@
             "value" : "#"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "#"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "#"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "#"
@@ -283,22 +175,10 @@
             "value" : "Edit Filter"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Filter"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Filter"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "編輯濾鏡"
+            "value" : "编辑滤镜"
           }
         }
       }
@@ -313,22 +193,10 @@
             "value" : "Press any button to record"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Press any button to record"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press any button to record"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "按任意鍵開始錄製"
+            "value" : "按任意键开始录制"
           }
         }
       }
@@ -343,22 +211,10 @@
             "value" : "Filters"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filters"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filters"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡"
+            "value" : "滤镜"
           }
         }
       }
@@ -373,22 +229,10 @@
             "value" : "Save Filter"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Filter"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Filter"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存濾鏡"
+            "value" : "保存滤镜"
           }
         }
       }
@@ -403,22 +247,10 @@
             "value" : "Name:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Name:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Name:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "名稱："
+            "value" : "名称:"
           }
         }
       }
@@ -433,22 +265,10 @@
             "value" : "Press any button to record"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Press any button to record"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press any button to record"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "按任意鍵開始錄製"
+            "value" : "按任意键开始录制"
           }
         }
       }
@@ -463,22 +283,10 @@
             "value" : "Save Filter"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Filter"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Filter"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存濾鏡"
+            "value" : "保存滤镜"
           }
         }
       }
@@ -493,22 +301,10 @@
             "value" : "Add"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "加入"
+            "value" : "添加"
           }
         }
       }
@@ -523,22 +319,10 @@
             "value" : "Saved filters"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Saved filters"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Saved filters"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "已儲存濾鏡"
+            "value" : "已存滤镜"
           }
         }
       }
@@ -553,22 +337,10 @@
             "value" : "Shortcut key:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Shortcut key:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Shortcut key:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "快速鍵："
+            "value" : "快捷键:"
           }
         }
       }
@@ -583,22 +355,10 @@
             "value" : "Shortcut key:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Shortcut key:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Shortcut key:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "快速鍵："
+            "value" : "快捷键:"
           }
         }
       }
@@ -613,22 +373,10 @@
             "value" : "Filter string:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter string:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter string:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡字串："
+            "value" : "滤镜字符串:"
           }
         }
       }
@@ -643,22 +391,10 @@
             "value" : "Save"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存"
+            "value" : "保存"
           }
         }
       }
@@ -673,22 +409,10 @@
             "value" : "Add"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "加入"
+            "value" : "添加"
           }
         }
       }
@@ -703,19 +427,7 @@
             "value" : "Cancel"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -733,22 +445,10 @@
             "value" : "Edit Filter"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Filter"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Filter"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "編輯濾鏡"
+            "value" : "编辑滤镜"
           }
         }
       }
