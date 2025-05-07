@@ -33,6 +33,7 @@
     },
     "Bnm-Vf-zg5.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Media Name\"; ObjectID = \"Bnm-Vf-zg5\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -63,6 +64,7 @@
     },
     "FW8-qy-9po.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Left Label\"; ObjectID = \"FW8-qy-9po\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -123,6 +125,7 @@
     },
     "qnJ-hh-Ajn.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"2000-00-00\"; ObjectID = \"qnJ-hh-Ajn\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
