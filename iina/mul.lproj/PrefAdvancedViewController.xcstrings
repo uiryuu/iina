@@ -63,6 +63,7 @@
     },
     "BK9-mL-ip5.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Logging\"; ObjectID = \"BK9-mL-ip5\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -213,6 +214,7 @@
     },
     "gWN-ya-xRD.placeholderString" : {
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"~/.config/mpv/\"; ObjectID = \"gWN-ya-xRD\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -333,6 +335,7 @@
     },
     "jsf-pn-h6s.ibExternalAccessibilityDescription" : {
       "comment" : "Class = \"NSTextField\"; ibExternalAccessibilityDescription = \"~/.config/mpv/\"; ObjectID = \"jsf-pn-h6s\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
