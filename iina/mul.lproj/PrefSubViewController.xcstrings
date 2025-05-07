@@ -49,13 +49,13 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -79,7 +79,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -127,13 +127,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -197,15 +197,9 @@
             "value" : "Assrt API token:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Assrt API-nøkkel:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Assrt API token:"
           }
         },
@@ -215,9 +209,15 @@
             "value" : "Assrt API-token:"
           }
         },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Assrt API token:"
+          }
+        },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -229,13 +229,13 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -247,7 +247,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -257,10 +257,10 @@
             "value" : "Assrt API token:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Potvrdi token API-ja:"
+            "state" : "new",
+            "value" : "Assrt API token:"
           }
         },
         "sr-SP" : {
@@ -275,12 +275,6 @@
             "value" : "Assrt API-token:"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Assrt API token:"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -289,7 +283,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Assrt API token:"
           }
         },
@@ -409,7 +403,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Online Subtitles:"
           }
         },
@@ -527,15 +521,9 @@
             "value" : "Online Subtitles:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Undertekster på nett:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Online Subtitles:"
           }
         },
@@ -543,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Online ondertitelingen:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Online Subtitles:"
           }
         },
         "pl" : {
@@ -587,10 +581,10 @@
             "value" : "Online Subtitles:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Titlovi na mreži:"
+            "state" : "new",
+            "value" : "Online Subtitles:"
           }
         },
         "sr-SP" : {
@@ -603,12 +597,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Online-undertexter:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Online Subtitles:"
           }
         },
         "th" : {
@@ -715,7 +703,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Top"
           }
         },
@@ -739,7 +727,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Top"
           }
         },
@@ -857,15 +845,9 @@
             "value" : "Top"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Topp"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Top"
           }
         },
@@ -873,6 +855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Boven"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Top"
           }
         },
         "pl" : {
@@ -917,10 +905,10 @@
             "value" : "Top"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vrh"
+            "state" : "new",
+            "value" : "Top"
           }
         },
         "sr-SP" : {
@@ -933,12 +921,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Topp"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "மேல்"
           }
         },
         "th" : {
@@ -1069,7 +1051,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
@@ -1187,15 +1169,9 @@
             "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis undertekster i bredformat i fullskjerm"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
@@ -1203,6 +1179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toon ondertiteling in de zwarte balken van schermvullende weergave"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
         "pl" : {
@@ -1247,10 +1229,10 @@
             "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prikaži titlove na crnoj traci u režimu celog ekrana"
+            "state" : "new",
+            "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
         "sr-SP" : {
@@ -1263,12 +1245,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visa undertexter i det oanvända området (letterbox) i fullskärmsläge"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Display subtitles in letterboxes while in full screen"
           }
         },
         "th" : {
@@ -1375,13 +1351,13 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "strip"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "strip"
           }
         },
@@ -1399,7 +1375,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "strip"
           }
         },
@@ -1465,7 +1441,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "strip"
           }
         },
@@ -1495,7 +1471,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "strip"
           }
         },
@@ -1517,15 +1493,9 @@
             "value" : "strip"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "fjern"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "strip"
           }
         },
@@ -1533,6 +1503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "volledig"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "strip"
           }
         },
         "pl" : {
@@ -1577,10 +1553,10 @@
             "value" : "strip"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ukloni"
+            "state" : "new",
+            "value" : "strip"
           }
         },
         "sr-SP" : {
@@ -1593,12 +1569,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "avlägsna"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "strip"
           }
         },
         "th" : {
@@ -1705,13 +1675,13 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Position:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Position:"
           }
         },
@@ -1729,7 +1699,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Position:"
           }
         },
@@ -1847,15 +1817,9 @@
             "value" : "Position:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Posisjon:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Position:"
           }
         },
@@ -1863,6 +1827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Positie:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Position:"
           }
         },
         "pl" : {
@@ -1907,10 +1877,10 @@
             "value" : "Position:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Položaj:"
+            "state" : "new",
+            "value" : "Position:"
           }
         },
         "sr-SP" : {
@@ -1920,12 +1890,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Position:"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Position:"
@@ -2059,7 +2023,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bottom"
           }
         },
@@ -2177,15 +2141,9 @@
             "value" : "Bottom"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bunn"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bottom"
           }
         },
@@ -2193,6 +2151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Onder"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bottom"
           }
         },
         "pl" : {
@@ -2237,10 +2201,10 @@
             "value" : "Bottom"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dno"
+            "state" : "new",
+            "value" : "Bottom"
           }
         },
         "sr-SP" : {
@@ -2253,12 +2217,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Botten"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "கீழ்"
           }
         },
         "th" : {
@@ -2389,7 +2347,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitles have priority when filename containing:"
           }
         },
@@ -2507,15 +2465,9 @@
             "value" : "Subtitles have priority when filename containing:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Undertekster har prioritet når filnavnet inneholder:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitles have priority when filename containing:"
           }
         },
@@ -2523,6 +2475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ondertitelingsbestanden met de volgende tekst in de bestandsnaam krijgen prioriteit:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subtitles have priority when filename containing:"
           }
         },
         "pl" : {
@@ -2567,10 +2525,10 @@
             "value" : "Subtitles have priority when filename containing:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Titlovi imaju prioritet kada naziv datoteke sadrži:"
+            "state" : "new",
+            "value" : "Subtitles have priority when filename containing:"
           }
         },
         "sr-SP" : {
@@ -2583,12 +2541,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertexter har prioritet när filnamnet innehåller:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles have priority when filename containing:"
           }
         },
         "th" : {
@@ -2719,7 +2671,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scale subtitles with window size"
           }
         },
@@ -2837,15 +2789,9 @@
             "value" : "Scale subtitles with window size"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skaler undertekster til vindustørrelse"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Scale subtitles with window size"
           }
         },
@@ -2853,6 +2799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schaal ondertiteling mee met venstergrootte"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scale subtitles with window size"
           }
         },
         "pl" : {
@@ -2897,10 +2849,10 @@
             "value" : "Scale subtitles with window size"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podesi titlove prema veličini prozora"
+            "state" : "new",
+            "value" : "Scale subtitles with window size"
           }
         },
         "sr-SP" : {
@@ -2913,12 +2865,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skala undertexter utifrån fönsterstorlek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Scale subtitles with window size"
           }
         },
         "th" : {
@@ -3049,7 +2995,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font spacing:"
           }
         },
@@ -3167,15 +3113,9 @@
             "value" : "Font spacing:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sperring av tekst:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Font spacing:"
           }
         },
@@ -3183,6 +3123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Letterafstand:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Font spacing:"
           }
         },
         "pl" : {
@@ -3227,10 +3173,10 @@
             "value" : "Font spacing:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Razmaci u fontu:"
+            "state" : "new",
+            "value" : "Font spacing:"
           }
         },
         "sr-SP" : {
@@ -3243,12 +3189,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Typsnittsmellanrum:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Font spacing:"
           }
         },
         "th" : {
@@ -3379,7 +3319,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Vertical position:"
           }
         },
@@ -3497,15 +3437,9 @@
             "value" : "Vertical position:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vertikal posisjon:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Vertical position:"
           }
         },
@@ -3513,6 +3447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verticale positie:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Vertical position:"
           }
         },
         "pl" : {
@@ -3557,10 +3497,10 @@
             "value" : "Vertical position:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vertikalni položaj:"
+            "state" : "new",
+            "value" : "Vertical position:"
           }
         },
         "sr-SP" : {
@@ -3573,12 +3513,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vertikal position:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Vertical position:"
           }
         },
         "th" : {
@@ -3709,7 +3643,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3757,7 +3691,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3775,7 +3709,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3787,7 +3721,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3827,15 +3761,9 @@
             "value" : "Font"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Typesnitt"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Font"
           }
         },
@@ -3843,6 +3771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lettertype"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Font"
           }
         },
         "pl" : {
@@ -3865,7 +3799,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3877,7 +3811,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3887,9 +3821,9 @@
             "value" : "Font"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font"
           }
         },
@@ -3903,12 +3837,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Typsnitt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "எழுத்துரு"
           }
         },
         "th" : {
@@ -3967,7 +3895,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4003,25 +3931,25 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4039,13 +3967,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4057,13 +3985,13 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4087,13 +4015,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4105,7 +4033,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4117,13 +4045,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4135,7 +4063,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4157,57 +4085,57 @@
             "value" : "Y:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Y:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Y:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Y:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4217,9 +4145,9 @@
             "value" : "Y:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4231,13 +4159,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Y:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4249,7 +4171,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4261,7 +4183,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4273,13 +4195,13 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -4369,7 +4291,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Blur:"
           }
         },
@@ -4487,15 +4409,9 @@
             "value" : "Blur:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uskarphet:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Blur:"
           }
         },
@@ -4503,6 +4419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vervaging:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Blur:"
           }
         },
         "pl" : {
@@ -4525,7 +4447,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Blur:"
           }
         },
@@ -4547,10 +4469,10 @@
             "value" : "Zameglitev:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zamućenje:"
+            "state" : "new",
+            "value" : "Blur:"
           }
         },
         "sr-SP" : {
@@ -4563,12 +4485,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oskärpa:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Blur:"
           }
         },
         "th" : {
@@ -4623,6 +4539,7 @@
     },
     "azJ-oz-BKZ.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"sans-serif\"; ObjectID = \"azJ-oz-BKZ\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "af" : {
@@ -4817,12 +4734,6 @@
             "value" : "sans-serif"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "sans-serif"
-          }
-        },
         "ne" : {
           "stringUnit" : {
             "state" : "new",
@@ -4830,6 +4741,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "sans-serif"
+          }
+        },
+        "no" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -4877,7 +4794,7 @@
             "value" : "sans-serif"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -4890,12 +4807,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "sans-serif"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "sans-serif"
@@ -4949,8 +4860,7 @@
             "value" : "sans-serif"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "BgE-Kk-MXC.title" : {
       "comment" : "Class = \"NSBox\"; title = \"Shadow\"; ObjectID = \"BgE-Kk-MXC\";",
@@ -5030,7 +4940,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Shadow"
           }
         },
@@ -5148,15 +5058,9 @@
             "value" : "Shadow"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skygge"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Shadow"
           }
         },
@@ -5164,6 +5068,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schaduw"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shadow"
           }
         },
         "pl" : {
@@ -5208,10 +5118,10 @@
             "value" : "Shadow"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Senka"
+            "state" : "new",
+            "value" : "Shadow"
           }
         },
         "sr-SP" : {
@@ -5224,12 +5134,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skugga"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Shadow"
           }
         },
         "th" : {
@@ -5360,7 +5264,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Search online subtitles automatically"
           }
         },
@@ -5478,15 +5382,9 @@
             "value" : "Search online subtitles automatically"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Søk etter undertekster på nett automatisk"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Search online subtitles automatically"
           }
         },
@@ -5494,6 +5392,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zoek automatisch online naar ondertiteling"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search online subtitles automatically"
           }
         },
         "pl" : {
@@ -5538,10 +5442,10 @@
             "value" : "Search online subtitles automatically"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Potraži titlove na mreži automatski"
+            "state" : "new",
+            "value" : "Search online subtitles automatically"
           }
         },
         "sr-SP" : {
@@ -5554,12 +5458,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sök automatiskt efter undertexter online"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Search online subtitles automatically"
           }
         },
         "th" : {
@@ -5690,7 +5588,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font:"
           }
         },
@@ -5738,7 +5636,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font:"
           }
         },
@@ -5756,7 +5654,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font:"
           }
         },
@@ -5808,15 +5706,9 @@
             "value" : "Font:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Typesnitt:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Font:"
           }
         },
@@ -5824,6 +5716,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lettertype:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Font:"
           }
         },
         "pl" : {
@@ -5846,7 +5744,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font:"
           }
         },
@@ -5858,7 +5756,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font:"
           }
         },
@@ -5868,9 +5766,9 @@
             "value" : "Font:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Font:"
           }
         },
@@ -5884,12 +5782,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Typsnitt:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "எழுத்துரு:"
           }
         },
         "th" : {
@@ -5948,7 +5840,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -5984,25 +5876,25 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6020,13 +5912,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6038,13 +5930,13 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6068,13 +5960,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6086,7 +5978,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6098,13 +5990,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6116,7 +6008,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6138,21 +6030,21 @@
             "value" : " X:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " X:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " X:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : " X:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6164,31 +6056,31 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6198,9 +6090,9 @@
             "value" : " X:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6212,13 +6104,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : " X:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6230,7 +6116,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6242,7 +6128,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6254,13 +6140,13 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -6350,7 +6236,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Not logged in"
           }
         },
@@ -6468,15 +6354,9 @@
             "value" : "Not logged in"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ikke logget inn"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Not logged in"
           }
         },
@@ -6484,6 +6364,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Niet ingelogd"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not logged in"
           }
         },
         "pl" : {
@@ -6528,10 +6414,10 @@
             "value" : "Not logged in"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niste prijavljeni"
+            "state" : "new",
+            "value" : "Not logged in"
           }
         },
         "sr-SP" : {
@@ -6544,12 +6430,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ej inloggad"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Not logged in"
           }
         },
         "th" : {
@@ -6680,7 +6560,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Offset:"
           }
         },
@@ -6746,7 +6626,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Offset:"
           }
         },
@@ -6798,15 +6678,9 @@
             "value" : "Offset:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Offset:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Offset:"
           }
         },
@@ -6814,6 +6688,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afstand:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Offset:"
           }
         },
         "pl" : {
@@ -6858,10 +6738,10 @@
             "value" : "Offset:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odstupanje:"
+            "state" : "new",
+            "value" : "Offset:"
           }
         },
         "sr-SP" : {
@@ -6874,12 +6754,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förskjutning:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Offset:"
           }
         },
         "th" : {
@@ -7010,7 +6884,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Advanced"
           }
         },
@@ -7128,15 +7002,9 @@
             "value" : "Advanced"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avansert"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Advanced"
           }
         },
@@ -7144,6 +7012,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geavanceerd"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Advanced"
           }
         },
         "pl" : {
@@ -7188,10 +7062,10 @@
             "value" : "Advanced"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napredno"
+            "state" : "new",
+            "value" : "Advanced"
           }
         },
         "sr-SP" : {
@@ -7204,12 +7078,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avancerat"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "மேம்பட்டவை"
           }
         },
         "th" : {
@@ -7316,7 +7184,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Center"
           }
         },
@@ -7458,15 +7326,9 @@
             "value" : "Center"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Center"
           }
         },
@@ -7474,6 +7336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Midden"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Center"
           }
         },
         "pl" : {
@@ -7518,10 +7386,10 @@
             "value" : "Center"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Centar"
+            "state" : "new",
+            "value" : "Center"
           }
         },
         "sr-SP" : {
@@ -7534,12 +7402,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centrera"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
           }
         },
         "th" : {
@@ -7670,7 +7532,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Other Styles"
           }
         },
@@ -7788,15 +7650,9 @@
             "value" : "Other Styles"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Styles"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Other Styles"
           }
         },
@@ -7804,6 +7660,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overige opties:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Other Styles"
           }
         },
         "pl" : {
@@ -7848,10 +7710,10 @@
             "value" : "Other Styles"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drugi stilovi"
+            "state" : "new",
+            "value" : "Other Styles"
           }
         },
         "sr-SP" : {
@@ -7864,12 +7726,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Andra stilar:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Styles"
           }
         },
         "th" : {
@@ -8000,7 +7856,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Background:"
           }
         },
@@ -8118,15 +7974,9 @@
             "value" : "Background:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Background:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Background:"
           }
         },
@@ -8134,6 +7984,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Achtergrond:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Background:"
           }
         },
         "pl" : {
@@ -8178,10 +8034,10 @@
             "value" : "Background:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pozadina:"
+            "state" : "new",
+            "value" : "Background:"
           }
         },
         "sr-SP" : {
@@ -8194,12 +8050,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bakgrund:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Background:"
           }
         },
         "th" : {
@@ -8330,7 +8180,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Override level:"
           }
         },
@@ -8448,15 +8298,9 @@
             "value" : "Override level:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Override level:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Override level:"
           }
         },
@@ -8464,6 +8308,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Negeren:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Override level:"
           }
         },
         "pl" : {
@@ -8508,10 +8358,10 @@
             "value" : "Override level:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nivo zamene:"
+            "state" : "new",
+            "value" : "Override level:"
           }
         },
         "sr-SP" : {
@@ -8524,12 +8374,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Åsidosättningsgrad:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Override level:"
           }
         },
         "th" : {
@@ -8660,7 +8504,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Right"
           }
         },
@@ -8778,15 +8622,9 @@
             "value" : "Right"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Høyre"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Right"
           }
         },
@@ -8794,6 +8632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rechts"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Right"
           }
         },
         "pl" : {
@@ -8838,10 +8682,10 @@
             "value" : "Right"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desno"
+            "state" : "new",
+            "value" : "Right"
           }
         },
         "sr-SP" : {
@@ -8854,12 +8698,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Höger"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வலது"
           }
         },
         "th" : {
@@ -8990,7 +8828,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Size:"
           }
         },
@@ -9108,15 +8946,9 @@
             "value" : "Size:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Størrelse:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Size:"
           }
         },
@@ -9124,6 +8956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grootte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Size:"
           }
         },
         "pl" : {
@@ -9168,10 +9006,10 @@
             "value" : "Velikost:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina:"
+            "state" : "new",
+            "value" : "Size:"
           }
         },
         "sr-SP" : {
@@ -9184,12 +9022,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Storlek:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அளவு:"
           }
         },
         "th" : {
@@ -9320,7 +9152,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bold"
           }
         },
@@ -9438,15 +9270,9 @@
             "value" : "Bold"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bold"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bold"
           }
         },
@@ -9454,6 +9280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dikgedrukt"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bold"
           }
         },
         "pl" : {
@@ -9498,10 +9330,10 @@
             "value" : "Bold"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podebljano"
+            "state" : "new",
+            "value" : "Bold"
           }
         },
         "sr-SP" : {
@@ -9514,12 +9346,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bold"
           }
         },
         "th" : {
@@ -9650,7 +9476,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OpenSubtitles account:"
           }
         },
@@ -9768,15 +9594,9 @@
             "value" : "OpenSubtitles account:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OpenSubtitle-konto:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OpenSubtitles account:"
           }
         },
@@ -9784,6 +9604,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OpenSubtitles-account:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OpenSubtitles account:"
           }
         },
         "pl" : {
@@ -9828,10 +9654,10 @@
             "value" : "OpenSubtitles account:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OpenSubtitles nalog:"
+            "state" : "new",
+            "value" : "OpenSubtitles account:"
           }
         },
         "sr-SP" : {
@@ -9844,12 +9670,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OpenSubtitles-konto:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OpenSubtitles கணக்கு:"
           }
         },
         "th" : {
@@ -9908,7 +9728,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -9926,7 +9746,7 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -9944,7 +9764,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -9956,19 +9776,19 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -9980,13 +9800,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -9998,43 +9818,43 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10046,25 +9866,25 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10076,7 +9896,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10098,57 +9918,57 @@
             "value" : "%"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10158,9 +9978,9 @@
             "value" : "%"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10172,13 +9992,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10190,7 +10004,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10202,7 +10016,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -10214,19 +10028,19 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         }
@@ -10310,7 +10124,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Align"
           }
         },
@@ -10428,15 +10242,9 @@
             "value" : "Align"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Align"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Align"
           }
         },
@@ -10444,6 +10252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Positie"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Align"
           }
         },
         "pl" : {
@@ -10488,10 +10302,10 @@
             "value" : "Align"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Poravnaj"
+            "state" : "new",
+            "value" : "Align"
           }
         },
         "sr-SP" : {
@@ -10504,12 +10318,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Justera"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Align"
           }
         },
         "th" : {
@@ -10568,7 +10376,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10604,25 +10412,25 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10640,13 +10448,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10658,13 +10466,13 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10688,13 +10496,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10706,7 +10514,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10718,13 +10526,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10736,7 +10544,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10758,21 +10566,21 @@
             "value" : " X:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " X:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " X:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : " X:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10784,31 +10592,31 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10818,9 +10626,9 @@
             "value" : " X:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10832,13 +10640,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : " X:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10850,7 +10652,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10862,7 +10664,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10874,13 +10676,13 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : " X:"
           }
         },
@@ -10970,7 +10772,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Other:"
           }
         },
@@ -11088,15 +10890,9 @@
             "value" : "Other:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Andre:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Other:"
           }
         },
@@ -11104,6 +10900,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overige:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Other:"
           }
         },
         "pl" : {
@@ -11148,10 +10950,10 @@
             "value" : "Other:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ostalo:"
+            "state" : "new",
+            "value" : "Other:"
           }
         },
         "sr-SP" : {
@@ -11164,12 +10966,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Övrigt:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Other:"
           }
         },
         "th" : {
@@ -11300,7 +11096,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
@@ -11418,15 +11214,9 @@
             "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mapper er adskilt ed kolon (:). Relative filstier og asteriks (*) på slutten er ikke tillatt."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
@@ -11434,6 +11224,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voer desgewenst een dubbele-punt-gescheiden lijst van mappen in (:). Gebruik eventueel relatieve locaties en wildcards (*)."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
         "pl" : {
@@ -11478,10 +11274,10 @@
             "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Direktorijumi su odvojeni dvotačkom (:). Relativne putanje i džokeri (*) na kraju mogu se koristiti."
+            "state" : "new",
+            "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
         "sr-SP" : {
@@ -11494,12 +11290,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kataloger är separerade med kolon (:). Relativa sökvägar och wildcards (*) i ändarna är tillåtna."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Directories are separated by colons (:). Relative paths and wildcards (*) at the end are allowed."
           }
         },
         "th" : {
@@ -11748,15 +11538,9 @@
             "value" : "ASS subtitles:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ASS subtitles:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "ASS Subtitles:"
           }
         },
@@ -11764,6 +11548,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ASS-ondertiteling:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ASS Subtitles:"
           }
         },
         "pl" : {
@@ -11808,10 +11598,10 @@
             "value" : "ASS subtitles:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ASS titlovi:"
+            "state" : "new",
+            "value" : "ASS Subtitles:"
           }
         },
         "sr-SP" : {
@@ -11824,12 +11614,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ASS-undertexter:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ASS subtitles:"
           }
         },
         "th" : {
@@ -11960,7 +11744,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please enter a comma-separated list of strings."
           }
         },
@@ -12078,15 +11862,9 @@
             "value" : "Please enter a comma-separated list of strings."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vennligst angi en kommaseparert liste med kommandoer."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Please enter a comma-separated list of strings."
           }
         },
@@ -12094,6 +11872,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voer desgewenst een kommagescheiden lijst in."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please enter a comma-separated list of strings."
           }
         },
         "pl" : {
@@ -12138,10 +11922,10 @@
             "value" : "Please enter a comma-separated list of strings."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unesite listu nizova razdvojenih zarezom."
+            "state" : "new",
+            "value" : "Please enter a comma-separated list of strings."
           }
         },
         "sr-SP" : {
@@ -12154,12 +11938,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vänligen ange en kommaseparerad lista med strängar."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please enter a comma-separated list of strings."
           }
         },
         "th" : {
@@ -12289,7 +12067,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Choose…"
           }
         },
@@ -12407,15 +12185,9 @@
             "value" : "Choose…"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose…"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Choose…"
           }
         },
@@ -12423,6 +12195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kies…"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose…"
           }
         },
         "pl" : {
@@ -12467,10 +12245,10 @@
             "value" : "Choose…"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odaberi…"
+            "state" : "new",
+            "value" : "Choose…"
           }
         },
         "sr-SP" : {
@@ -12483,12 +12261,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Välj…"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "தேர்ந்தெடு…"
           }
         },
         "th" : {
@@ -12619,7 +12391,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
@@ -12737,15 +12509,9 @@
             "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hvis aktivert vil alle ASS-undertekster bli vist med stilene under."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
@@ -12753,6 +12519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Indien ingeschakeld zullen alle ASS-ondertitelingen getoond worden met de onderstaande opties."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
         "pl" : {
@@ -12797,10 +12569,10 @@
             "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ako je omogućeno, svi ASS titlovi biće prikazani pomoću dolenavedenih stilova."
+            "state" : "new",
+            "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
         "sr-SP" : {
@@ -12813,12 +12585,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Om aktiverad så kommer alla ASS-undertexter att ritas ut med nedanstående stilar."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, all ASS subtitles will be drawn using the styles below."
           }
         },
         "th" : {
@@ -12949,7 +12715,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Italic"
           }
         },
@@ -13067,15 +12833,9 @@
             "value" : "Italic"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Italic"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Italic"
           }
         },
@@ -13083,6 +12843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cursief"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Italic"
           }
         },
         "pl" : {
@@ -13127,10 +12893,10 @@
             "value" : "Italic"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kurziv"
+            "state" : "new",
+            "value" : "Italic"
           }
         },
         "sr-SP" : {
@@ -13143,12 +12909,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kursiv"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Italic"
           }
         },
         "th" : {
@@ -13279,7 +13039,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Margin"
           }
         },
@@ -13397,15 +13157,9 @@
             "value" : "Margin"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Margin"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Margin"
           }
         },
@@ -13413,6 +13167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Marge"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Margin"
           }
         },
         "pl" : {
@@ -13457,10 +13217,10 @@
             "value" : "Margin"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Margina"
+            "state" : "new",
+            "value" : "Margin"
           }
         },
         "sr-SP" : {
@@ -13473,12 +13233,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Marginal"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Margin"
           }
         },
         "th" : {
@@ -13727,15 +13481,9 @@
             "value" : "Text subtitles:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tekst undertekster:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Text Subtitles:"
           }
         },
@@ -13743,6 +13491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weergave ondertiteling:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Subtitles:"
           }
         },
         "pl" : {
@@ -13787,10 +13541,10 @@
             "value" : "Text subtitles:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tekstualni titlovi:"
+            "state" : "new",
+            "value" : "Text Subtitles:"
           }
         },
         "sr-SP" : {
@@ -13803,12 +13557,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Text-undertexter:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "உரை வசனவரிகள்:"
           }
         },
         "th" : {
@@ -13939,7 +13687,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Also search subtitles in following directories:"
           }
         },
@@ -14057,15 +13805,9 @@
             "value" : "Also search subtitles in following directories:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Søk også etter undertekster i følgende kataloger:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Also search subtitles in following directories:"
           }
         },
@@ -14073,6 +13815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zoek ook naar ondertiteling in de volgende mappen:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Also search subtitles in following directories:"
           }
         },
         "pl" : {
@@ -14117,10 +13865,10 @@
             "value" : "Also search subtitles in following directories:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Titlove potraži i u sledećim direktorijumima:"
+            "state" : "new",
+            "value" : "Also search subtitles in following directories:"
           }
         },
         "sr-SP" : {
@@ -14133,12 +13881,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sök även efter undertexter i följande kataloger:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Also search subtitles in following directories:"
           }
         },
         "th" : {
@@ -14387,15 +14129,9 @@
             "value" : "Auto load:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto load:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto Load:"
           }
         },
@@ -14403,6 +14139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatisch inladen:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto Load:"
           }
         },
         "pl" : {
@@ -14447,10 +14189,10 @@
             "value" : "Auto load:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatski učitaj:"
+            "state" : "new",
+            "value" : "Auto Load:"
           }
         },
         "sr-SP" : {
@@ -14463,12 +14205,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Läs in automatiskt:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto load:"
           }
         },
         "th" : {
@@ -14599,7 +14335,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ignore ASS styles"
           }
         },
@@ -14717,15 +14453,9 @@
             "value" : "Ignore ASS styles"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ignore ASS styles"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Ignore ASS styles"
           }
         },
@@ -14733,6 +14463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Negeer ASS-stijlen"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ignore ASS styles"
           }
         },
         "pl" : {
@@ -14777,10 +14513,10 @@
             "value" : "Ignore ASS styles"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zanemari ASS stilove"
+            "state" : "new",
+            "value" : "Ignore ASS styles"
           }
         },
         "sr-SP" : {
@@ -14793,12 +14529,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ignorera ASS-stilar"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ignore ASS styles"
           }
         },
         "th" : {
@@ -14893,7 +14623,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Color:"
           }
         },
@@ -14935,7 +14665,7 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Color:"
           }
         },
@@ -15047,15 +14777,9 @@
             "value" : "നിറം:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Farge:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Color:"
           }
         },
@@ -15063,6 +14787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kleur:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Color:"
           }
         },
         "pl" : {
@@ -15107,10 +14837,10 @@
             "value" : "Color:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boja:"
+            "state" : "new",
+            "value" : "Color:"
           }
         },
         "sr-SP" : {
@@ -15123,12 +14853,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Färg:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "நிறம்:"
           }
         },
         "th" : {
@@ -15235,7 +14959,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Center"
           }
         },
@@ -15377,15 +15101,9 @@
             "value" : "Center"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Center"
           }
         },
@@ -15393,6 +15111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Midden"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Center"
           }
         },
         "pl" : {
@@ -15437,10 +15161,10 @@
             "value" : "Center"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Centar"
+            "state" : "new",
+            "value" : "Center"
           }
         },
         "sr-SP" : {
@@ -15453,12 +15177,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centrera"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Center"
           }
         },
         "th" : {
@@ -15589,7 +15307,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Border"
           }
         },
@@ -15707,15 +15425,9 @@
             "value" : "Border"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Border"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Border"
           }
         },
@@ -15723,6 +15435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rand"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Border"
           }
         },
         "pl" : {
@@ -15767,10 +15485,10 @@
             "value" : "Border"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Okvir"
+            "state" : "new",
+            "value" : "Border"
           }
         },
         "sr-SP" : {
@@ -15783,12 +15501,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kant"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Border"
           }
         },
         "th" : {
@@ -15919,7 +15631,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Download subtitles from:"
           }
         },
@@ -16037,15 +15749,9 @@
             "value" : "Download subtitles from:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Last ned undertekster fra:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Download subtitles from:"
           }
         },
@@ -16053,6 +15759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Download ondertiteling van:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download subtitles from:"
           }
         },
         "pl" : {
@@ -16097,10 +15809,10 @@
             "value" : "Download subtitles from:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preuzmi titlove sa:"
+            "state" : "new",
+            "value" : "Download subtitles from:"
           }
         },
         "sr-SP" : {
@@ -16113,12 +15825,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ladda ner undertexter från:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Download subtitles from:"
           }
         },
         "th" : {
@@ -16249,7 +15955,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Disabled"
           }
         },
@@ -16367,15 +16073,9 @@
             "value" : "Disabled"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deaktivert"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disabled"
           }
         },
@@ -16383,6 +16083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitgeschakeld"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disabled"
           }
         },
         "pl" : {
@@ -16427,10 +16133,10 @@
             "value" : "Disabled"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onemogućeno"
+            "state" : "new",
+            "value" : "Disabled"
           }
         },
         "sr-SP" : {
@@ -16443,12 +16149,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Av"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முடக்கப்பட்டுள்ளது"
           }
         },
         "th" : {
@@ -16579,7 +16279,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Size:"
           }
         },
@@ -16697,15 +16397,9 @@
             "value" : "Size:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Størrelse:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Size:"
           }
         },
@@ -16713,6 +16407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grootte:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Size:"
           }
         },
         "pl" : {
@@ -16757,10 +16457,10 @@
             "value" : "Velikost:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veličina:"
+            "state" : "new",
+            "value" : "Size:"
           }
         },
         "sr-SP" : {
@@ -16773,12 +16473,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Storlek:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அளவு:"
           }
         },
         "th" : {
@@ -16873,7 +16567,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Color:"
           }
         },
@@ -16915,7 +16609,7 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Color:"
           }
         },
@@ -17027,15 +16721,9 @@
             "value" : "നിറം:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Farge:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Color:"
           }
         },
@@ -17043,6 +16731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kleur:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Color:"
           }
         },
         "pl" : {
@@ -17087,10 +16781,10 @@
             "value" : "Color:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boja:"
+            "state" : "new",
+            "value" : "Color:"
           }
         },
         "sr-SP" : {
@@ -17103,12 +16797,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Färg:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "நிறம்:"
           }
         },
         "th" : {
@@ -17239,7 +16927,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
@@ -17357,15 +17045,9 @@
             "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
@@ -17373,6 +17055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Indien ingeschakeld zal IINA automatisch onderteling zoeken voor video's langer dan 20 minuten."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
         "pl" : {
@@ -17417,10 +17105,10 @@
             "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ako je omogućeno, IINA će automatski pretraživati titlove na mreži samo za video-zapise bez učitanih titlova i duže od 20 minuta."
+            "state" : "new",
+            "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
         "sr-SP" : {
@@ -17433,12 +17121,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Om aktiverad så kommer IINA automatiskt att söka efter undertexter online endast för videor utan inlästa undertexter och som är längre än 20 minuter."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "If enabled, IINA will automatically search online subtitles only for videos without loaded subtitles and longer than 20 mintues."
           }
         },
         "th" : {
@@ -17569,7 +17251,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Login"
           }
         },
@@ -17687,15 +17369,9 @@
             "value" : "Login"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Logg på"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Login"
           }
         },
@@ -17703,6 +17379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Log in"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
           }
         },
         "pl" : {
@@ -17713,7 +17395,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Login"
           }
         },
@@ -17747,10 +17429,10 @@
             "value" : "Login"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prijavi me"
+            "state" : "new",
+            "value" : "Login"
           }
         },
         "sr-SP" : {
@@ -17763,12 +17445,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logga in"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "உள்நுழை"
           }
         },
         "th" : {
@@ -17899,7 +17575,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Advanced"
           }
         },
@@ -18017,15 +17693,9 @@
             "value" : "Advanced"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avansert"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Advanced"
           }
         },
@@ -18033,6 +17703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geavanceerd"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Advanced"
           }
         },
         "pl" : {
@@ -18077,10 +17753,10 @@
             "value" : "Advanced"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napredno"
+            "state" : "new",
+            "value" : "Advanced"
           }
         },
         "sr-SP" : {
@@ -18093,12 +17769,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avancerat"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "மேம்பட்டவை"
           }
         },
         "th" : {
@@ -18157,7 +17827,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18193,25 +17863,25 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18229,13 +17899,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18247,13 +17917,13 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18277,13 +17947,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18295,7 +17965,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18307,13 +17977,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18325,7 +17995,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18347,57 +18017,57 @@
             "value" : "Y:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Y:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Y:"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Y:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18407,9 +18077,9 @@
             "value" : "Y:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18421,13 +18091,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Y:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18439,7 +18103,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18451,7 +18115,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18463,13 +18127,13 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Y:"
           }
         },
@@ -18523,7 +18187,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Color:"
           }
         },
@@ -18565,7 +18229,7 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Color:"
           }
         },
@@ -18677,15 +18341,9 @@
             "value" : "നിറം:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Farge:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Color:"
           }
         },
@@ -18693,6 +18351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kleur:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Color:"
           }
         },
         "pl" : {
@@ -18737,10 +18401,10 @@
             "value" : "Color:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boja:"
+            "state" : "new",
+            "value" : "Color:"
           }
         },
         "sr-SP" : {
@@ -18753,12 +18417,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Färg:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "நிறம்:"
           }
         },
         "th" : {
@@ -18889,7 +18547,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Detect intelligently by IINA"
           }
         },
@@ -19007,15 +18665,9 @@
             "value" : "Detect intelligently by IINA"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oppdag automatisk av IINA"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Detect intelligently by IINA"
           }
         },
@@ -19023,6 +18675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatische detectie"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Detect intelligently by IINA"
           }
         },
         "pl" : {
@@ -19067,10 +18725,10 @@
             "value" : "Detect intelligently by IINA"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inteligentno otkriva IINA"
+            "state" : "new",
+            "value" : "Detect intelligently by IINA"
           }
         },
         "sr-SP" : {
@@ -19083,12 +18741,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Upptäcks intelligent av IINA"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Detect intelligently by IINA"
           }
         },
         "th" : {
@@ -19219,7 +18871,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitles containing media filename"
           }
         },
@@ -19337,15 +18989,9 @@
             "value" : "Subtitles containing media filename"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles containing media filename"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitles containing media filename"
           }
         },
@@ -19353,6 +18999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dezelfde bestandsnaam"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subtitles containing media filename"
           }
         },
         "pl" : {
@@ -19397,10 +19049,10 @@
             "value" : "Subtitles containing media filename"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Titlovi sadrže naziv medijske datoteke"
+            "state" : "new",
+            "value" : "Subtitles containing media filename"
           }
         },
         "sr-SP" : {
@@ -19413,12 +19065,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertexter som innehåller mediets filnamn"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitles containing media filename"
           }
         },
         "th" : {
@@ -19549,7 +19195,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Default encoding:"
           }
         },
@@ -19667,15 +19313,9 @@
             "value" : "Default encoding:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standard koding:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Default encoding:"
           }
         },
@@ -19683,6 +19323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Standaard tekstcodering:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Default encoding:"
           }
         },
         "pl" : {
@@ -19727,10 +19373,10 @@
             "value" : "Default encoding:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrazumеvano kodiranje:"
+            "state" : "new",
+            "value" : "Default encoding:"
           }
         },
         "sr-SP" : {
@@ -19743,12 +19389,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förvald textkodning:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default encoding:"
           }
         },
         "th" : {
@@ -19878,7 +19518,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
@@ -19996,15 +19636,9 @@
             "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
@@ -20012,6 +19646,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deze instelling wordt als ISO 639-2 taalcode opgeslagen, en werkt met zowel mpv als OpenSubtitles."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
         "pl" : {
@@ -20056,10 +19696,10 @@
             "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ova opcija će biti sačuvana kao šifra jezika ISO 639-2 i funkcionisaće i za mpv i za opensubtitles."
+            "state" : "new",
+            "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
         "sr-SP" : {
@@ -20072,12 +19712,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detta alternativ sparas som språkkod ISO 639-2  och kommer att fungera både med mpv och opensubtitles."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "This option will be stored as ISO 639-2 language code and will work for both mpv and opensubtitles."
           }
         },
         "th" : {
@@ -20208,7 +19842,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Preferred language:"
           }
         },
@@ -20326,15 +19960,9 @@
             "value" : "Preferred language:"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Preferred language:"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Preferred language:"
           }
         },
@@ -20342,6 +19970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voorkeurstaal:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferred language:"
           }
         },
         "pl" : {
@@ -20386,10 +20020,10 @@
             "value" : "Preferred language:"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Željeni jezik:"
+            "state" : "new",
+            "value" : "Preferred language:"
           }
         },
         "sr-SP" : {
@@ -20402,12 +20036,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Föredraget språk:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "விருப்பமான மொழி:"
           }
         },
         "th" : {
@@ -20538,7 +20166,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Left"
           }
         },
@@ -20656,15 +20284,9 @@
             "value" : "Left"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Left"
-          }
-        },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Left"
           }
         },
@@ -20672,6 +20294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Links"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Left"
           }
         },
         "pl" : {
@@ -20716,10 +20344,10 @@
             "value" : "Left"
           }
         },
-        "sr-RS" : {
+        "sr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Levo"
+            "state" : "new",
+            "value" : "Left"
           }
         },
         "sr-SP" : {
@@ -20732,12 +20360,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vänster"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இடது"
           }
         },
         "th" : {
