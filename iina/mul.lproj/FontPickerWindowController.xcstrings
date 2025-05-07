@@ -152,6 +152,7 @@
     },
     "Kt3-me-43R.placeholderString" : {
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"sans-serif\"; ObjectID = \"Kt3-me-43R\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
