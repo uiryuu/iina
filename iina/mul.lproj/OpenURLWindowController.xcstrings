@@ -11,22 +11,10 @@
             "value" : "Open"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Open"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "打開"
+            "value" : "打开"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "URL is invalid."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "URL is invalid."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "URL is invalid."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無效的 URL。"
+            "value" : "非法的 URL。"
           }
         }
       }
@@ -71,19 +47,7 @@
             "value" : "Cancel"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -102,19 +66,7 @@
             "value" : "http://"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "http://"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "http://"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "http://"
@@ -132,22 +84,10 @@
             "value" : "Remember username and password for this host in keychain"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Remember username and password for this host in keychain"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remember username and password for this host in keychain"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "在我的鑰匙圈中記錄這組連到遠端主機的使用者名稱和密碼"
+            "value" : "在钥匙串中保存该远程主机的用户名和密码"
           }
         }
       }
@@ -162,22 +102,10 @@
             "value" : "Username"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Username"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Username"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "用戶名"
+            "value" : "用户名"
           }
         }
       }
@@ -192,22 +120,10 @@
             "value" : "Password"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Password"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Password"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "密碼"
+            "value" : "口令"
           }
         }
       }
@@ -222,22 +138,10 @@
             "value" : "HTTP Authentication"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP Authentication"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP Authentication"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "HTTP 認證"
+            "value" : "HTTP 认证"
           }
         }
       }
@@ -252,22 +156,10 @@
             "value" : "Please enter the URL here……"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please enter the URL here……"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please enter the URL here……"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "請在此輸入 URL⋯⋯"
+            "value" : "在此输入 URL……"
           }
         }
       }
