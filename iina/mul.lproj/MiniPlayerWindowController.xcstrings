@@ -3,6 +3,7 @@
   "strings" : {
     "aot-6J-Jp7.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"50\"; ObjectID = \"aot-6J-Jp7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -123,6 +124,7 @@
     },
     "Nle-gv-CWY.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Artist - Album\"; ObjectID = \"Nle-gv-CWY\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -153,6 +155,7 @@
     },
     "Rs9-6l-6vp.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Title\"; ObjectID = \"Rs9-6l-6vp\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -183,6 +186,7 @@
     },
     "V74-PQ-Yfr.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"V74-PQ-Yfr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -213,6 +217,7 @@
     },
     "WnA-NE-3bG.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"-:--:--\"; ObjectID = \"WnA-NE-3bG\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
