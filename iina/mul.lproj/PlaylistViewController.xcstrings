@@ -12,19 +12,7 @@
             "value" : "▶︎"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "▶︎"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "▶︎"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "▶︎"
@@ -43,19 +31,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -73,22 +49,10 @@
             "value" : "Chapters"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapters"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "章節"
+            "value" : "章节"
           }
         }
       }
@@ -103,22 +67,10 @@
             "value" : "Add File…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add File…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "加入檔案⋯"
+            "value" : "添加文件…"
           }
         }
       }
@@ -134,19 +86,7 @@
             "value" : "…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "…"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "…"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "…"
@@ -164,19 +104,7 @@
             "value" : "PLAYLIST"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "PLAYLIST"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "播放列表"
@@ -195,19 +123,7 @@
             "value" : "▶︎"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "▶︎"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "▶︎"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "▶︎"
@@ -225,22 +141,10 @@
             "value" : "Matched subtitles"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Matched subtitles"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "相符的字幕"
+            "value" : "匹配的字幕"
           }
         }
       }
@@ -255,22 +159,10 @@
             "value" : "CHAPTERS"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CHAPTERS"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "章節"
+            "value" : "章节"
           }
         }
       }
@@ -285,19 +177,7 @@
             "value" : "Playlist"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "播放列表"
@@ -315,22 +195,10 @@
             "value" : "Folded common prefix"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Folded common prefix"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "被摺疊的共用通用字首"
+            "value" : "被折叠的公共前缀"
           }
         }
       }
@@ -346,19 +214,7 @@
             "value" : "00:00 -> 00:00"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "00:00 -> 00:00"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "00:00 -> 00:00"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "00:00 -> 00:00"
@@ -377,19 +233,7 @@
             "value" : "Chapter Title"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapter Title"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapter Title"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Chapter Title"
@@ -408,19 +252,7 @@
             "value" : "Info"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Info"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Info"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Info"
@@ -439,19 +271,7 @@
             "value" : "Label"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Label"
@@ -469,22 +289,10 @@
             "value" : "Add URL…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add URL…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "加入 URL⋯"
+            "value" : "添加 URL…"
           }
         }
       }
@@ -499,22 +307,10 @@
             "value" : "Wrong Subtitle!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong Subtitle!"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "錯誤的字幕！"
+            "value" : "错误的字幕!"
           }
         }
       }
