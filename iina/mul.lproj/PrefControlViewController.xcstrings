@@ -11,22 +11,10 @@
             "value" : "Mouse"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mouse"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mouse"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "滑鼠"
+            "value" : "鼠标"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Seek type:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek type:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek type:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找類型："
+            "value" : "查找方法:"
           }
         }
       }
@@ -71,22 +47,10 @@
             "value" : "Toggle Picture-in-Picture"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "切換子母畫面"
+            "value" : "切换「画中画」模式"
           }
         }
       }
@@ -101,22 +65,10 @@
             "value" : "Toggle fullscreen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle fullscreen"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle fullscreen"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "切換全螢幕"
+            "value" : "切换全屏"
           }
         }
       }
@@ -131,22 +83,10 @@
             "value" : "Exact seek is more precise but can cause lag and higher CPU usage."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Exact seek is more precise but can cause lag and higher CPU usage."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Exact seek is more precise but can cause lag and higher CPU usage."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "精確尋找於較大檔案時，將導致卡頓以及較高的 CPU 用量"
+            "value" : "精确查找对于大文件会消耗大量 CPU 并导致卡顿"
           }
         }
       }
@@ -161,22 +101,10 @@
             "value" : "Toggle fullscreen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle fullscreen"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle fullscreen"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "切換全螢幕"
+            "value" : "切换全屏"
           }
         }
       }
@@ -191,22 +119,10 @@
             "value" : "Hide OSC"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "隱藏播放控制列"
+            "value" : "隐藏播放控制"
           }
         }
       }
@@ -221,22 +137,10 @@
             "value" : "Exact seek"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Exact seek"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Exact seek"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "精確尋找"
+            "value" : "精确查找"
           }
         }
       }
@@ -251,22 +155,10 @@
             "value" : "Pause / Resume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "暫停 / 繼續"
+            "value" : "暂停 / 继续"
           }
         }
       }
@@ -281,22 +173,10 @@
             "value" : "Pause / Resume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "暫停 / 繼續"
+            "value" : "暂停 / 继续"
           }
         }
       }
@@ -311,22 +191,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -341,22 +209,10 @@
             "value" : "Pause / Resume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "暫停 / 繼續"
+            "value" : "暂停 / 继续"
           }
         }
       }
@@ -371,22 +227,10 @@
             "value" : "Trackpad"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Trackpad"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trackpad"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "觸控式軌跡板"
+            "value" : "触摸板"
           }
         }
       }
@@ -401,22 +245,10 @@
             "value" : "Force Touch to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Force Touch to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Force Touch to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "用力長按時："
+            "value" : "Force Touch 时:"
           }
         }
       }
@@ -431,22 +263,10 @@
             "value" : "Pinch to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pinch to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pinch to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "放大縮小時："
+            "value" : "双指缩放时:"
           }
         }
       }
@@ -461,22 +281,10 @@
             "value" : "Mouse"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mouse"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mouse"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "滑鼠"
+            "value" : "鼠标"
           }
         }
       }
@@ -491,22 +299,10 @@
             "value" : "Double click to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Double click to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Double click to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "按兩下滑鼠時："
+            "value" : "双击鼠标时:"
           }
         }
       }
@@ -521,22 +317,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -551,22 +335,10 @@
             "value" : "Middle click to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Middle click to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Middle click to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "按下滑鼠中鍵時："
+            "value" : "中键单击时:"
           }
         }
       }
@@ -581,22 +353,10 @@
             "value" : "Accepts first mouse click when not focused"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Accepts first mouse click when not focused"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Accepts first mouse click when not focused"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "當不在主視窗時，接受第一個滑鼠點擊"
+            "value" : "当没有焦点时，接受第一次鼠标点击"
           }
         }
       }
@@ -611,22 +371,10 @@
             "value" : "Toggle fullscreen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle fullscreen"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle fullscreen"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "切換全螢幕"
+            "value" : "切换全屏"
           }
         }
       }
@@ -641,22 +389,10 @@
             "value" : "Fullscreen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fullscreen"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fullscreen"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "全螢幕"
+            "value" : "全屏"
           }
         }
       }
@@ -671,22 +407,10 @@
             "value" : "Scroll vertically to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Scroll vertically to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scroll vertically to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "垂直捲動："
+            "value" : "纵向滚动时:"
           }
         }
       }
@@ -701,22 +425,10 @@
             "value" : "Trackpad"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Trackpad"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trackpad"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "觸控式軌跡板"
+            "value" : "触摸板"
           }
         }
       }
@@ -731,22 +443,10 @@
             "value" : "Toggle Picture-in-Picture"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "切換子母畫面"
+            "value" : "切换「画中画」模式"
           }
         }
       }
@@ -761,22 +461,10 @@
             "value" : "Hide OSC"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "隱藏播放控制列"
+            "value" : "隐藏播放控制"
           }
         }
       }
@@ -791,22 +479,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -821,22 +497,10 @@
             "value" : "Auto"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動"
+            "value" : "自动"
           }
         }
       }
@@ -851,22 +515,10 @@
             "value" : "Hide OSC"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "隱藏播放控制列"
+            "value" : "隐藏播放控制"
           }
         }
       }
@@ -881,22 +533,10 @@
             "value" : "Pause / Resume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "暫停 / 繼續"
+            "value" : "暂停 / 继续"
           }
         }
       }
@@ -911,22 +551,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -941,22 +569,10 @@
             "value" : "Sensitivity for normal seek:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensitivity for normal seek:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensitivity for normal seek:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找捲動靈敏度："
+            "value" : "查找滚动灵敏度:"
           }
         }
       }
@@ -971,22 +587,10 @@
             "value" : "Adjust window size"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust window size"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust window size"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "調整視窗大小"
+            "value" : "缩放窗口"
           }
         }
       }
@@ -1001,22 +605,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -1031,22 +623,10 @@
             "value" : "Hide OSC"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide OSC"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "隱藏播放控制列"
+            "value" : "隐藏播放控制"
           }
         }
       }
@@ -1061,22 +641,10 @@
             "value" : "Single click to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Single click to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Single click to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "按一下滑鼠時："
+            "value" : "单击鼠标时:"
           }
         }
       }
@@ -1091,22 +659,10 @@
             "value" : "Seek"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "跳轉"
+            "value" : "跳转"
           }
         }
       }
@@ -1121,22 +677,10 @@
             "value" : "Right click to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Right click to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Right click to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "按右鍵時："
+            "value" : "右键单击时:"
           }
         }
       }
@@ -1151,22 +695,10 @@
             "value" : "Toggle Picture-in-Picture"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "切換子母畫面"
+            "value" : "切换「画中画」模式"
           }
         }
       }
@@ -1181,22 +713,10 @@
             "value" : "Adjust volume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust volume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjust volume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "調整音量"
+            "value" : "调整音量"
           }
         }
       }
@@ -1211,22 +731,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -1241,22 +749,10 @@
             "value" : "Pause / Resume"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause / Resume"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "暫停 / 繼續"
+            "value" : "暂停 / 继续"
           }
         }
       }
@@ -1271,22 +767,10 @@
             "value" : "Scroll horizontally to:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Scroll horizontally to:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scroll horizontally to:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "水平捲動："
+            "value" : "横向滚动时:"
           }
         }
       }
@@ -1301,22 +785,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -1331,22 +803,10 @@
             "value" : "Keyframe seek"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Keyframe seek"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keyframe seek"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "關鍵影格尋找"
+            "value" : "关键帧跳转"
           }
         }
       }
@@ -1361,22 +821,10 @@
             "value" : "Seek"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "跳轉"
+            "value" : "跳转"
           }
         }
       }
@@ -1391,22 +839,10 @@
             "value" : "None"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "無"
+            "value" : "无"
           }
         }
       }
@@ -1421,22 +857,10 @@
             "value" : "Sensitivity for volume:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensitivity for volume:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensitivity for volume:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "音量調整靈敏度："
+            "value" : "音量滚动灵敏度:"
           }
         }
       }
