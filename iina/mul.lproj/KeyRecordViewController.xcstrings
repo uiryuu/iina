@@ -11,22 +11,10 @@
             "value" : "Select action:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Select action:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select action:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇動作："
+            "value" : "选择操作:"
           }
         }
       }
@@ -40,22 +28,10 @@
             "value" : "Or enter mpv command:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Or enter mpv command:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Or enter mpv command:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "或輸入 mpv 指令："
+            "value" : "或输入 mpv 命令:"
           }
         }
       }
