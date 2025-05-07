@@ -2,6 +2,7 @@
   "sourceLanguage" : "en",
   "strings" : {
     "3GPP File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -24,6 +25,7 @@
       }
     },
     "3GPP2 File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -46,6 +48,7 @@
       }
     },
     "AAC file" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -68,6 +71,7 @@
       }
     },
     "Advanced Streaming Format" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -90,6 +94,7 @@
       }
     },
     "AIFF file" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -112,6 +117,7 @@
       }
     },
     "Apple QuickTime container" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -134,6 +140,7 @@
       }
     },
     "AVI container" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -157,6 +164,7 @@
     },
     "CFBundleName" : {
       "comment" : "Bundle name",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -186,6 +194,7 @@
       }
     },
     "Digital Audio" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -208,6 +217,7 @@
       }
     },
     "DivX file" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -230,6 +240,7 @@
       }
     },
     "DV file" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -252,6 +263,7 @@
       }
     },
     "FLAC Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -274,6 +286,7 @@
       }
     },
     "Flash Video File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -296,6 +309,7 @@
       }
     },
     "GIF image" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -318,6 +332,7 @@
       }
     },
     "IINA Plugin" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -340,6 +355,7 @@
       }
     },
     "IINA Plugin Package" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -362,6 +378,7 @@
       }
     },
     "Matroska Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -384,6 +401,7 @@
       }
     },
     "Matroska Video File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -406,6 +424,7 @@
       }
     },
     "Monkey's Audio Lossless Audio" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -428,6 +447,7 @@
       }
     },
     "MPEG Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -450,6 +470,7 @@
       }
     },
     "MPEG Video File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -472,6 +493,7 @@
       }
     },
     "MPEG-2 Stream" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -500,6 +522,7 @@
       }
     },
     "MPEG3 Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -522,6 +545,7 @@
       }
     },
     "MPEG4 Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -544,6 +568,7 @@
       }
     },
     "MPEG4 Video File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -596,6 +621,7 @@
       }
     },
     "Ogg Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -618,6 +644,7 @@
       }
     },
     "Ogg Video File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -640,6 +667,7 @@
       }
     },
     "OPUS file" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -662,6 +690,7 @@
       }
     },
     "RealPlayer Media Files" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -684,6 +713,7 @@
       }
     },
     "VOB File (DVD Video)" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -706,6 +736,7 @@
       }
     },
     "WAVE Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -728,6 +759,7 @@
       }
     },
     "WavePack Audio File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -750,6 +782,7 @@
       }
     },
     "WebM Video File" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -772,6 +805,7 @@
       }
     },
     "Windows Media Audio" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -794,6 +828,7 @@
       }
     },
     "Windows Media Video" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -816,6 +851,7 @@
       }
     },
     "Windows Recorded TV Show" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
@@ -838,6 +874,7 @@
       }
     },
     "XM audio file" : {
+      "shouldTranslate" : false,
       "localizations" : {
         "fr" : {
           "stringUnit" : {
