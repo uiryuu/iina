@@ -3,6 +3,7 @@
   "strings" : {
     "0ju-Sf-fcb.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0\"; ObjectID = \"0ju-Sf-fcb\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -33,6 +34,7 @@
     },
     "1cq-dc-JfM.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"125\"; ObjectID = \"1cq-dc-JfM\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -153,6 +155,7 @@
     },
     "3eG-mV-UGW.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"0\"; ObjectID = \"3eG-mV-UGW\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -243,6 +246,7 @@
     },
     "4PG-5R-5G0.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"64\"; ObjectID = \"4PG-5R-5G0\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -303,6 +307,7 @@
     },
     "7su-au-nwq.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"5\"; ObjectID = \"7su-au-nwq\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -513,6 +518,7 @@
     },
     "AmU-VN-wGN.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"70\"; ObjectID = \"AmU-VN-wGN\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -693,6 +699,7 @@
     },
     "bxa-ha-AXL.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"2\"; ObjectID = \"bxa-ha-AXL\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -753,6 +760,7 @@
     },
     "bZu-Wx-06O.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0\"; ObjectID = \"bZu-Wx-06O\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -783,6 +791,7 @@
     },
     "CAr-N0-j64.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0\"; ObjectID = \"CAr-N0-j64\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -843,6 +852,7 @@
     },
     "CFK-kH-8hR.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"60\"; ObjectID = \"CFK-kH-8hR\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -903,6 +913,7 @@
     },
     "cMu-YF-riv.ibShadowedLabels[1]" : {
       "comment" : "Class = \"NSSegmentedCell\"; cMu-YF-riv.ibShadowedLabels[1] = \"4:3\"; ObjectID = \"cMu-YF-riv\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -933,6 +944,7 @@
     },
     "cMu-YF-riv.ibShadowedLabels[2]" : {
       "comment" : "Class = \"NSSegmentedCell\"; cMu-YF-riv.ibShadowedLabels[2] = \"16:9\"; ObjectID = \"cMu-YF-riv\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -963,6 +975,7 @@
     },
     "cMu-YF-riv.ibShadowedLabels[3]" : {
       "comment" : "Class = \"NSSegmentedCell\"; cMu-YF-riv.ibShadowedLabels[3] = \"16:10\"; ObjectID = \"cMu-YF-riv\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -993,6 +1006,7 @@
     },
     "cMu-YF-riv.ibShadowedLabels[4]" : {
       "comment" : "Class = \"NSSegmentedCell\"; cMu-YF-riv.ibShadowedLabels[4] = \"21:9\"; ObjectID = \"cMu-YF-riv\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1023,6 +1037,7 @@
     },
     "cMu-YF-riv.ibShadowedLabels[5]" : {
       "comment" : "Class = \"NSSegmentedCell\"; cMu-YF-riv.ibShadowedLabels[5] = \"5:4\"; ObjectID = \"cMu-YF-riv\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1203,6 +1218,7 @@
     },
     "e4X-H4-VxS.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"8k\"; ObjectID = \"e4X-H4-VxS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1293,6 +1309,7 @@
     },
     "EHa-PR-jHw.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"1\"; ObjectID = \"EHa-PR-jHw\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1323,6 +1340,7 @@
     },
     "ekh-gc-2qo.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"250\"; ObjectID = \"ekh-gc-2qo\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1413,6 +1431,7 @@
     },
     "era-AG-bSl.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"16k\"; ObjectID = \"era-AG-bSl\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1592,6 +1611,7 @@
     },
     "h6k-DT-fv5.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"3\"; ObjectID = \"h6k-DT-fv5\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1622,6 +1642,7 @@
     },
     "HBF-J7-Tie.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"32\"; ObjectID = \"HBF-J7-Tie\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1652,6 +1673,7 @@
     },
     "i0j-2a-vKD.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"4k\"; ObjectID = \"i0j-2a-vKD\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1742,6 +1764,7 @@
     },
     "iuN-rN-jT7.ibShadowedLabels[1]" : {
       "comment" : "Class = \"NSSegmentedCell\"; iuN-rN-jT7.ibShadowedLabels[1] = \"4:3\"; ObjectID = \"iuN-rN-jT7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1772,6 +1795,7 @@
     },
     "iuN-rN-jT7.ibShadowedLabels[2]" : {
       "comment" : "Class = \"NSSegmentedCell\"; iuN-rN-jT7.ibShadowedLabels[2] = \"16:9\"; ObjectID = \"iuN-rN-jT7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1802,6 +1826,7 @@
     },
     "iuN-rN-jT7.ibShadowedLabels[3]" : {
       "comment" : "Class = \"NSSegmentedCell\"; iuN-rN-jT7.ibShadowedLabels[3] = \"16:10\"; ObjectID = \"iuN-rN-jT7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1832,6 +1857,7 @@
     },
     "iuN-rN-jT7.ibShadowedLabels[4]" : {
       "comment" : "Class = \"NSSegmentedCell\"; iuN-rN-jT7.ibShadowedLabels[4] = \"21:9\"; ObjectID = \"iuN-rN-jT7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1862,6 +1888,7 @@
     },
     "iuN-rN-jT7.ibShadowedLabels[5]" : {
       "comment" : "Class = \"NSSegmentedCell\"; iuN-rN-jT7.ibShadowedLabels[5] = \"5:4\"; ObjectID = \"iuN-rN-jT7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1922,6 +1949,7 @@
     },
     "j9w-YU-EcC.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"2k\"; ObjectID = \"j9w-YU-EcC\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -1982,6 +2010,7 @@
     },
     "JeH-nY-dU8.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"30\"; ObjectID = \"JeH-nY-dU8\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2102,6 +2131,7 @@
     },
     "L0u-GY-T4V.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0\"; ObjectID = \"L0u-GY-T4V\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2372,6 +2402,7 @@
     },
     "Mav-NA-RfN.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"1\"; ObjectID = \"Mav-NA-RfN\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2402,6 +2433,7 @@
     },
     "mep-aa-rk7.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"55\"; ObjectID = \"mep-aa-rk7\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2432,6 +2464,7 @@
     },
     "n2O-ot-Bir.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"65\"; ObjectID = \"n2O-ot-Bir\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2492,6 +2525,7 @@
     },
     "nvA-Ae-4XS.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"1\"; ObjectID = \"nvA-Ae-4XS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2552,6 +2586,7 @@
     },
     "OVn-Oj-YAr.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"45\"; ObjectID = \"OVn-Oj-YAr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2762,6 +2797,7 @@
     },
     "Rtc-Eg-J2u.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"1k\"; ObjectID = \"Rtc-Eg-J2u\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2882,6 +2918,7 @@
     },
     "Sp8-cj-Zrx.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"40\"; ObjectID = \"Sp8-cj-Zrx\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2912,6 +2949,7 @@
     },
     "ssK-tS-ogL.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"4\"; ObjectID = \"ssK-tS-ogL\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -2972,6 +3010,7 @@
     },
     "tHa-vN-OlI.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"500\"; ObjectID = \"tHa-vN-OlI\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3452,6 +3491,7 @@
     },
     "YTM-1c-Gl0.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"50\"; ObjectID = \"YTM-1c-Gl0\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3482,6 +3522,7 @@
     },
     "z1L-0N-dfK.ibShadowedLabels[0]" : {
       "comment" : "Class = \"NSSegmentedCell\"; z1L-0N-dfK.ibShadowedLabels[0] = \"0°\"; ObjectID = \"z1L-0N-dfK\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3512,6 +3553,7 @@
     },
     "z1L-0N-dfK.ibShadowedLabels[1]" : {
       "comment" : "Class = \"NSSegmentedCell\"; z1L-0N-dfK.ibShadowedLabels[1] = \"90°\"; ObjectID = \"z1L-0N-dfK\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3542,6 +3584,7 @@
     },
     "z1L-0N-dfK.ibShadowedLabels[2]" : {
       "comment" : "Class = \"NSSegmentedCell\"; z1L-0N-dfK.ibShadowedLabels[2] = \"180°\"; ObjectID = \"z1L-0N-dfK\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3572,6 +3615,7 @@
     },
     "z1L-0N-dfK.ibShadowedLabels[3]" : {
       "comment" : "Class = \"NSSegmentedCell\"; z1L-0N-dfK.ibShadowedLabels[3] = \"270°\"; ObjectID = \"z1L-0N-dfK\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3602,6 +3646,7 @@
     },
     "z4R-2L-mKS.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0\"; ObjectID = \"z4R-2L-mKS\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -3662,6 +3707,7 @@
     },
     "zcb-7y-OVG.title" : {
       "comment" : "Class = \"NSMenuItem\"; title = \"35\"; ObjectID = \"zcb-7y-OVG\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
