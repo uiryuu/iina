@@ -93,6 +93,7 @@
     },
     "cu8-Oe-yca.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"0:00:00\"; ObjectID = \"cu8-Oe-yca\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -243,6 +244,7 @@
     },
     "lR3-1E-Rwr.title" : {
       "comment" : "Class = \"NSMenu\"; title = \"Context Menu\"; ObjectID = \"lR3-1E-Rwr\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -453,6 +455,7 @@
     },
     "vDR-ax-UJb.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Group Table View Cell\"; ObjectID = \"vDR-ax-UJb\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -573,6 +576,7 @@
     },
     "z9u-td-fQW.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"00:00 AM\"; ObjectID = \"z9u-td-fQW\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
