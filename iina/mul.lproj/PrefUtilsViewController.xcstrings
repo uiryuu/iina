@@ -11,22 +11,10 @@
             "value" : "Clear Saved Playback Progress…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Saved Playback Progress…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Saved Playback Progress…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "清除儲存的播放進度⋯"
+            "value" : "清除保存的播放进度…"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Video"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Video"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Video"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "視訊"
+            "value" : "视频"
           }
         }
       }
@@ -71,22 +47,10 @@
             "value" : "The button below will delete all playback histories and entries in \"Open Recent\"."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will delete all playback histories and entries in \"Open Recent\"."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will delete all playback histories and entries in \"Open Recent\"."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "此按鈕將會清除播放記錄和「打開最近使用過的檔案」中的項目。"
+            "value" : "此按钮将会清空播放历史及“最近打开”中的项目。"
           }
         }
       }
@@ -101,22 +65,10 @@
             "value" : "Restore Alerts"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Restore Alerts"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Restore Alerts"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "復原警告"
+            "value" : "重置警告提醒"
           }
         }
       }
@@ -131,22 +83,10 @@
             "value" : "The button below will delete all cached thumbnails."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will delete all cached thumbnails."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will delete all cached thumbnails."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "此按鈕將會刪除所有快取的縮覽圖。"
+            "value" : "此按钮将会删除所有缓存的缩略图。"
           }
         }
       }
@@ -161,22 +101,10 @@
             "value" : "Set IINA as the Default Application…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Set IINA as the Default Application…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set IINA as the Default Application…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "將 IINA 設為預設應用程式⋯"
+            "value" : "将 IINA 设为默认应用…"
           }
         }
       }
@@ -191,22 +119,10 @@
             "value" : "Cleared."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cleared."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cleared."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "已清除。"
+            "value" : "已清空。"
           }
         }
       }
@@ -221,22 +137,10 @@
             "value" : "The button below will restore all alerts that have been suppressed using the \"Do not show this message again\" checkbox."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will restore all alerts that have been suppressed using the \"Do not show this message again\" checkbox."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will restore all alerts that have been suppressed using the \"Do not show this message again\" checkbox."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "下方的按鈕將復原所有透過「不要再顯示此訊息」核取方塊關閉的警告。"
+            "value" : "该按钮会还原所有选中“不再显示此消息”的警告。"
           }
         }
       }
@@ -251,19 +155,7 @@
             "value" : "Firefox"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Firefox"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Firefox"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Firefox"
@@ -281,22 +173,10 @@
             "value" : "Cleared."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cleared."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cleared."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "已清除。"
+            "value" : "已清空。"
           }
         }
       }
@@ -311,22 +191,10 @@
             "value" : "Open links or current webpage in IINA with one click. The website must be supported by youtube-dl."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Open links or current webpage in IINA with one click. The website must be supported by youtube-dl."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open links or current webpage in IINA with one click. The website must be supported by youtube-dl."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "在 IINA 中打開連結或目前的網站。網站需要 youtube-dl 的支援。"
+            "value" : "一键在 IINA 中打开网页中的链接或当前页面。网站需要 youtube-dl 的支持。"
           }
         }
       }
@@ -341,22 +209,10 @@
             "value" : "Clear Thumbnail Cache…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Thumbnail Cache…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Thumbnail Cache…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "清除縮覽圖快取⋯"
+            "value" : "清除缩略图缓存…"
           }
         }
       }
@@ -371,22 +227,10 @@
             "value" : "OK"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "OK"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "OK"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "好"
+            "value" : "确认"
           }
         }
       }
@@ -401,22 +245,10 @@
             "value" : "Audio"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "音訊"
+            "value" : "音频"
           }
         }
       }
@@ -431,19 +263,7 @@
             "value" : "Cancel"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -461,19 +281,7 @@
             "value" : "Playlist"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "播放列表"
@@ -491,22 +299,10 @@
             "value" : "Clear Playback History…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Playback History…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Playback History…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "清除播放記錄⋯"
+            "value" : "清除播放历史…"
           }
         }
       }
@@ -521,22 +317,10 @@
             "value" : "Default Application"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default Application"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default Application"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設應用程式"
+            "value" : "默认应用程序"
           }
         }
       }
@@ -551,22 +335,10 @@
             "value" : "The button below will delete all files in the \"watch later\" folder. These files contain all saved playback progress and settings applied during playback."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will delete all files in the \"watch later\" folder. These files contain all saved playback progress and settings applied during playback."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The button below will delete all files in the \"watch later\" folder. These files contain all saved playback progress and settings applied during playback."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "此按鈕將會刪除「watch later」檔案夾中的所有檔案。這些檔案包含了儲存的播放進度和播放時所套用的一些設定。"
+            "value" : "此按钮将会删除“watch later”文件夹中的所有文件。这些文件包含了保存的播放进度和播放时所应用的一些设置。"
           }
         }
       }
@@ -581,22 +353,10 @@
             "value" : "Clear Cache"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Cache"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Cache"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "清除快取"
+            "value" : "清除缓存"
           }
         }
       }
@@ -611,22 +371,10 @@
             "value" : "Calculating…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Calculating…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calculating…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "正在計算⋯"
+            "value" : "计算中…"
           }
         }
       }
@@ -641,22 +389,10 @@
             "value" : "Current thumbnail cache:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Current thumbnail cache:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Current thumbnail cache:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "目前的縮覽圖快取："
+            "value" : "当前缩略图缓存:"
           }
         }
       }
@@ -671,22 +407,10 @@
             "value" : "Please select the media types that you want to make IINA as the default Application for."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Please select the media types that you want to make IINA as the default Application for."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please select the media types that you want to make IINA as the default Application for."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "請選擇您要將 IINA 設為預設應用程式的媒體類型。"
+            "value" : "请选择希望将 IINA 设为默认应用程序的文件类型。"
           }
         }
       }
@@ -701,22 +425,10 @@
             "value" : "Restored."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Restored."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Restored."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "已恢復"
+            "value" : "已还原"
           }
         }
       }
@@ -731,22 +443,10 @@
             "value" : "Restore Suppressed Alerts…"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Restore Suppressed Alerts…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Restore Suppressed Alerts…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "復原已關閉的警告⋯⋯"
+            "value" : "还原已忽略的警告"
           }
         }
       }
@@ -761,19 +461,7 @@
             "value" : "Chrome"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chrome"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chrome"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Chrome"
@@ -791,22 +479,10 @@
             "value" : "Get Browser Extensions for IINA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Get Browser Extensions for IINA"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get Browser Extensions for IINA"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "取得 IINA 的瀏覽器擴充功能"
+            "value" : "获取 IINA 的浏览器插件"
           }
         }
       }
