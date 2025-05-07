@@ -6,7 +6,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -42,19 +42,19 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -66,7 +66,7 @@
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -78,13 +78,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -102,13 +102,13 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -126,7 +126,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -150,7 +150,7 @@
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -192,13 +192,13 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "s"
           }
         },
@@ -210,31 +210,31 @@
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -246,7 +246,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -258,7 +258,7 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -272,12 +272,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "s"
           }
         },
         "th" : {
@@ -335,7 +329,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -353,7 +347,7 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -371,7 +365,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -383,19 +377,19 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -407,13 +401,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -425,43 +419,43 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -473,25 +467,25 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -503,7 +497,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -527,55 +521,55 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -587,7 +581,7 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -599,13 +593,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -617,7 +605,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -629,7 +617,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -641,19 +629,19 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         }
@@ -736,7 +724,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (keyframe)"
           }
         },
@@ -802,7 +790,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (keyframe)"
           }
         },
@@ -856,13 +844,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "% (keyframe)"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (keyframe)"
           }
         },
@@ -880,13 +868,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (keyframe)"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (keyframe)"
           }
         },
@@ -930,12 +918,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% (nyckelbild)"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "% (keyframe)"
           }
         },
         "th" : {
@@ -1065,7 +1047,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (keyframe)"
           }
         },
@@ -1185,13 +1167,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "s (keyframe)"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (keyframe)"
           }
         },
@@ -1209,13 +1191,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (keyframe)"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (keyframe)"
           }
         },
@@ -1259,12 +1241,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "s (nyckelbild)"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "s (keyframe)"
           }
         },
         "th" : {
@@ -1394,7 +1370,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "increase"
           }
         },
@@ -1514,7 +1490,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "increase"
           }
         },
@@ -1588,12 +1564,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "öka"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "அதிகரி"
           }
         },
         "th" : {
@@ -1723,7 +1693,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "backward"
           }
         },
@@ -1843,7 +1813,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "backward"
           }
         },
@@ -1917,12 +1887,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "bakåt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "backward"
           }
         },
         "th" : {
@@ -2052,7 +2016,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "by"
           }
         },
@@ -2172,7 +2136,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "by"
           }
         },
@@ -2246,12 +2210,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "med"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "by"
           }
         },
         "th" : {
@@ -2381,7 +2339,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A-B loop"
           }
         },
@@ -2501,7 +2459,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "A-B loop"
           }
         },
@@ -2575,12 +2533,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A–B-loop"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "A-B loop"
           }
         },
         "th" : {
@@ -2710,7 +2662,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change"
           }
         },
@@ -2830,7 +2782,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Change"
           }
         },
@@ -2904,12 +2856,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ändra"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Change"
           }
         },
         "th" : {
@@ -3039,7 +2985,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cycle"
           }
         },
@@ -3159,7 +3105,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cycle"
           }
         },
@@ -3233,12 +3179,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cykla"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cycle"
           }
         },
         "th" : {
@@ -3368,7 +3308,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cycle in"
           }
         },
@@ -3488,7 +3428,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cycle in"
           }
         },
@@ -3562,12 +3502,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cykla inom"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cycle in"
           }
         },
         "th" : {
@@ -3697,7 +3631,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Previous frame"
           }
         },
@@ -3817,7 +3751,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Previous frame"
           }
         },
@@ -3891,12 +3825,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Föregående bildruta"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Previous frame"
           }
         },
         "th" : {
@@ -4026,7 +3954,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Next frame"
           }
         },
@@ -4146,7 +4074,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Next frame"
           }
         },
@@ -4220,12 +4148,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nästa bildruta"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Next frame"
           }
         },
         "th" : {
@@ -4356,7 +4278,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ignore"
           }
         },
@@ -4476,7 +4398,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Ignore"
           }
         },
@@ -4550,12 +4472,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ignorera"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Ignore"
           }
         },
         "th" : {
@@ -4685,7 +4601,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Load file"
           }
         },
@@ -4805,7 +4721,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Load file"
           }
         },
@@ -4879,12 +4795,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Läs in fil"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Load file"
           }
         },
         "th" : {
@@ -5014,7 +4924,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Load playlist"
           }
         },
@@ -5134,7 +5044,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Load playlist"
           }
         },
@@ -5208,12 +5118,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Läs in spellista"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Load playlist"
           }
         },
         "th" : {
@@ -5343,7 +5247,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Multiply"
           }
         },
@@ -5463,7 +5367,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Multiply"
           }
         },
@@ -5537,12 +5441,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Multiplicera"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Multiply"
           }
         },
         "th" : {
@@ -5672,7 +5570,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear playlist"
           }
         },
@@ -5792,7 +5690,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Clear playlist"
           }
         },
@@ -5866,12 +5764,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rensa spellista"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear playlist"
           }
         },
         "th" : {
@@ -6001,7 +5893,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Move playlist item"
           }
         },
@@ -6121,7 +6013,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Move playlist item"
           }
         },
@@ -6195,12 +6087,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Flytta spellisteobjekt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Move playlist item"
           }
         },
         "th" : {
@@ -6330,7 +6216,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Next media"
           }
         },
@@ -6450,7 +6336,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Next media"
           }
         },
@@ -6524,12 +6410,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nästa media"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Next media"
           }
         },
         "th" : {
@@ -6659,7 +6539,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Previous media"
           }
         },
@@ -6779,7 +6659,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Previous media"
           }
         },
@@ -6853,12 +6733,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Föregående media"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Previous media"
           }
         },
         "th" : {
@@ -6988,7 +6862,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Remove current"
           }
         },
@@ -7108,7 +6982,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Remove current"
           }
         },
@@ -7182,12 +7056,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ta bort nuvarande"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Remove current"
           }
         },
         "th" : {
@@ -7317,7 +7185,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Shuffle"
           }
         },
@@ -7437,13 +7305,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Shuffle"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Shuffle"
           }
         },
@@ -7511,12 +7379,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Blanda"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Shuffle"
           }
         },
         "th" : {
@@ -7646,7 +7508,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Quit"
           }
         },
@@ -7766,7 +7628,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Quit"
           }
         },
@@ -7840,12 +7702,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avsluta"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Quit"
           }
         },
         "th" : {
@@ -7975,7 +7831,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Quit (save progress)"
           }
         },
@@ -8095,7 +7951,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Quit (save progress)"
           }
         },
@@ -8169,12 +8025,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avsluta (spara position)"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Quit (save progress)"
           }
         },
         "th" : {
@@ -8304,7 +8154,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Revert seek"
           }
         },
@@ -8424,7 +8274,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Revert seek"
           }
         },
@@ -8498,12 +8348,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Återgå från spolning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Revert seek"
           }
         },
         "th" : {
@@ -8633,7 +8477,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Run"
           }
         },
@@ -8753,7 +8597,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Run"
           }
         },
@@ -8827,12 +8671,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kör"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Run"
           }
         },
         "th" : {
@@ -8962,7 +8800,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Screenshot"
           }
         },
@@ -9082,7 +8920,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Screenshot"
           }
         },
@@ -9156,12 +8994,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skärmdump"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Screenshot"
           }
         },
         "th" : {
@@ -9291,7 +9123,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Screenshot to file"
           }
         },
@@ -9411,7 +9243,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Screenshot to file"
           }
         },
@@ -9485,12 +9317,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skärmdumpa till fil"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Screenshot to file"
           }
         },
         "th" : {
@@ -9620,7 +9446,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Seek"
           }
         },
@@ -9740,7 +9566,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Seek"
           }
         },
@@ -9814,12 +9640,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spola"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek"
           }
         },
         "th" : {
@@ -9949,7 +9769,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Set"
           }
         },
@@ -10015,7 +9835,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Set"
           }
         },
@@ -10069,7 +9889,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Set"
           }
         },
@@ -10145,12 +9965,6 @@
             "value" : "Ange"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Set"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -10206,7 +10020,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Stop"
           }
         },
@@ -10254,7 +10068,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Stop"
           }
         },
@@ -10278,7 +10092,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Stop"
           }
         },
@@ -10332,7 +10146,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Stop"
           }
         },
@@ -10398,13 +10212,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Stop"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Stop"
           }
         },
@@ -10472,12 +10286,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stoppa"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop"
           }
         },
         "th" : {
@@ -10607,7 +10415,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle seek"
           }
         },
@@ -10727,7 +10535,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle seek"
           }
         },
@@ -10801,12 +10609,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spola i undertext"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle seek"
           }
         },
         "th" : {
@@ -10936,7 +10738,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Record play history"
           }
         },
@@ -11056,7 +10858,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Record play history"
           }
         },
@@ -11130,12 +10932,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spara spelhistorik"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Record play history"
           }
         },
         "th" : {
@@ -11265,7 +11061,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "forward"
           }
         },
@@ -11385,7 +11181,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "forward"
           }
         },
@@ -11459,12 +11255,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "framåt"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "forward"
           }
         },
         "th" : {
@@ -11594,7 +11384,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Audio panel"
           }
         },
@@ -11714,7 +11504,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Audio panel"
           }
         },
@@ -11788,12 +11578,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ljudpanel"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio panel"
           }
         },
         "th" : {
@@ -11923,7 +11707,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bigger Window"
           }
         },
@@ -12043,7 +11827,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bigger Window"
           }
         },
@@ -12117,12 +11901,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Större fönster"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bigger Window"
           }
         },
         "th" : {
@@ -12252,7 +12030,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Chapter panel"
           }
         },
@@ -12372,7 +12150,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Chapter panel"
           }
         },
@@ -12446,12 +12224,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kapitelpanel"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapter panel"
           }
         },
         "th" : {
@@ -12581,7 +12353,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete current file"
           }
         },
@@ -12701,7 +12473,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Delete current file"
           }
         },
@@ -12775,12 +12547,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Radera nuvarande fil"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete current file"
           }
         },
         "th" : {
@@ -12910,7 +12676,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete current file directly without moving to trash"
           }
         },
@@ -13030,7 +12796,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Delete current file directly without moving to trash"
           }
         },
@@ -13104,12 +12870,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Radera nuvarande katalog omedelbart utan att flytta till papperskorgen"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete current file directly without moving to trash"
           }
         },
         "th" : {
@@ -13239,7 +12999,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Find online subtitles"
           }
         },
@@ -13359,7 +13119,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Find online subtitles"
           }
         },
@@ -13433,12 +13193,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hitta undertexter online"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Find online subtitles"
           }
         },
         "th" : {
@@ -13568,7 +13322,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fit to Screen"
           }
         },
@@ -13688,7 +13442,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fit to Screen"
           }
         },
@@ -13762,12 +13516,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passa till skärm"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fit to Screen"
           }
         },
         "th" : {
@@ -13897,7 +13645,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Flip"
           }
         },
@@ -14017,7 +13765,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Flip"
           }
         },
@@ -14091,12 +13839,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vänd"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "சுழற்று"
           }
         },
         "th" : {
@@ -14226,7 +13968,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Mirror"
           }
         },
@@ -14346,7 +14088,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Mirror"
           }
         },
@@ -14420,12 +14162,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spegla"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "கண்ணாடிப்பிம்பம்"
           }
         },
         "th" : {
@@ -14555,7 +14291,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Open file"
           }
         },
@@ -14675,7 +14411,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Open file"
           }
         },
@@ -14749,12 +14485,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Öppna fil"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Open file"
           }
         },
         "th" : {
@@ -14884,7 +14614,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Open URL"
           }
         },
@@ -15004,13 +14734,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Open URL"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Open URL"
           }
         },
@@ -15078,12 +14808,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Öppna URL"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URLஐ திற"
           }
         },
         "th" : {
@@ -15213,7 +14937,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Playlist panel"
           }
         },
@@ -15333,7 +15057,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Playlist panel"
           }
         },
@@ -15407,12 +15131,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spellistepanel"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Playlist panel"
           }
         },
         "th" : {
@@ -15542,7 +15260,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Save downloaded subtitle"
           }
         },
@@ -15662,7 +15380,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Save downloaded subtitle"
           }
         },
@@ -15736,12 +15454,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spara nedladdad undertext"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save downloaded subtitle"
           }
         },
         "th" : {
@@ -15871,7 +15583,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Save current playlist"
           }
         },
@@ -15991,7 +15703,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Save current playlist"
           }
         },
@@ -16065,12 +15777,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spara nuvarande spellista"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save current playlist"
           }
         },
         "th" : {
@@ -16320,7 +16026,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Show current file in Finder"
           }
         },
@@ -16391,12 +16097,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Show current file in Finder"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show current file in Finder"
@@ -16529,7 +16229,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Smaller Window"
           }
         },
@@ -16649,7 +16349,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Smaller Window"
           }
         },
@@ -16723,12 +16423,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mindre fönster"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Smaller Window"
           }
         },
         "th" : {
@@ -16858,7 +16552,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle panel"
           }
         },
@@ -16978,7 +16672,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle panel"
           }
         },
@@ -17052,12 +16746,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertextpanel"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle panel"
           }
         },
         "th" : {
@@ -17187,7 +16875,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Toggle flip"
           }
         },
@@ -17307,7 +16995,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle flip"
           }
         },
@@ -17381,12 +17069,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Växla vänd"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle flip"
           }
         },
         "th" : {
@@ -17516,7 +17198,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Toggle mirror"
           }
         },
@@ -17636,7 +17318,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle mirror"
           }
         },
@@ -17710,12 +17392,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Växla spegla"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle mirror"
           }
         },
         "th" : {
@@ -17845,7 +17521,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Toggle Music Mode"
           }
         },
@@ -17965,7 +17641,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Music Mode"
           }
         },
@@ -18039,12 +17715,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Växla musikläge"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Music Mode"
           }
         },
         "th" : {
@@ -18174,7 +17844,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Toggle Picture-in-Picture"
           }
         },
@@ -18294,7 +17964,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Picture-in-Picture"
           }
         },
@@ -18368,12 +18038,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Växla bild-i-bild"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Picture-in-Picture"
           }
         },
         "th" : {
@@ -18503,7 +18167,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Video panel"
           }
         },
@@ -18623,7 +18287,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Video panel"
           }
         },
@@ -18699,12 +18363,6 @@
             "value" : "Videopanel"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Video panel"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -18760,7 +18418,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "in"
           }
         },
@@ -18814,7 +18472,7 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "in"
           }
         },
@@ -18832,7 +18490,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "in"
           }
         },
@@ -18910,7 +18568,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "in"
           }
         },
@@ -18952,13 +18610,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "in"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "in"
           }
         },
@@ -19026,12 +18684,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "i"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "in"
           }
         },
         "th" : {
@@ -19161,7 +18813,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "decrease"
           }
         },
@@ -19281,7 +18933,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "decrease"
           }
         },
@@ -19355,12 +19007,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "minska"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "decrease"
           }
         },
         "th" : {
@@ -19454,7 +19100,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
@@ -19490,13 +19136,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
@@ -19568,7 +19214,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
@@ -19610,7 +19256,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "No"
           }
         },
@@ -19684,12 +19330,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nej"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இல்லை"
           }
         },
         "th" : {
@@ -19819,7 +19459,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Audio track"
           }
         },
@@ -19939,7 +19579,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Audio track"
           }
         },
@@ -20013,12 +19653,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ljudspår"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio track"
           }
         },
         "th" : {
@@ -20148,7 +19782,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Audio delay"
           }
         },
@@ -20268,7 +19902,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Audio delay"
           }
         },
@@ -20342,12 +19976,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ljudfördröjning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Audio delay"
           }
         },
         "th" : {
@@ -20477,7 +20105,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Brightness"
           }
         },
@@ -20597,7 +20225,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Brightness"
           }
         },
@@ -20671,12 +20299,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ljusstyrka"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Brightness"
           }
         },
         "th" : {
@@ -20806,7 +20428,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Chapter"
           }
         },
@@ -20872,7 +20494,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Chapter"
           }
         },
@@ -20926,7 +20548,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Chapter"
           }
         },
@@ -21000,12 +20622,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kapitel"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapter"
           }
         },
         "th" : {
@@ -21099,7 +20715,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contrast"
           }
         },
@@ -21135,7 +20751,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contrast"
           }
         },
@@ -21255,13 +20871,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Contrast"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contrast"
           }
         },
@@ -21291,7 +20907,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Contrast"
           }
         },
@@ -21329,12 +20945,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kontrast"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Contrast"
           }
         },
         "th" : {
@@ -21440,7 +21050,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Deinterlace"
           }
         },
@@ -21464,7 +21074,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Deinterlace"
           }
         },
@@ -21530,7 +21140,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Deinterlace"
           }
         },
@@ -21584,19 +21194,19 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Deinterlace"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Deinterlace"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Deinterlace"
           }
         },
@@ -21632,7 +21242,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Deinterlace"
           }
         },
@@ -21658,12 +21268,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avfläta"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Deinterlace"
           }
         },
         "th" : {
@@ -21793,7 +21397,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fullscreen"
           }
         },
@@ -21913,7 +21517,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fullscreen"
           }
         },
@@ -21989,12 +21593,6 @@
             "value" : "Fullskärm"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "முழுத்திரை"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -22050,7 +21648,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22086,7 +21684,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22098,13 +21696,13 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22122,7 +21720,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22146,13 +21744,13 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22176,7 +21774,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22188,7 +21786,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22200,7 +21798,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22242,43 +21840,43 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Gamma"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22318,12 +21916,6 @@
             "value" : "Gammakorrigering"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Gamma"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -22356,7 +21948,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Gamma"
           }
         },
@@ -22451,7 +22043,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Mute"
           }
         },
@@ -22571,7 +22163,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Mute"
           }
         },
@@ -22645,12 +22237,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tysta"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mute"
           }
         },
         "th" : {
@@ -22780,7 +22366,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Float on top"
           }
         },
@@ -22900,7 +22486,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Float on top"
           }
         },
@@ -22974,12 +22560,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Flyt överst"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Float on top"
           }
         },
         "th" : {
@@ -23085,7 +22665,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pause"
           }
         },
@@ -23109,7 +22689,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pause"
           }
         },
@@ -23229,7 +22809,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Pause"
           }
         },
@@ -23241,7 +22821,7 @@
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pause"
           }
         },
@@ -23303,12 +22883,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pausa"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "இடைநிறுத்து"
           }
         },
         "th" : {
@@ -23414,7 +22988,7 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Saturation"
           }
         },
@@ -23438,7 +23012,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Saturation"
           }
         },
@@ -23468,7 +23042,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Saturation"
           }
         },
@@ -23558,7 +23132,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Saturation"
           }
         },
@@ -23632,12 +23206,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mättnad"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Saturation"
           }
         },
         "th" : {
@@ -23887,7 +23455,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Secondary subtitle visibility"
           }
         },
@@ -23958,12 +23526,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Secondary subtitle visibility"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Secondary subtitle visibility"
@@ -24096,7 +23658,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Speed"
           }
         },
@@ -24216,7 +23778,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Speed"
           }
         },
@@ -24290,12 +23852,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hastighet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வேகம்"
           }
         },
         "th" : {
@@ -24425,7 +23981,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle track"
           }
         },
@@ -24545,7 +24101,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle track"
           }
         },
@@ -24619,12 +24175,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertextspår"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle track"
           }
         },
         "th" : {
@@ -24754,7 +24304,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "ASS style override"
           }
         },
@@ -24874,7 +24424,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "ASS style override"
           }
         },
@@ -24948,12 +24498,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Åsidosätt ASS-stil"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "ASS style override"
           }
         },
         "th" : {
@@ -25083,7 +24627,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle delay"
           }
         },
@@ -25203,7 +24747,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle delay"
           }
         },
@@ -25277,12 +24821,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertextfördröjning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle delay"
           }
         },
         "th" : {
@@ -25412,7 +24950,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle position"
           }
         },
@@ -25532,7 +25070,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle position"
           }
         },
@@ -25606,12 +25144,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertextposition"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle position"
           }
         },
         "th" : {
@@ -25741,7 +25273,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle scale"
           }
         },
@@ -25861,7 +25393,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle scale"
           }
         },
@@ -25935,12 +25467,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertextskala"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle scale"
           }
         },
         "th" : {
@@ -26070,7 +25596,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Subtitle visibility"
           }
         },
@@ -26190,7 +25716,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Subtitle visibility"
           }
         },
@@ -26264,12 +25790,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Undertextsynlighet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subtitle visibility"
           }
         },
         "th" : {
@@ -26399,7 +25919,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Video track"
           }
         },
@@ -26519,7 +26039,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Video track"
           }
         },
@@ -26593,12 +26113,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videospår"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Video track"
           }
         },
         "th" : {
@@ -26728,7 +26242,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Video aspect"
           }
         },
@@ -26848,7 +26362,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Video aspect"
           }
         },
@@ -26924,12 +26438,6 @@
             "value" : "Videoförhållande"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Video aspect"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -26985,7 +26493,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27057,7 +26565,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27087,7 +26595,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27123,7 +26631,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27135,7 +26643,7 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27177,13 +26685,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Volume"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27201,13 +26709,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Volume"
           }
         },
@@ -27251,12 +26759,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volym"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ஒலியளவு"
           }
         },
         "th" : {
@@ -27386,7 +26888,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Window scale"
           }
         },
@@ -27506,7 +27008,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Window scale"
           }
         },
@@ -27582,12 +27084,6 @@
             "value" : "Fönsterskalning"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Window scale"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -27643,13 +27139,13 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27679,7 +27175,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27691,19 +27187,19 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27715,13 +27211,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27733,25 +27229,25 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27763,13 +27259,13 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27781,7 +27277,7 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27793,13 +27289,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27811,7 +27307,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27835,19 +27331,19 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "{{property}} {{value}}"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27859,31 +27355,31 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27895,7 +27391,7 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27906,12 +27402,6 @@
           }
         },
         "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "{{property}} {{value}}"
-          }
-        },
-        "ta" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "{{property}} {{value}}"
@@ -27925,7 +27415,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
@@ -27955,13 +27445,13 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "{{property}} {{value}}"
           }
         }
@@ -28044,7 +27534,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cycle {{property}}{{#dir_down}} Downwards{{/dir_down}}"
           }
         },
@@ -28164,7 +27654,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cycle {{property}}{{#dir_down}} Downwards{{/dir_down}}"
           }
         },
@@ -28238,12 +27728,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cykla {{property}}{{#dir_down}} nedåt{{/dir_down}}"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cycle {{property}}{{#dir_down}} Downwards{{/dir_down}}"
           }
         },
         "th" : {
@@ -28373,7 +27857,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cycle {{property}} in ({{{values}}})"
           }
         },
@@ -28493,7 +27977,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Cycle {{property}} in ({{{values}}})"
           }
         },
@@ -28567,12 +28051,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cykla {{property}} i ({{{values}}})"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cycle {{property}} in ({{{values}}})"
           }
         },
         "th" : {
@@ -28702,7 +28180,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Multiply {{property}} by {{factor}}x"
           }
         },
@@ -28822,7 +28300,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Multiply {{property}} by {{factor}}x"
           }
         },
@@ -28896,12 +28374,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Multiplicera {{property}} med {{factor}}x"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Multiply {{property}} by {{factor}}x"
           }
         },
         "th" : {
@@ -29031,7 +28503,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Seek {{#fwd}}forward{{/fwd}}{{#bwd}}backward{{/bwd}}{{#abs}}to{{/abs}} {{value}}{{#sec}}s{{/sec}}{{#per}}%{{/per}} {{#exact}}(exact){{/exact}}{{#kf}}(keyframe){{/kf}}"
           }
         },
@@ -29151,7 +28623,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Seek {{#fwd}}forward{{/fwd}}{{#bwd}}backward{{/bwd}}{{#abs}}to{{/abs}} {{value}}{{#sec}}s{{/sec}}{{#per}}%{{/per}} {{#exact}}(exact){{/exact}}{{#kf}}(keyframe){{/kf}}"
           }
         },
@@ -29225,12 +28697,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spola {{#fwd}}framåt{{/fwd}}{{#bwd}}bakåt{{/bwd}}{{#abs}}till{{/abs}} {{value}}{{#sec}}s{{/sec}}{{#per}}%{{/per}} {{#exact}}(exact){{/exact}}{{#kf}}(keyframe){{/kf}}"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek {{#fwd}}forward{{/fwd}}{{#bwd}}backward{{/bwd}}{{#abs}}to{{/abs}} {{value}}{{#sec}}s{{/sec}}{{#per}}%{{/per}} {{#exact}}(exact){{/exact}}{{#kf}}(keyframe){{/kf}}"
           }
         },
         "th" : {
@@ -29360,7 +28826,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Set {{property}} to {{value}}"
           }
         },
@@ -29480,7 +28946,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Set {{property}} to {{value}}"
           }
         },
@@ -29554,12 +29020,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ställ {{property}} till {{value}}"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Set {{property}} to {{value}}"
           }
         },
         "th" : {
@@ -29689,7 +29149,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Seek to {{#skip_1}}next{{/skip_1}}{{#skip_-1}}previous{{/skip_-1}} subtitle"
           }
         },
@@ -29809,7 +29269,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Seek to {{#skip_1}}next{{/skip_1}}{{#skip_-1}}previous{{/skip_-1}} subtitle"
           }
         },
@@ -29885,12 +29345,6 @@
             "value" : "Spola till {{#skip_1}}nästa{{/skip_1}}{{#skip_-1}}föregående{{/skip_-1}} undertext"
           }
         },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seek to {{#skip_1}}next{{/skip_1}}{{#skip_-1}}previous{{/skip_-1}} subtitle"
-          }
-        },
         "th" : {
           "stringUnit" : {
             "state" : "new",
@@ -29946,7 +29400,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -29982,19 +29436,19 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30006,7 +29460,7 @@
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30018,13 +29472,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30042,13 +29496,13 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30066,7 +29520,7 @@
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30090,7 +29544,7 @@
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30132,13 +29586,13 @@
         },
         "ml" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "s"
           }
         },
@@ -30150,31 +29604,31 @@
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30186,7 +29640,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30198,7 +29652,7 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s"
           }
         },
@@ -30212,12 +29666,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sek"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "s"
           }
         },
         "th" : {
@@ -30275,7 +29723,7 @@
       "localizations" : {
         "af" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30293,7 +29741,7 @@
         },
         "be" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30311,7 +29759,7 @@
         },
         "ca" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30323,19 +29771,19 @@
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30347,13 +29795,13 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30365,43 +29813,43 @@
         },
         "fa" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30413,25 +29861,25 @@
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "is" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30443,7 +29891,7 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30467,55 +29915,55 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "no" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30527,7 +29975,7 @@
         },
         "sr-CS" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30539,13 +29987,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30557,7 +29999,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30569,7 +30011,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -30581,19 +30023,19 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         }
@@ -30676,7 +30118,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (exact)"
           }
         },
@@ -30706,7 +30148,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (exact)"
           }
         },
@@ -30796,13 +30238,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "% (exact)"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (exact)"
           }
         },
@@ -30832,7 +30274,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "% (exact)"
           }
         },
@@ -30870,12 +30312,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "% (exakt)"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "% (exact)"
           }
         },
         "th" : {
@@ -31005,7 +30441,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (exact)"
           }
         },
@@ -31035,7 +30471,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (exact)"
           }
         },
@@ -31125,13 +30561,13 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "s (exact)"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (exact)"
           }
         },
@@ -31161,7 +30597,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "s (exact)"
           }
         },
@@ -31199,12 +30635,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "s (exakt)"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "s (exact)"
           }
         },
         "th" : {
@@ -31334,7 +30764,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "to"
           }
         },
@@ -31454,7 +30884,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "to"
           }
         },
@@ -31528,12 +30958,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "till"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "to"
           }
         },
         "th" : {
@@ -31663,7 +31087,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "to"
           }
         },
@@ -31783,7 +31207,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "to"
           }
         },
@@ -31857,12 +31281,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "till"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "to"
           }
         },
         "th" : {
@@ -31992,7 +31410,7 @@
         },
         "en-GB" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Yes"
           }
         },
@@ -32112,7 +31530,7 @@
         },
         "ne" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Yes"
           }
         },
@@ -32186,12 +31604,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ja"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ஆம்"
           }
         },
         "th" : {
