@@ -11,22 +11,10 @@
             "value" : "Default: 153600"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 153600"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 153600"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設值：153600"
+            "value" : "默认: 153600"
           }
         }
       }
@@ -41,22 +29,10 @@
             "value" : "Maximum cache size (KB):"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size (KB):"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size (KB):"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum cache size (KB):"
+            "state" : "translated",
+            "value" : "最大缓存大小(KB)："
           }
         }
       }
@@ -72,19 +48,7 @@
             "value" : "youtube-dl:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "youtube-dl:"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "youtube-dl:"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "youtube-dl:"
@@ -102,22 +66,10 @@
             "value" : "Custom youtube-dl path:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom youtube-dl path:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom youtube-dl path:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自定 youtube-dl 路徑："
+            "value" : "自定义 youtube-dl 路径"
           }
         }
       }
@@ -132,22 +84,10 @@
             "value" : "Default: 153600"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 153600"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 153600"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設值：153600"
+            "value" : "默认: 153600"
           }
         }
       }
@@ -163,19 +103,7 @@
             "value" : "TCP"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "TCP"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "TCP"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "TCP"
@@ -193,22 +121,10 @@
             "value" : "HTTP proxy:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP proxy:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP proxy:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "HTTP 代理："
+            "value" : "HTTP 代理"
           }
         }
       }
@@ -223,22 +139,10 @@
             "value" : "Auto"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "自動"
+            "value" : "自动"
           }
         }
       }
@@ -253,22 +157,10 @@
             "value" : "Enable youtube-dl"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable youtube-dl"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable youtube-dl"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用 youtube-dl"
+            "value" : "启用 youtube-dl"
           }
         }
       }
@@ -283,22 +175,10 @@
             "value" : "Cache buffer size (KB):"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache buffer size (KB):"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache buffer size (KB):"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "快取緩衝區大小（KB）："
+            "value" : "Cache buffer 大小 (KB):"
           }
         }
       }
@@ -313,22 +193,10 @@
             "value" : "User agent:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "User agent:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "User agent:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "使用者代理："
+            "value" : "用户代理:"
           }
         }
       }
@@ -344,19 +212,7 @@
             "value" : "/usr/local/bin"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -374,22 +230,10 @@
             "value" : "Default: 36000"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 36000"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: 36000"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預設值：36000"
+            "value" : "默认: 36000"
           }
         }
       }
@@ -404,22 +248,10 @@
             "value" : "Enable cache"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable cache"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable cache"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用快取"
+            "value" : "启用缓存"
           }
         }
       }
@@ -433,22 +265,10 @@
             "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Format: <key>=<value>[,<key>=<value>[,…]]"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "格式：<key>=<value>[,<key>=<value>[,…]]"
+            "value" : "格式: <key>=<value>[,<key>=<value>[,…]]"
           }
         }
       }
@@ -463,22 +283,10 @@
             "value" : "Transport RTSP stream through:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Transport RTSP stream through:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Transport RTSP stream through:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "傳輸 RTSP 串流時使用："
+            "value" : "传输 RTSP 流时使用:"
           }
         }
       }
@@ -493,22 +301,10 @@
             "value" : "Seconds to prefetch:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Seconds to prefetch:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Seconds to prefetch:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "預先擷取秒數："
+            "value" : "预读取秒数:"
           }
         }
       }
@@ -523,22 +319,10 @@
             "value" : "Cache:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "快取："
+            "value" : "缓存:"
           }
         }
       }
@@ -554,19 +338,7 @@
             "value" : "HTTP"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "HTTP"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "HTTP"
@@ -585,19 +357,7 @@
             "value" : "UDP"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "UDP"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "UDP"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "UDP"
@@ -615,22 +375,10 @@
             "value" : "Requires restarting IINA to take effect."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Requires restarting IINA to take effect."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Requires restarting IINA to take effect."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "必須重新啟動 IINA 來讓設定生效"
+            "value" : "重启 IINA 后生效。"
           }
         }
       }
@@ -646,19 +394,7 @@
             "value" : "/usr/local/bin"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "/usr/local/bin"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "/usr/local/bin"
@@ -677,19 +413,7 @@
             "value" : "http://"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "http://"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "http://"
-          }
-        },
-        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "http://"
@@ -707,22 +431,10 @@
             "value" : "IINA will search youtube-dl in this folder. Restart needed."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA will search youtube-dl in this folder. Restart needed."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "IINA will search youtube-dl in this folder. Restart needed."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "IINA 將在此檔案夾內搜尋 youtube-dl，需要重新啟動"
+            "value" : "IINA 会在此文件夹中搜索 youtube-dl。需要重新启动。"
           }
         }
       }
@@ -737,22 +449,10 @@
             "value" : "Network:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Network:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Network:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "網路："
+            "value" : "网络:"
           }
         }
       }
@@ -767,22 +467,10 @@
             "value" : "Raw options:"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Raw options:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Raw options:"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
             "state" : "translated",
-            "value" : "額外參數："
+            "value" : "额外参数:"
           }
         }
       }
