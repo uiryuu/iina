@@ -5,7 +5,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Clear Recents\"; ObjectID = \"07n-bk-3ma\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Clear Recents"
@@ -16,6 +178,12 @@
             "state" : "translated",
             "value" : "清除最近搜索"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Recents"
+          }
         }
       }
     },
@@ -23,7 +191,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Full path\"; ObjectID = \"AZL-gY-Tob\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Full path"
@@ -34,6 +364,12 @@
             "state" : "translated",
             "value" : "完整路径"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full path"
+          }
         }
       }
     },
@@ -41,7 +377,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Delete…\"; ObjectID = \"CqL-By-26A\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Delete…"
@@ -52,6 +550,12 @@
             "state" : "translated",
             "value" : "删除…"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete…"
+          }
         }
       }
     },
@@ -60,13 +564,181 @@
       "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "0:00:00"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0:00:00"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "0:00:00"
@@ -78,7 +750,169 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"File\"; ObjectID = \"DIC-tR-R2F\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "File"
@@ -89,6 +923,12 @@
             "state" : "translated",
             "value" : "文件"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File"
+          }
         }
       }
     },
@@ -96,7 +936,169 @@
       "comment" : "Class = \"NSWindow\"; title = \"Playback History\"; ObjectID = \"F0z-JX-Cv5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Playback History"
@@ -107,6 +1109,12 @@
             "state" : "translated",
             "value" : "播放历史"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playback History"
+          }
         }
       }
     },
@@ -114,7 +1122,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Show in Finder\"; ObjectID = \"FPK-nx-hvF\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Show in Finder"
@@ -125,6 +1295,12 @@
             "state" : "translated",
             "value" : "在访达中显示"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show in Finder"
+          }
         }
       }
     },
@@ -132,7 +1308,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Search in\"; ObjectID = \"Gx5-gP-rzr\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Search in"
@@ -143,6 +1481,12 @@
             "state" : "translated",
             "value" : "在... 搜索"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in"
+          }
         }
       }
     },
@@ -151,13 +1495,181 @@
       "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Context Menu"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Context Menu"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Context Menu"
@@ -169,7 +1681,169 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Played at\"; ObjectID = \"M7K-6H-OPw\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Played at"
@@ -180,6 +1854,12 @@
             "state" : "translated",
             "value" : "播放时间"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Played at"
+          }
         }
       }
     },
@@ -187,7 +1867,169 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Progress\"; ObjectID = \"MJU-JY-7fx\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Progress"
@@ -198,6 +2040,12 @@
             "state" : "translated",
             "value" : "进度"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress"
+          }
         }
       }
     },
@@ -205,7 +2053,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Play in New Window\"; ObjectID = \"mXt-wb-fgT\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Play in New Window"
@@ -216,6 +2226,12 @@
             "state" : "translated",
             "value" : "在新建窗口中播放"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play in New Window"
+          }
         }
       }
     },
@@ -223,7 +2239,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"No Recent Searches\"; ObjectID = \"ndC-eb-4GZ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No Recent Searches"
@@ -234,6 +2412,12 @@
             "state" : "translated",
             "value" : "无近期搜索记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recent Searches"
+          }
         }
       }
     },
@@ -241,7 +2425,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Play\"; ObjectID = \"oMR-4K-aR2\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Play"
@@ -252,6 +2598,12 @@
             "state" : "translated",
             "value" : "播放"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play"
+          }
         }
       }
     },
@@ -259,7 +2611,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Date\"; ObjectID = \"QBO-JS-dNV\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Date"
@@ -270,6 +2784,12 @@
             "state" : "translated",
             "value" : "日期"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
         }
       }
     },
@@ -278,13 +2798,181 @@
       "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Group Table View Cell"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Table View Cell"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Group Table View Cell"
@@ -296,7 +2984,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Folder\"; ObjectID = \"VH5-en-8FR\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Folder"
@@ -307,6 +3157,12 @@
             "state" : "translated",
             "value" : "目录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Folder"
+          }
         }
       }
     },
@@ -314,7 +3170,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Filename\"; ObjectID = \"Wkp-Vn-JoJ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Filename"
@@ -325,6 +3343,12 @@
             "state" : "translated",
             "value" : "文件名"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filename"
+          }
         }
       }
     },
@@ -332,7 +3356,169 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Group by:\"; ObjectID = \"z6c-c4-dgd\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Group by:"
@@ -343,6 +3529,12 @@
             "state" : "translated",
             "value" : "分组:"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group by:"
+          }
         }
       }
     },
@@ -351,13 +3543,181 @@
       "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "00:00 AM"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00 AM"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "00:00 AM"
@@ -369,7 +3729,169 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Recent Searches\"; ObjectID = \"zhe-yr-CTO\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "sr-SP" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Recent Searches"
@@ -379,6 +3901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最近的搜索"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recent Searches"
           }
         }
       }
