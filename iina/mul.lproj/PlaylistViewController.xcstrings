@@ -3,6 +3,7 @@
   "strings" : {
     "4yj-cg-fli.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"▶︎\"; ObjectID = \"4yj-cg-fli\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -33,6 +34,7 @@
     },
     "6J7-iM-V5h.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"6J7-iM-V5h\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -123,6 +125,7 @@
     },
     "CVl-Xv-m3u.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"…\"; ObjectID = \"CVl-Xv-m3u\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -183,6 +186,7 @@
     },
     "iCm-bC-upL.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"▶︎\"; ObjectID = \"iCm-bC-upL\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -333,6 +337,7 @@
     },
     "v6p-4g-BZw.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"00:00 -> 00:00\"; ObjectID = \"v6p-4g-BZw\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -363,6 +368,7 @@
     },
     "vmJ-Ry-xgK.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Chapter Title\"; ObjectID = \"vmJ-Ry-xgK\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -393,6 +399,7 @@
     },
     "XWP-pU-mZg.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Info\"; ObjectID = \"XWP-pU-mZg\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
@@ -423,6 +430,7 @@
     },
     "zbw-ad-lgl.title" : {
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Label\"; ObjectID = \"zbw-ad-lgl\";",
+      "shouldTranslate" : false,
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
